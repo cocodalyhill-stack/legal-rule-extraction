@@ -1,0 +1,447 @@
+[
+  {
+    "case_name": "Skinner v. State of Oklahoma ex rel. Williamson",
+    "court": "Supreme Court of the United States",
+    "year": 1942,
+    "central_legal_issue": "Whether Oklahoma's Habitual Criminal Sterilization Act violates the Equal Protection Clause of the Fourteenth Amendment by arbitrarily classifying certain habitual criminals for sterilization while exempting others convicted of similar crimes.",
+    "ratio_decidendi": "A state law authorizing sterilization of habitual criminals violates the Equal Protection Clause if it arbitrarily discriminates between offenders who have committed crimes of the same moral turpitude and similar severity, without a rational basis related to the law's purpose. The classification must be scrutinized strictly when it affects fundamental rights such as procreation, and the state cannot draw artificial legal distinctions that result in invidious discrimination among similarly situated individuals.",
+    "supporting_quotation": "\"Sterilization of those who have thrice committed grand larceny with immunity for those who are embezzlers is a clear, pointed, unmistakable discrimination. Oklahoma makes no attempt to say that he who commits larceny by trespass or trick or fraud has biologically inheritable traits which he who commits embezzlement lacks... The equal protection clause would indeed be a formula of empty words if such conspicuously artificial lines could be drawn.\"",
+    "doctrinal_category": "Equal protection",
+    "confidence_level": "high",
+    "confidence_explanation": "The source is a majority opinion from the U.S. Supreme Court explicitly addressing the equal protection violation in the sterilization statute, with detailed reasoning and a clear holding. The concurrence raises due process concerns but does not dispute the equal protection analysis as the basis for reversal.",
+    "rule_status": "applied",
+    "opinion_basis": "The Court applied the Equal Protection Clause of the Fourteenth Amendment to invalidate the statute's discriminatory classification among habitual criminals for sterilization.",
+    "ambiguities": [
+      "The concurrence suggests an alternative due process basis for the decision, indicating some ambiguity about the precise constitutional ground, but the majority opinion clearly rests on equal protection.",
+      "The statute's classification between types of crimes (larceny vs. embezzlement) raises questions about the scope of permissible classifications under equal protection, but the Court found the distinctions arbitrary in this context."
+    ],
+    "source_is_judgment": true,
+    "filename": "2026 - Liebert Intro Course Reader .pdf",
+    "case_label": "Skinner",
+    "source_pages": "3-5",
+    "source_sha256": "ea3bb0d60bb992cfb7c2232acfc037f059a27715968c71f5f47fc07c39bb0c4a",
+    "text_sha256": "deff698f87a09efc2d72b69e72b5dd219e2b7b61a595c13e72f5e3d1186d3146",
+    "model": "openai/gpt-4.1-mini",
+    "review_flags": [
+      "Edited reader excerpt: omitted material may affect ratio identification",
+      "Quotation absent or not an exact source match; mandatory manual review",
+      "Uncertain ratio/opinion: mandatory manual review"
+    ],
+    "usage": {
+      "prompt_tokens": 3219,
+      "completion_tokens": 459,
+      "total_tokens": 3678,
+      "cost": 0.002022,
+      "is_byok": false,
+      "prompt_tokens_details": {
+        "cached_tokens": 0,
+        "cache_write_tokens": 0,
+        "audio_tokens": 0,
+        "video_tokens": 0
+      },
+      "cost_details": {
+        "upstream_inference_cost": 0.002022,
+        "upstream_inference_prompt_cost": 0.0012876,
+        "upstream_inference_completions_cost": 0.0007344
+      },
+      "completion_tokens_details": {
+        "reasoning_tokens": 0,
+        "image_tokens": 0,
+        "audio_tokens": 0
+      }
+    },
+    "quotation_verified": false,
+    "pinpoint_reference": null,
+    "status": "annotated",
+    "manual_review_required": true
+  },
+  {
+    "case_name": "Griswold v. Connecticut",
+    "court": "Supreme Court of the United States",
+    "year": 1965,
+    "central_legal_issue": "Whether a state law criminalizing the use of contraceptives by married couples violates the constitutional right to marital privacy protected by the Due Process Clause of the Fourteenth Amendment and related constitutional guarantees.",
+    "ratio_decidendi": "The Constitution protects a fundamental right of marital privacy that encompasses the use of contraceptives by married couples. This right is derived from the 'penumbras' and 'emanations' of specific guarantees in the Bill of Rights, including the First, Third, Fourth, Fifth, and Ninth Amendments, which create zones of privacy. A state law that broadly prohibits the use of contraceptives intrudes upon this protected zone of privacy and cannot stand if it sweeps unnecessarily broadly and invades protected freedoms without sufficient justification.",
+    "supporting_quotation": "\"The present case, then, concerns a relationship lying within the zone of privacy created by several fundamental constitutional guarantees. And it concerns a law which, in forbidding the use of contraceptives rather than regulating their manufacture or sale, seeks to achieve its goals by means having a maximum destructive impact upon that relationship. Such a law cannot stand in light of the familiar principle, so often applied by this Court, that a ‘governmental purpose to control or prevent activities constitutionally subject to state regulation may not be achieved by means which sweep unnecessarily broadly and thereby invade the area of protected freedoms.’\"",
+    "doctrinal_category": "Privacy and substantive due process",
+    "confidence_level": "high",
+    "confidence_explanation": "The source text is a majority opinion from the U.S. Supreme Court explicitly establishing the constitutional right to marital privacy in the context of contraceptive use, with detailed reasoning and supporting precedents. The ratio is clearly articulated and supported by the majority opinion and concurrences.",
+    "rule_status": "established",
+    "opinion_basis": "The Due Process Clause of the Fourteenth Amendment, interpreted in light of the First, Third, Fourth, Fifth, and Ninth Amendments, creates a constitutional right to marital privacy that protects the use of contraceptives by married couples from state intrusion.",
+    "ambiguities": [
+      "Justice Harlan concurs in the judgment but bases his reasoning on the Due Process Clause alone without reliance on the Bill of Rights penumbras.",
+      "Justices Black and Stewart dissent, rejecting the notion of a constitutional right to privacy not explicitly enumerated in the Constitution and emphasizing judicial restraint and deference to legislative authority."
+    ],
+    "source_is_judgment": true,
+    "filename": "2026 - Liebert Intro Course Reader .pdf",
+    "case_label": "Griswold",
+    "source_pages": "7-13",
+    "source_sha256": "ea3bb0d60bb992cfb7c2232acfc037f059a27715968c71f5f47fc07c39bb0c4a",
+    "text_sha256": "e33f0123286d859551724f5f210333d5560290367dcc1c5337bfa00795867fc4",
+    "model": "openai/gpt-4.1-mini",
+    "review_flags": [
+      "Edited reader excerpt: omitted material may affect ratio identification",
+      "Quotation absent or not an exact source match; mandatory manual review",
+      "Uncertain ratio/opinion: mandatory manual review"
+    ],
+    "usage": {
+      "prompt_tokens": 7178,
+      "completion_tokens": 513,
+      "total_tokens": 7691,
+      "cost": 0.003692,
+      "is_byok": false,
+      "prompt_tokens_details": {
+        "cached_tokens": 0,
+        "cache_write_tokens": 0,
+        "audio_tokens": 0,
+        "video_tokens": 0
+      },
+      "cost_details": {
+        "upstream_inference_cost": 0.003692,
+        "upstream_inference_prompt_cost": 0.0028712,
+        "upstream_inference_completions_cost": 0.0008208
+      },
+      "completion_tokens_details": {
+        "reasoning_tokens": 0,
+        "image_tokens": 0,
+        "audio_tokens": 0
+      }
+    },
+    "quotation_verified": false,
+    "pinpoint_reference": null,
+    "status": "annotated",
+    "manual_review_required": true
+  },
+  {
+    "case_name": "Eisenstadt v. Baird",
+    "court": "Supreme Court of the United States",
+    "year": 1972,
+    "central_legal_issue": "Whether a state law that prohibits distribution of contraceptives to unmarried persons but allows it for married persons violates the Equal Protection Clause of the Fourteenth Amendment.",
+    "ratio_decidendi": "The Court held that the Massachusetts statute's distinction between married and unmarried persons in the distribution of contraceptives lacks a rational basis and violates the Equal Protection Clause. The right to privacy in decisions affecting procreation extends to individuals regardless of marital status, and the state cannot justify prohibiting contraceptive distribution to unmarried persons while permitting it for married persons when the perceived state interest is identical.",
+    "supporting_quotation": "'If under Griswold the distribution of contraceptives to married persons cannot be prohibited, a ban on distribution to unmarried persons would be equally impermissible. It is true that in Griswold the right of privacy in question inhered in the marital relationship. Yet the marital couple is not an independent entity with a mind and heart of its own, but an association of two individuals each with a separate intellectual and emotional makeup. If the right of privacy means anything, it is the right of the individual, married or single, to be free from unwarranted governmental intrusion into matters so fundamentally affecting a person as the decision whether to bear or beget a child.'",
+    "doctrinal_category": "Equal protection",
+    "confidence_level": "high",
+    "confidence_explanation": "The source is a Supreme Court majority opinion explicitly addressing the constitutional issue and providing clear reasoning and holding.",
+    "rule_status": "applied",
+    "opinion_basis": "The Court applied the Equal Protection Clause and the privacy principles established in Griswold v. Connecticut to invalidate the discriminatory state law.",
+    "ambiguities": [
+      "The opinion references privacy rights but grounds the holding primarily on equal protection analysis, which could be seen as overlapping doctrinal categories.",
+      "The dissent argues the case is distinguishable from Griswold, suggesting some debate about the scope of privacy rights versus distribution regulation."
+    ],
+    "source_is_judgment": true,
+    "filename": "2026 - Liebert Intro Course Reader .pdf",
+    "case_label": "Eisenstadt",
+    "source_pages": "15-16",
+    "source_sha256": "ea3bb0d60bb992cfb7c2232acfc037f059a27715968c71f5f47fc07c39bb0c4a",
+    "text_sha256": "09489020a23a589596dc08529b198e0cea2192bf203576a01bf8cc4a1e25a890",
+    "model": "openai/gpt-4.1-mini",
+    "review_flags": [
+      "Edited reader excerpt: omitted material may affect ratio identification",
+      "Quotation absent or not an exact source match; mandatory manual review",
+      "Uncertain ratio/opinion: mandatory manual review"
+    ],
+    "usage": {
+      "prompt_tokens": 2459,
+      "completion_tokens": 422,
+      "total_tokens": 2881,
+      "cost": 0.0016588,
+      "is_byok": false,
+      "prompt_tokens_details": {
+        "cached_tokens": 0,
+        "cache_write_tokens": 0,
+        "audio_tokens": 0,
+        "video_tokens": 0
+      },
+      "cost_details": {
+        "upstream_inference_cost": 0.0016588,
+        "upstream_inference_prompt_cost": 0.0009836,
+        "upstream_inference_completions_cost": 0.0006752
+      },
+      "completion_tokens_details": {
+        "reasoning_tokens": 0,
+        "image_tokens": 0,
+        "audio_tokens": 0
+      }
+    },
+    "quotation_verified": false,
+    "pinpoint_reference": null,
+    "status": "annotated",
+    "manual_review_required": true
+  },
+  {
+    "case_name": "Roe v. Wade",
+    "court": "Supreme Court of the United States",
+    "year": 1973,
+    "central_legal_issue": "Whether the Texas criminal abortion statutes violate the constitutional right of personal privacy protected by the Due Process Clause of the Fourteenth Amendment.",
+    "ratio_decidendi": "The Court held that the constitutional right of personal privacy encompasses a woman's decision to terminate her pregnancy, but this right is not absolute and must be balanced against the State's interests in protecting maternal health and potential human life. Prior to the end of the first trimester, the abortion decision must be left to the medical judgment of the pregnant woman's physician without state interference. After the first trimester, the State may regulate abortion procedures in ways reasonably related to maternal health. After viability, the State may regulate or prohibit abortions except when necessary to preserve the life or health of the mother. The Texas statute, which only permits abortion to save the mother's life without regard to pregnancy stage, is unconstitutional as it is overly broad and does not account for these interests.",
+    "supporting_quotation": "\"We, therefore, conclude that the right of personal privacy includes the abortion decision, but that this right is not unqualified and must be considered against important state interests in regulation... For the stage prior to approximately the end of the first trimester, the abortion decision and its effectuation must be left to the medical judgment of the pregnant woman's attending physician... For the stage subsequent to viability, the State in promoting its interest in the potentiality of human life may, if it chooses, regulate, and even proscribe, abortion except where it is necessary, in appropriate medical judgment, for the preservation of the life or health of the mother.\"",
+    "doctrinal_category": "Privacy and substantive due process",
+    "confidence_level": "high",
+    "confidence_explanation": "The source text is a direct excerpt from the majority opinion of the Supreme Court in Roe v. Wade, clearly stating the constitutional principles and the Court's holding regarding abortion regulation and privacy rights.",
+    "rule_status": "established",
+    "opinion_basis": "The opinion is based on the Fourteenth Amendment's Due Process Clause, the right of privacy recognized in prior cases, and balancing of state interests in maternal health and potential life.",
+    "ambiguities": [],
+    "source_is_judgment": true,
+    "filename": "2026 - Liebert Intro Course Reader .pdf",
+    "case_label": "Roe",
+    "source_pages": "18-31",
+    "source_sha256": "ea3bb0d60bb992cfb7c2232acfc037f059a27715968c71f5f47fc07c39bb0c4a",
+    "text_sha256": "da0ea7eba1dac90b1a9a2ed1b2e0ff59ee0beb5aa6ff7118c199d77d35c9a03a",
+    "model": "openai/gpt-4.1-mini",
+    "review_flags": [
+      "Edited reader excerpt: omitted material may affect ratio identification",
+      "Quotation absent or not an exact source match; mandatory manual review"
+    ],
+    "usage": {
+      "prompt_tokens": 15848,
+      "completion_tokens": 456,
+      "total_tokens": 16304,
+      "cost": 0.0070688,
+      "is_byok": false,
+      "prompt_tokens_details": {
+        "cached_tokens": 0,
+        "cache_write_tokens": 0,
+        "audio_tokens": 0,
+        "video_tokens": 0
+      },
+      "cost_details": {
+        "upstream_inference_cost": 0.0070688,
+        "upstream_inference_prompt_cost": 0.0063392,
+        "upstream_inference_completions_cost": 0.0007296
+      },
+      "completion_tokens_details": {
+        "reasoning_tokens": 0,
+        "image_tokens": 0,
+        "audio_tokens": 0
+      }
+    },
+    "quotation_verified": false,
+    "pinpoint_reference": null,
+    "status": "annotated",
+    "manual_review_required": true
+  },
+  {
+    "case_name": "Planned Parenthood of Southeastern Pennsylvania v. Casey",
+    "court": "Supreme Court of the United States",
+    "year": 1992,
+    "central_legal_issue": "Whether the essential holding of Roe v. Wade, recognizing a woman's constitutional right to choose to have an abortion before viability without undue interference from the State, should be reaffirmed, modified, or overruled, and what standard should govern state abortion regulations.",
+    "ratio_decidendi": "The Court reaffirmed the essential holding of Roe v. Wade that a woman has a constitutional right under the Due Process Clause of the Fourteenth Amendment to choose to have an abortion before fetal viability without undue interference from the State. The State may regulate abortions after viability, provided exceptions exist to protect the woman's life or health. The Court rejected Roe's rigid trimester framework and instead adopted the 'undue burden' standard, holding that a state abortion regulation is invalid if it has the purpose or effect of placing a substantial obstacle in the path of a woman seeking a previability abortion. States may enact regulations to ensure informed and thoughtful choice and to protect maternal health, so long as such regulations do not impose an undue burden on the abortion right.",
+    "supporting_quotation": "\"A finding of an undue burden is a shorthand for the conclusion that a state regulation has the purpose or effect of placing a substantial obstacle in the path of a woman seeking an abortion of a nonviable fetus. A statute with this purpose is invalid because the means chosen by the State to further the interest in potential life must be calculated to inform the woman's free choice, not hinder it.\"",
+    "doctrinal_category": "Abortion regulation and constitutional standards",
+    "confidence_level": "high",
+    "confidence_explanation": "The source text is a majority opinion of the U.S. Supreme Court explicitly reaffirming Roe's essential holding, rejecting the trimester framework, and adopting the undue burden standard as the governing test for abortion regulations. The quoted passages and detailed reasoning clearly establish the principal legal rule necessary to the decision.",
+    "rule_status": "modified",
+    "opinion_basis": "The Court based its decision on substantive due process under the Fourteenth Amendment's Due Process Clause, principles of stare decisis, and balancing of the woman's liberty interest with the State's interest in potential life.",
+    "ambiguities": [
+      "The opinion contains multiple concurring and dissenting opinions with differing views on the validity of Roe and the appropriate standard, but the majority's holding is clear.",
+      "The exact scope and application of the undue burden standard may vary in future cases, as the Court provides a general framework rather than a precise rule.",
+      "The opinion modifies Roe's trimester framework but retains Roe's core holding, which may cause interpretive challenges in applying the new standard."
+    ],
+    "source_is_judgment": true,
+    "filename": "2026 - Liebert Intro Course Reader .pdf",
+    "case_label": "Casey",
+    "source_pages": "33-55",
+    "source_sha256": "ea3bb0d60bb992cfb7c2232acfc037f059a27715968c71f5f47fc07c39bb0c4a",
+    "text_sha256": "786890f0deebe01f0fa9ece4ff3cf84c7da23b86e12dd91f26779b8a29837029",
+    "model": "openai/gpt-4.1-mini",
+    "review_flags": [
+      "Edited reader excerpt: omitted material may affect ratio identification",
+      "Quotation absent or not an exact source match; mandatory manual review",
+      "Uncertain ratio/opinion: mandatory manual review"
+    ],
+    "usage": {
+      "prompt_tokens": 24989,
+      "completion_tokens": 550,
+      "total_tokens": 25539,
+      "cost": 0.0108756,
+      "is_byok": false,
+      "prompt_tokens_details": {
+        "cached_tokens": 0,
+        "cache_write_tokens": 0,
+        "audio_tokens": 0,
+        "video_tokens": 0
+      },
+      "cost_details": {
+        "upstream_inference_cost": 0.0108756,
+        "upstream_inference_prompt_cost": 0.0099956,
+        "upstream_inference_completions_cost": 0.00088
+      },
+      "completion_tokens_details": {
+        "reasoning_tokens": 0,
+        "image_tokens": 0,
+        "audio_tokens": 0
+      }
+    },
+    "quotation_verified": false,
+    "pinpoint_reference": null,
+    "status": "annotated",
+    "manual_review_required": true
+  },
+  {
+    "case_name": "Dobbs v. Jackson Women's Health Organization",
+    "court": "Supreme Court of the United States",
+    "year": 2022,
+    "central_legal_issue": "Whether the Constitution confers a right to obtain an abortion and whether Roe v. Wade and Planned Parenthood v. Casey should be overruled.",
+    "ratio_decidendi": "The Constitution does not confer a right to abortion, as such a right is not deeply rooted in the Nation's history and tradition nor implicit in the concept of ordered liberty under the Fourteenth Amendment's Due Process Clause. Roe and Casey were egregiously wrong in their constitutional analysis, lacked grounding in text, history, or precedent, and imposed unworkable rules. Therefore, Roe and Casey are overruled, and the authority to regulate abortion is returned to the people and their elected representatives. State abortion regulations are subject to rational basis review and may be upheld if rationally related to legitimate state interests such as protecting prenatal life and maternal health.",
+    "supporting_quotation": "\"The Constitution makes no reference to abortion, and no such right is implicitly protected by any constitutional provision, including the one on which the defenders of Roe and Casey now chiefly rely —the Due Process Clause of the Fourteenth Amendment... The right to abortion does not fall within this category. Until the latter part of the 20th century, such a right was entirely unknown in American law... Stare decisis... does not compel unending adherence to Roe’s abuse of judicial authority. Roe was egregiously wrong from the start. Its reasoning was exceptionally weak, and the decision has had damaging consequences... We therefore hold that the Constitution does not confer a right to abortion. Roe and Casey must be overruled, and the authority to regulate abortion must be returned to the people and their elected representatives.\"",
+    "doctrinal_category": "Abortion regulation and constitutional standards",
+    "confidence_level": "high",
+    "confidence_explanation": "The source text is the majority opinion of the Supreme Court in Dobbs v. Jackson Women's Health Organization, which explicitly states the holding, reasoning, and overruling of Roe and Casey. The detailed legal analysis and historical survey support a high confidence in the annotation.",
+    "rule_status": "modified",
+    "opinion_basis": "The majority opinion grounds its decision on constitutional text, history, precedent, and stare decisis analysis, concluding that the abortion right is not deeply rooted in history and that Roe and Casey were wrongly decided and should be overruled.",
+    "ambiguities": [
+      "The concurrence in judgment would discard the viability line but retain a constitutional right to abortion up to 15 weeks, representing a narrower holding than the majority.",
+      "The dissent argues that Roe and Casey were correctly decided and that overruling them undermines women's liberty and equality rights, and threatens other related precedents, representing a strong opposing legal view."
+    ],
+    "source_is_judgment": true,
+    "filename": "2026 - Liebert Intro Course Reader .pdf",
+    "case_label": "Dobbs",
+    "source_pages": "57-96",
+    "source_sha256": "ea3bb0d60bb992cfb7c2232acfc037f059a27715968c71f5f47fc07c39bb0c4a",
+    "text_sha256": "370ea57b36232ecb62288c0dfc364ba2aeeafcb4418957a6318702f033b47cd0",
+    "model": "openai/gpt-4.1-mini",
+    "review_flags": [
+      "Edited reader excerpt: omitted material may affect ratio identification",
+      "Quotation absent or not an exact source match; mandatory manual review",
+      "Uncertain ratio/opinion: mandatory manual review"
+    ],
+    "usage": {
+      "prompt_tokens": 43065,
+      "completion_tokens": 571,
+      "total_tokens": 43636,
+      "cost": 0.0181396,
+      "is_byok": false,
+      "prompt_tokens_details": {
+        "cached_tokens": 0,
+        "cache_write_tokens": 0,
+        "audio_tokens": 0,
+        "video_tokens": 0
+      },
+      "cost_details": {
+        "upstream_inference_cost": 0.0181396,
+        "upstream_inference_prompt_cost": 0.017226,
+        "upstream_inference_completions_cost": 0.0009136
+      },
+      "completion_tokens_details": {
+        "reasoning_tokens": 0,
+        "image_tokens": 0,
+        "audio_tokens": 0
+      }
+    },
+    "quotation_verified": false,
+    "pinpoint_reference": null,
+    "status": "annotated",
+    "manual_review_required": true
+  },
+  {
+    "case_name": "Valley Hosp. Ass'n, Inc. v. Mat-Su Coalition for Choice",
+    "court": "Supreme Court of Alaska",
+    "year": 1997,
+    "central_legal_issue": "Whether a quasi-public hospital's policy restricting abortions violates the right to privacy and reproductive autonomy under Article I, section 22 of the Alaska Constitution.",
+    "ratio_decidendi": "Article I, section 22 of the Alaska Constitution protects fundamental reproductive rights, including the right to abortion, which may only be restricted by a compelling state interest and by the least restrictive means. A hospital that is quasi-public, due to its public funding, monopoly status, and governance structure, is subject to the Alaska Constitution. The hospital's abortion policy, based solely on moral objections and not justified by a compelling state interest, unlawfully infringes on the constitutional right to abortion and is therefore unconstitutional.",
+    "supporting_quotation": "\"We are of the view that reproductive rights are fundamental, and that they are encompassed within the right to privacy expressed in article I, section 22 of the Alaska Constitution. These rights may be legally constrained only when the constraints are justified by a compelling state interest, and no less restrictive means could advance that interest. These fundamental reproductive rights include the right to an abortion.\"",
+    "doctrinal_category": "Abortion regulation and constitutional standards",
+    "confidence_level": "high",
+    "confidence_explanation": "The source is a detailed majority opinion from the Supreme Court of Alaska explicitly addressing the constitutional scope of abortion rights under the Alaska Constitution and the applicability to a quasi-public hospital's policy. The reasoning and holdings are clearly stated and supported by citations to precedent and constitutional text.",
+    "rule_status": "applied",
+    "opinion_basis": "Majority opinion of the Supreme Court of Alaska",
+    "ambiguities": [
+      "The opinion distinguishes Alaska constitutional protections from federal constitutional standards, rejecting the narrower federal undue burden test in favor of a compelling state interest test, which may cause some ambiguity in the precise scope of permissible abortion regulation under Alaska law versus federal law."
+    ],
+    "source_is_judgment": true,
+    "filename": "2026 - Liebert Intro Course Reader .pdf",
+    "case_label": "Valley Hospital",
+    "source_pages": "98-103",
+    "source_sha256": "ea3bb0d60bb992cfb7c2232acfc037f059a27715968c71f5f47fc07c39bb0c4a",
+    "text_sha256": "78411643bf2a56c26203470cc8eef49615ec7138adf56cd4f9ff672c8087350d",
+    "model": "openai/gpt-4.1-mini",
+    "review_flags": [
+      "Edited reader excerpt: omitted material may affect ratio identification",
+      "Quotation absent or not an exact source match; mandatory manual review",
+      "Uncertain ratio/opinion: mandatory manual review"
+    ],
+    "usage": {
+      "prompt_tokens": 5907,
+      "completion_tokens": 409,
+      "total_tokens": 6316,
+      "cost": 0.0030172,
+      "is_byok": false,
+      "prompt_tokens_details": {
+        "cached_tokens": 0,
+        "cache_write_tokens": 0,
+        "audio_tokens": 0,
+        "video_tokens": 0
+      },
+      "cost_details": {
+        "upstream_inference_cost": 0.0030172,
+        "upstream_inference_prompt_cost": 0.0023628,
+        "upstream_inference_completions_cost": 0.0006544
+      },
+      "completion_tokens_details": {
+        "reasoning_tokens": 0,
+        "image_tokens": 0,
+        "audio_tokens": 0
+      }
+    },
+    "quotation_verified": false,
+    "pinpoint_reference": null,
+    "status": "annotated",
+    "manual_review_required": true
+  },
+  {
+    "case_name": "Hodes & Nauser, MDs, P.A. v. Schmidt",
+    "court": "Supreme Court of Kansas",
+    "year": 2019,
+    "central_legal_issue": "Whether section 1 of the Kansas Constitution Bill of Rights protects a woman's fundamental right to make decisions about her body, including the decision whether to continue her pregnancy, and whether Senate Bill 95, which restricts a common abortion procedure, violates that right.",
+    "ratio_decidendi": "Section 1 of the Kansas Constitution Bill of Rights recognizes broad, inalienable natural rights, including personal autonomy, bodily integrity, and self-determination, which encompass a woman's right to decide whether to continue a pregnancy. This right is fundamental and any state restriction must satisfy strict scrutiny, meaning the State must show a compelling interest and that the law is narrowly tailored to that interest. Senate Bill 95, which severely limits access to the safest second-trimester abortion procedure without sufficient justification, likely violates this constitutional right and thus the trial court properly enjoined its enforcement pending full merits review.",
+    "supporting_quotation": "Section 1 of the Kansas Constitution Bill of Rights acknowledges rights that are distinct from and broader than the United States Constitution and that our framers intended these rights to be judicially protected against governmental action that does not meet constitutional standards. Among the rights is the right of personal autonomy, which includes the ability to control one's own body, to assert bodily integrity, and to exercise self-determination. This right allows a woman to make her own decisions regarding her body, health, family formation, and family life—decisions that can include whether to continue a pregnancy. Although not absolute, this right is fundamental. Accordingly, the State is prohibited from restricting this right unless it is doing so to further a compelling government interest and in a way that is narrowly tailored to that interest.",
+    "doctrinal_category": "State constitutional rights",
+    "confidence_level": "high",
+    "confidence_explanation": "The opinion provides detailed textual, historical, and philosophical analysis of the Kansas Constitution's section 1, comparing it to the U.S. Constitution, and explicitly holds that the Kansas Constitution protects a fundamental right of personal autonomy including abortion decisions. The court applies strict scrutiny and finds the challenged statute likely unconstitutional, affirming the injunction. The reasoning is explicit and well supported by majority opinion.",
+    "rule_status": "applied",
+    "opinion_basis": "Majority opinion of the Supreme Court of Kansas",
+    "ambiguities": [
+      "The opinion discusses the relationship between Kansas constitutional rights and U.S. constitutional rights, noting differences and the possibility of broader protections under the state constitution.",
+      "The court rejects the undue burden standard from federal abortion jurisprudence in favor of strict scrutiny under the Kansas Constitution, which differs from federal standards.",
+      "The dissenting opinion argues against the majority's interpretation of section 1 and the recognition of a fundamental right to abortion under the Kansas Constitution, emphasizing state sovereignty and legislative authority."
+    ],
+    "source_is_judgment": true,
+    "filename": "2026 - Liebert Intro Course Reader .pdf",
+    "case_label": "Hodes & Nauser",
+    "source_pages": "105-130",
+    "source_sha256": "ea3bb0d60bb992cfb7c2232acfc037f059a27715968c71f5f47fc07c39bb0c4a",
+    "text_sha256": "b1d647bc200d3bea4cfea77cd01393f1bc9dca95633a04e0b36ae45c1c27cca8",
+    "model": "openai/gpt-4.1-mini",
+    "review_flags": [
+      "Edited reader excerpt: omitted material may affect ratio identification",
+      "Quotation absent or not an exact source match; mandatory manual review",
+      "Uncertain ratio/opinion: mandatory manual review"
+    ],
+    "usage": {
+      "prompt_tokens": 28366,
+      "completion_tokens": 592,
+      "total_tokens": 28958,
+      "cost": 0.0122936,
+      "is_byok": false,
+      "prompt_tokens_details": {
+        "cached_tokens": 0,
+        "cache_write_tokens": 0,
+        "audio_tokens": 0,
+        "video_tokens": 0
+      },
+      "cost_details": {
+        "upstream_inference_cost": 0.0122936,
+        "upstream_inference_prompt_cost": 0.0113464,
+        "upstream_inference_completions_cost": 0.0009472
+      },
+      "completion_tokens_details": {
+        "reasoning_tokens": 0,
+        "image_tokens": 0,
+        "audio_tokens": 0
+      }
+    },
+    "quotation_verified": false,
+    "pinpoint_reference": null,
+    "status": "annotated",
+    "manual_review_required": true
+  }
+]

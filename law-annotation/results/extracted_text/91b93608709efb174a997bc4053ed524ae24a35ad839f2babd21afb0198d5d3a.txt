@@ -1,0 +1,2052 @@
+[PDF PAGE 33]
+For Educational Use Only 
+Planned Parenthood of Southeastern Pennsylvania v. Casey, 505 U.S. 833 (1992) 
+112 S.Ct. 2791, 120 L.Ed.2d 674, 60 USLW 4795 
+ © 2023 Thomson Reuters. No claim to original U.S. Government Works. 1 
+11
+2 S.Ct. 2791 
+Supreme Court of the United States 
+PLANNED PARENTHOOD OF SOUTHEASTERN 
+PENNSYLV ANIA, et al., Petitioners, 
+v. 
+Robert P. CASEY , et al., etc. 
+Robert P. CASEY , et al., etc., Petitioners, 
+v. 
+PLANNED PARENTHOOD OF SOUTHEASTERN 
+PENNSYLV ANIA et al. 
+Nos. 91–744, 91–902. 
+| 
+Argued April 22, 1992. 
+| 
+Decided June 29, 1992. 
+O'CONNOR, KENNEDY, and SOUTER, JJ., 
+announced the judgment of the Court and delivered the 
+opinion of the Court with respect to Parts I, II, III, V–A, 
+V–C, and VI, in which BLACKMUN and STEVENS, 
+JJ., joined, an opinion with respect to Part V–E, in which 
+STEVENS, J., joined, and an opinion with respect to 
+Parts IV , V–B, and V–D. STEVENS, J., filed an opinion 
+concurring in part and dissenting in part. BLACKMUN, 
+J., filed an opinion concurring in part, concurring in the 
+judgment in part, and dissenting in part. REHNQUIST, 
+C.J., filed an opinion concurring in the judgment in part
+and dissenting in part, in which *842 WHITE, SCALIA,
+and THOM
+AS, JJ., joined. SCALIA, J., filed an opinion
+concurring in the judgment in part and dissenting in part,
+in which REHNQUIST, **2803 C.J., and WHITE and
+THOM
+AS, JJ., joined.
+Opinion 
+*843 Justice O'CONNOR, Justice KENNEDY, and
+Justice SOUTER announced the judgment of the Court
+and delivered the opinion of the Court with respect t o
+Par ts I, II, III, V–A, *844 V–C, and VI, an opinion with 
+respect to Part V– E, in which Justice STEVENS joins, 
+and an opinion with respect to Parts IV , V–B, and V–D. 
+I 
+Liberty finds no refuge in a jurisprudence of doubt. Yet 
+19 years after our holding that the Constitution protects 
+a woman's right to terminate her pregnancy in its early 
+stages, Roe v. Wade, 410 U.S. 113 (1973), that definition 
+of liberty is still questioned. Joining the respondents as 
+amicus curiae, the United States, as it has done in five 
+other cases in the last decade, again asks us to overrule 
+Roe.  
+At issue in these cases are five provisions of the 
+Pennsylvania Abortion Control Act of 1982, as amended 
+in 1988 and 1989. The Act requires that a woman 
+seeking an abortion give her informed consent prior to 
+the abortion procedure, and specifies that she b e 
+provided with certain information at least 24 hours 
+before the abortion is performed. For a minor to obtain 
+an abortion, the Act requires the informed consent of one 
+of her parents, but provides for a judicial bypass option 
+if the minor does not wish to or cannot obtain a parent's 
+consent. § 3206. Another provision of the Act requires 
+that, unless certain exceptions apply, a married woman 
+seeking an abortion must sign a statement indicating that 
+she has notified her husband of her intended abortion. 
+The Act exempts compliance with these three 
+requirements in the event of a “medical emergency,” 
+which is defined in § 3203 of the Act. In addition to the 
+above provisions regulating the performance of 
+abortions, the Act imposes certain reporting 
+requirements on facilities that provide abortion services. 
+*845 Before any of these provisions took effect, the
+petitioners, who are five abortion clinics and one
+phys
+ician representing himself as well as a class of
+physicians who provide abortion services, brought this
+suit seeking declaratory and injunctive relief. Each
+provision was challenged as unconstitutional on its face.
+Course Reader Page 33
+
+[PDF PAGE 34]
+For Educational Use Only  
+Planned Parenthood of Southeastern Pennsylvania v. Casey, 505 U.S. 833 (1992)  
+112 S.Ct. 2791, 120 L.Ed.2d 674, 60 USLW 4795 
+  
+ © 2023 Thomson Reuters. No claim to original U.S. Government Works. 2 
+The District Court entered a preliminary injunction 
+against the enforcement of the regulations, and, after a 
+3–day bench trial, held all the provisions at issue here 
+unconstitutional, entering a permanent injunction 
+against Pennsylvania's enforcement of them. The Court 
+of Appeals for the Third Circuit affirmed in part and 
+reversed in part, upholding all of the regulations except 
+for the husband notification requirement. We granted 
+certiorari.  
+  
+ [W]e acknowledge that our decisions after Roe cast 
+doubt upon the meaning and reach of its holding. 
+Further, THE CHIEF JUSTICE admits that he would 
+overrule the central **2804 holding of Roe and adopt the 
+rational relationship test as the sole criterion of 
+constitutionality. State and federal courts as well as 
+legislatures throughout the Union must have guidance as 
+they seek to address this subject in conformance with the 
+Constitution. Given these premises, we find it 
+imperative to review once more the pri nciples that 
+define the rights of the woman and the legitimate 
+authority of the State respecting the termination of 
+pregnancies by abortion procedures. 
+  
+After considering the fundamental constitutional 
+questions resolved by Roe, principles of institutional 
+integrity, *846 and the rule of stare decisis, we are led to 
+conclude this: the essential holding of Roe v. Wade  
+should be retained and once again reaffirmed. 
+  
+It must be stated at the outset and with clarity that Roe's 
+essential holding, the holding we reaffirm, has three 
+parts. First is a recognition of the right of the woman to 
+choose to have an abortion before viability and to obtain 
+it without undue interference from the State. Before 
+viability, the State's intere sts are not strong enough to 
+support a prohibition of abortion or the imposition of a 
+substantial obstacle to the woman's effective right to 
+elect the procedure. Second is a confirmation of the 
+State's power to restrict abortions after fetal viability, if 
+the law contains exceptions for pregnancies which 
+endanger the woman's life or health. And third is the 
+principle that the State has legitimate interests from the 
+outset of the pregnancy in protectin g the health of the 
+woman and the life of the fetus that may become a child. 
+These principles do not contradict one another; and we 
+adhere to each. 
+II 
+Constitutional protection of the woman's decision to 
+terminate her pregnancy derives from the Due Process 
+Clause of the Fourteenth Amendment. It declares that no 
+State shall “deprive any person of life, liberty, or 
+property, without due process of law.” Th e controlling 
+word in the cases before us is “liberty.” Although a literal 
+reading of the Clause might suggest that it governs only 
+the procedures by which a State may deprive persons of 
+liberty, for at least 105 years, since Mugler v. Kansas, 
+123 U.S. 623 , 660 –661 (1887), the Clause has been 
+understood to contain a substantive component as well, 
+one “barring certain government actions regardless of 
+the fairness of the procedures used to implement them.” 
+Daniels v. Williams, 474 U.S. 327, 331 (1986).  
+  
+The most familiar of the substantive liberties protected 
+by the Fourteenth Amendment are those recognized by 
+the Bill of Rights. We have held that the Due Process 
+Clause of the Fourteenth Amendment incorporates most 
+of the Bill of Rights against the States. It is tempting, as 
+a means of curbing the discretion of federal judges, to 
+suppose that liberty **2805 encompasses no more than 
+those rights already guaranteed to the individual against 
+federal interference by the express provisions of the first 
+eight Amendments to the Constitution. But of course this 
+Court has never accepted that view. 
+  
+It is also tempting, for the same reason, to suppose that 
+the Due Process Clause protects only those practices, 
+defined at the most specific level, that were protected 
+against government interference by other rules of law 
+when the Fourteenth Amendment was ratified. But such 
+a view would be inconsistent with our law. It is a promise 
+of the Constitution that there is a realm of personal 
+liberty which the government may not enter. We have 
+vindicated this principle before. Marriage is mentioned 
+nowhere in the B ill of Rights and interracial marriage 
+Course Reader Page 34
+
+[PDF PAGE 35]
+For Educational Use Only 
+Planned Parenthood of Southeastern Pennsylvania v. Casey, 505 U.S. 833 (1992) 
+112 S.Ct. 2791, 120 L.Ed.2d 674, 60 USLW 4795 
+ © 2023 Thomson Reuters. No claim to original U.S. Government Works. 3 
+was illegal *848 in most States in the 19th century, but 
+the Court was no doubt correct in finding it to be an 
+aspect of liberty protected against state interference by 
+the substantive component of the Due Process Clause in 
+Loving v. Virginia, 388 U.S. 1, 12 (1967) (relying, in an 
+opinion for eight Justices, on the Due Process Clause). 
+Similar examples may be found in Turner v. Safley, 482 
+U.S. 78, 94–99 (1987); in Carey v. Population Services 
+International, 431 U.S. 678, 684 –686 (1977); in 
+Griswold v. Connecticut, 381 U.S. 479, 481–482 (1965), 
+as well as in the separate opinions of a majority of the 
+Members of the Court in that case, id., at 486– 488 
+(Goldberg, J., joined by Warren, C.J., and Brennan, J., 
+concurring) (expressly relying on due process), id., at 
+500–502 (Harlan, J., concurring in judgment) (same), 
+id., at 502– 507 (WHITE, J., concurring in judgment) 
+(same); in Pierce v. Society of Sisters, 268 U.S. 510, 
+534–535 (1925); and in Meyer v. Nebraska,  262 U.S. 
+390, 399–403 (1923). 
+Neither the Bill of Rights nor the specific practices of 
+States at the time of the adoption of the Fourteenth 
+Amendment marks the outer limits of the substantive 
+sphere of liberty which the Fourteenth Amendment 
+protects. See U.S. Const., Amdt. 9. 
+The inescapable fact is that adjudication of substantive 
+due process claims may call upon the Court in 
+interpreting the Constitution to exercise that same 
+capacity which by tradition courts always have 
+exercised: reasoned judgment. Its boundaries are not 
+susceptible of expression as a simple rule. That does not 
+mean we are free to invalidate state policy choices with 
+which we disagree; yet neither does it permit us to shrink 
+from the duties of our office. As Justice Harlan 
+observed: 
+“Due process has not been reduced to any formula; its 
+content cannot be determined by reference to any 
+code. *850 The best that can be said is that through the 
+course of this Court's decisions it has represented the 
+balance which our Nation, built upon postulates of 
+respect for the liberty of the individual, has struck 
+between that liberty and the demands of organized 
+society. If the supplying of content to this 
+Constitutional concept has of necessity been a rational 
+process, it certainly has not been one where judges 
+have felt free to roam where unguided speculation 
+might take them. The balance of which I speak is the 
+balance struck by this country, having regard to what 
+history teaches are the traditions from which it 
+developed as well as the traditions from which it 
+broke. That tradition is a living thing. A decision of 
+this Court which radically departs from it could not 
+long survive, while a decision which builds on what 
+has survived is likely to be sound. No formula could 
+serve as a substitute, in this area, for judgment and 
+restraint.” Poe v. Ullman, 367 U.S., at 542 (opinion 
+dissenting from dismissal on jurisdictional grounds). 
+See also Rochin v. California, supra, 342 U.S., at 171–
+172 (Frankfurter, J., writing for the Court) (“To believe 
+that this judicial exercise of judgment could be avoided 
+by freezing ‘due process of law’ at some fixed stage of 
+time or thought is to suggest that the most important 
+aspect of constitutional adjudication is a function for 
+inanimate machines and not for judges”). 
+Men and women of good conscience can disagree, and 
+we suppose some always shall disagree, about the 
+profound moral and spiritual implications of terminating 
+a pregnancy, even in its earliest stage. Some of us as 
+individuals find abortion offensive to our m ost basic 
+principles of morality, but that cannot control our 
+decision. Our obligation is to define the liberty of all, not 
+to mandate our own moral code. The underlying 
+constitutional issue is whether the State can resolve 
+these philosophic questions in such a definitive way that 
+a woman lacks all choice in the matter, except perhaps 
+*851 in those rare circumstances in which the pregnancy
+is itself a danger to her own life or health, or is the result
+of
+ rape or incest.
+Our law affords constitutional protection to personal 
+decisions relating to marriage, procreation, 
+contraception, family relationships, child rearing, and 
+education. Carey v. Population Services International,  
+431 U.S., at 685. Our cases recognize “the right of the 
+Course Reader Page 35
+
+[PDF PAGE 36]
+For Educational Use Only  
+Planned Parenthood of Southeastern Pennsylvania v. Casey, 505 U.S. 833 (1992)  
+112 S.Ct. 2791, 120 L.Ed.2d 674, 60 USLW 4795 
+  
+ © 2023 Thomson Reuters. No claim to original U.S. Government Works. 4 
+individual, married or single, to be free from 
+unwarranted governmental intrusion into matters so 
+fundamentally affecting a person as the decision whether 
+to bear or beget a child.” Eisenstadt v. Baird, supra, 405 
+U.S., at 453 (emphasis in original). Our precedents 
+“have respected the private realm of family life which 
+the state cannot enter.” Prince v. Massachusetts,  321 
+U.S. 158, 166 (1944). These matters, involving the most 
+intimate and personal choices a person may make in a 
+lifetime, choices central to  personal dignity and 
+autonomy, are central to the liberty protected by the 
+Fourteenth Amendment. At the heart of liberty is the 
+right to define one's own concept of existence, of 
+meaning, of the universe, and of the mystery of human 
+life. Beliefs about th ese matters could not define the 
+attributes of personhood were they formed under 
+compulsion of the State. 
+  
+*852 These considerations begin our analysis of the 
+woman's interest in terminating her pregnancy but 
+cannot end it, for this reason: though the abortion 
+decision may originate within the zone of conscience 
+and belief, it is more than a philosophic exercise. 
+Abortion is a unique act. It is an act fraught with 
+consequences for others: for the woman who must live 
+with the implications of her decision; for the persons 
+who perform and assist in the procedure; for the spouse, 
+family, and society which must confront the knowledge 
+that these procedures exist, procedures some deem 
+nothing short of an act of violence against innocent 
+human life; and, depending on one's beliefs, for the life 
+or potential life that is aborted. Though abortion is 
+conduct, it does not fo llow that the State is entitled to 
+proscribe it in all instances. That is because the liberty 
+of the woman is at stake in a sense unique to the human 
+condition and so unique to the law. The mother who 
+carries a child to full term is subject to anxieties, t o 
+physical constraints, to pain that only she must bear. 
+That these sacrifices have from the beginning of the 
+human race been endured by woman with a pride that 
+ennobles her in the eyes of others and gives to the infant 
+a bond of love cannot alone be groun ds for the State to 
+insist she make the sacrifice. Her suffering is too 
+intimate and personal for the State to insist, without 
+more, upon its own vision of the woman's role, however 
+dominant that vision has been in the course of our 
+history and our culture. The destiny of the woman must 
+be shaped to a large extent on her own conception of her 
+spiritual imperatives and her place in society. 
+  
+It should be recognized, moreover, that in some critical 
+respects the abortion decision is of the same character as 
+the decision to use contraception, to which Griswold v. 
+Connecticut, Eisenstadt v. Baird,  and Carey v. 
+Population Services International  afford constitutional 
+protection. We have no doubt as to the correctness of 
+those decisions. They support *853 the reasoning in Roe 
+relating to the woman's liberty because they involve 
+personal decisions concerning not only the meaning of 
+procreation but also human responsibility and respect for 
+it. As with abortion, reasonable people will have 
+differences of opinion about these matters. One view is 
+based on such reverence for the wonder of **2808 
+creation that any pregnancy ought to be welcomed and 
+carried to full term no matter how difficult it will be to 
+provide for the child and ensure its well-being. Another 
+is that the inability to provide for the nurture and care of 
+the infant is a cruelty t o the child and an anguish to the 
+parent. These are intimate views with infinite variations, 
+and their deep, personal character underlay our decisions 
+in Griswold, Eisenstadt, and Carey. The same concerns 
+are present when the woman confronts the reality that, 
+perhaps despite her attempts to avoid it, she has become 
+pregnant. 
+  
+It was this dimension of personal liberty that Roe sought 
+to protect, and its holding invoked the reasoning and the 
+tradition of the precedents we have discussed, granting 
+protection to substantive liberties of the person. Roe 
+was, of course, an extension of those cases and, as the 
+decision itself indicated, the separate States could act in 
+some degree to further their own legitimate interests in 
+protecting prenatal life. The extent to which the 
+legislatures of the States might  act to outweigh the 
+interests of the woman in choosing to terminate her 
+pregnancy was a subject of debate both in Roe itself and 
+in decisions following it. 
+  
+Course Reader Page 36
+
+[PDF PAGE 37]
+For Educational Use Only 
+Planned Parenthood of Southeastern Pennsylvania v. Casey, 505 U.S. 833 (1992) 
+112 S.Ct. 2791, 120 L.Ed.2d 674, 60 USLW 4795 
+ © 2023 Thomson Reuters. No claim to original U.S. Government Works. 5 
+While we appreciate the weight of the arguments made 
+on behalf of the State in the cases before us, arguments 
+which in their ultimate formulation conclude that Roe 
+should be overruled, the reservations any of us may have 
+in reaffirming the central holding of Roe are outweighed 
+by the explication of individual liberty we have given 
+combined with the force of stare decisis. We turn now to 
+that doctrine. 
+*854 III
+A
+The obligation to follow precedent begins with 
+necessity, and a contrary necessity marks its outer limit. 
+With Cardozo, we recognize that no judicial system 
+could do society's work if it eyed each issue afresh in 
+every case that raised it. See B. Cardozo, The Nature of 
+the Judicial Process 149 (1921). Indeed, the very 
+concept of the rule of law underlying our own 
+Constitution requires such continuity over time that a 
+respect for precedent is, by definition, indispensable. At 
+the other extreme, a different n ecessity would make 
+itself felt if a prior judicial ruling should come to be seen 
+so clearly as error that its enforcement was for that very 
+reason doomed. 
+Even when the decision to overrule a prior case is not, 
+as in the rare, latter instance, virtually foreordained, it is 
+common wisdom that the rule of stare decisis is not an 
+“inexorable command,” and certainly it is not such in 
+every constitutional case . Rather, when this Court 
+reexamines a prior holding, its judgment is customarily 
+informed by a series of prudential and pragmatic 
+considerations designed to test the consistency of 
+overruling a prior decision with the ideal of the rule of 
+law, and to gauge the respective costs of reaffirming and 
+overruling a prior case.  
+So in this case we may enquire whether Roe's central 
+rule has been found unworkable; whether the rule's 
+limitation on state power could be removed without 
+serious inequity to those who have relied upon it or 
+significant damage to the stability of the society 
+governed by it; whether the law's growth in the 
+intervening years has left Roe's central rule a doctrinal 
+anachronism discounted by society; and whether Roe's 
+premises of fact have so far changed in the ensuing two 
+decades as to render its central holding somehow 
+irrelevant or unjustifiable in dealing with the issue it 
+addressed. 
+1 
+Although Roe has engendered opposition, it has in no 
+sense proven “unworkable,” representing as it does a 
+simple limitation beyond which a state law is 
+unenforceable. While Roe has, of course, required 
+judicial assessment of state laws affecting the exercise 
+of the choice guaranteed against government 
+infringement, and although the need for such review will 
+remain as a consequence of today's decision, the 
+required determinations fall within judicial competence. 
+2 
+The inquiry into reliance counts the cost of a rule's 
+repudiation as it would fall on those who have relied 
+reasonably on the rule's continued application.  
+Abortion is customarily chosen as an unplanned 
+response to the consequence of unplanned activity or to 
+the failure of conventional birth control, and except on 
+the assumption that no intercourse would have occurred 
+but for Roe 's holding, such behavior may appear to 
+justify no reliance claim. Even if reliance could be 
+claimed on that unrealistic assumption, the argument 
+might run, any reliance interest would be de minimis. 
+This argument would be premised on the hypothesis that 
+reproductive planning could take virtually immediate 
+account of any sudden restoration of state authority to 
+ban abortions. 
+To eliminate the issue of reliance that easily, however, 
+one would need to limit cognizable reliance to specific 
+instances of sexual activity. But to do this would be 
+Course Reader Page 37
+
+[PDF PAGE 38]
+For Educational Use Only  
+Planned Parenthood of Southeastern Pennsylvania v. Casey, 505 U.S. 833 (1992)  
+112 S.Ct. 2791, 120 L.Ed.2d 674, 60 USLW 4795 
+  
+ © 2023 Thomson Reuters. No claim to original U.S. Government Works. 6 
+simply to refuse to face the fact that for two decades of 
+economic and social developments, people have 
+organized intimate relationships and made choices that 
+define their views of themselves and their places in 
+society, in reliance on the availability of abortion in the 
+event that contraception should fail. The ability of 
+women to participate equally in the economic and social 
+life of the Nation has been facilitated by their ability to 
+control their reproductive lives. The Constitution serves 
+human values, and while the effect of reliance on Roe 
+cannot be exactly measured, neither can the certain cost 
+of overruling Roe for people who have ordered their 
+thinking and living around that case be dismissed. 
+  
+**2810 *857 3 
+No evolution of legal principle has left Roe 's doctrinal 
+footings weaker than they were in 1973. No 
+development of constitutional law since the case was 
+decided has implicitly or explicitly left Roe behind as a 
+mere survivor of obsolete constitutional thinking. 
+   
+*860 4 
+We have seen how time has overtaken some of Roe's 
+factual assumptions: advances in maternal health care 
+allow for abortions safe to the mother later in pregnancy 
+than was true in 1973, and advances in neonatal care 
+have advanced viability to a point somewhat earlier. But 
+these facts go only to the sche me of time limits on the 
+realization of competing interests, and the divergences 
+from the factual premises of 1973 have no bearing on the 
+validity of Roe 's central holding, that viability marks the 
+earliest point at which the State's interest in fetal life is 
+constitutionally adequate to justify a legislative ban on 
+nontherapeutic abortions . The soundness or 
+unsoundness of that constitutional judgment in no sense 
+turns on whether viability occurs at approximately 28 
+weeks, as was usual at the time of Roe, at 23 to 24 weeks, 
+as it sometimes does today, or at some moment even 
+slightly earlier in pregnancy, as it may if fetal respiratory 
+capacity can somehow be enhanced in the future. 
+Whenever it may occur, the attainment of viability may 
+continue to serve as the critical fact, just as it has done 
+since Roe was **2812 decided; which is to say that no 
+change in Roe 's factual underpinning has left its central 
+holding obsolete, and none supports an argument for 
+overruling it. 
+5 
+The sum of the precedential enquiry to this point shows 
+Roe's underpinnings unweakened in any way affecting 
+its central holding. While it has engendered disapproval, 
+it has not been unworkable. An entire generation has 
+come of age free to assume Roe 's concept of liberty in 
+defining the capacity of women to act in society, and to 
+make reproductive decisions; no erosion of principle 
+going to liberty or personal autonomy has left Roe 's 
+central holding a doctrinal remnant; *861 Roe portends 
+no developments at odds with other precedent for the 
+analysis of personal liberty; and no changes of fact have 
+rendered viability more or less appropriate as the point 
+at which the balance of interests tips. Within the bounds 
+of normal stare decisis analysis, then, and subject to the 
+considerations on which it customarily turns, the 
+stronger argument is for affirming Roe 's central holding, 
+with whatever degree of personal reluctance any of us 
+may have, not for overruling it. 
+B 
+In a less significant case, stare decisis analysis could, 
+and would, stop at the point we have reached. But the 
+sustained and widespread debate Roe has provoked calls 
+for some comparison between that case and others of 
+comparable dimension that have responded to national 
+controversies and taken on the impress of the 
+controversies addressed. Only two such decisional lines 
+from the past century present  themselves for 
+examination, and in each instance the result reached by 
+the Court accorded with the principles we apply today. 
+  
+The first example is that line of cases identified with 
+Lochner v. New York,  198 U.S. 45 (1905), which 
+Course Reader Page 38
+
+[PDF PAGE 39]
+For Educational Use Only 
+Planned Parenthood of Southeastern Pennsylvania v. Casey, 505 U.S. 833 (1992) 
+112 S.Ct. 2791, 120 L.Ed.2d 674, 60 USLW 4795 
+ © 2023 Thomson Reuters. No claim to original U.S. Government Works. 7 
+imposed substantive limitations on legislation limiting 
+economic autonomy in favor of health and welfare 
+regulation, adopting, in Justice Holmes's view, the 
+theory of laissez -faire. Id., at 75 (dissenting opinion). 
+The Lochner decisions were exemplified by Adkins v. 
+Children's Hospital of District of Columbia,  261 U.S. 
+525 (1923), in which this Court held it to be an 
+infringement of constitutionally protected liberty of 
+contract to require the employers of adult women to 
+satisfy minimum wage standards. Fourteen years later, 
+West Coast Hotel Co. v. Parrish,  300 U.S. 379 (1937), 
+signaled the demise of Lochner by overruling Adkins. In 
+the meantime, the Depression had come and, with it, the 
+lesson that seemed unmistakable to most people by 
+1937, that the interpretation of contractual freedom 
+protected in Adkins rested on fundamentally *862 false 
+factual assumptions about the capacity of a relatively 
+unregulated market to satisfy minimal levels of human 
+welfare. See West Coast Hotel Co., supra,  at 399. As 
+Justice Jackson wrote of the constitutional crisis of 1937 
+shortly before he came on the bench: “The older world 
+of laissez-faire was recognized everywhere outside the 
+Court to be dead.” The facts upon which the earlier case 
+had premised a constitutional resolution of social 
+controversy had proven to be untrue, and history's 
+demonstration of their untruth not only justified but 
+required the new choice of constitutional principle that 
+West Coast Hotel announced. Of course, it was true that 
+the Court lost something by its misperception, or its lack 
+of prescience, and the Court- packing crisis only 
+magnified the loss; but the clear demonstration that the 
+facts of economic life were different from those 
+previously assumed warranted the repudiation of the old 
+law. 
+The second comparison that 20th century history invites 
+is with the cases employing **2813 the separate -but-
+equal rule for applying the Fourteenth Amendment's 
+equal protection guarantee. They began with Plessy v. 
+Ferguson, 163 U.S. 537 (1896), holding that 
+legislatively mandated racial segregation in public 
+transportation works no denial of equal protection, 
+rejecting the argument that racial separation enforced by 
+the legal machinery of American society treats the black 
+race as inferior. The Plessy Court considered “the 
+underlying fallacy of the plaintiff's argument to consist 
+in the assumption that the enforced separation of the two 
+races stamps the colored race with a badge of inferiority. 
+If this be so, it is not by reason of anything found in the 
+act, but solely because the colored race chooses to put 
+that construction upon it.” Whether, as a matter of 
+historical fact, the Justices in the Plessy majority 
+believed this or not,  this understanding of the 
+implication of segregation was the stated justification for 
+the Court's opinion. But this understanding of *863 the 
+facts and the rule it was stated to justify were repudiated 
+in Brown v. Board of Education,  347 U.S. 483 (1954) 
+(Brown I). As one commentator observed, the question 
+before the Court in Brown was “whether discrimination 
+inheres in that segregation which is imposed by law in 
+the twentieth century in certain specific states in the 
+American Union. And that question has meaning and 
+can find an answer only on the ground of history and of 
+common knowledge about the facts of life in the times 
+and places aforesaid.”  
+The Court in Brown addressed these facts of life by 
+observing that whatever may have been the 
+understanding in Plessy's time of the power of 
+segregation to stigmatize those who were segregated 
+with a “badge of inferiority,” it was clear by 1954 that 
+legally sanctioned segregation had just such an effect, to 
+the point that racially separate public educational 
+facilities were deemed inherently unequal. Society's 
+understanding of the facts upon which a constitutional 
+ruling was sought in 1954 was thus fundamentally 
+different from the basis claimed for the decision in 1896. 
+While we think Plessy was wrong the day it was decided, 
+see Plessy, supra, 163 U.S., at 552– 564 (Harlan, J., 
+dissenting), we must also recognize that the Plessy 
+Court's explanation for its decision was so clearly at 
+odds with the facts apparent to the Court in 1954 that the 
+decision to reexamine Plessy was on this ground alone 
+not only justified but required. 
+West Coast Hotel and Brown each rested on facts, or an 
+understanding of facts, changed from those which 
+furnished the claimed justifications for the earlier 
+Course Reader Page 39
+
+[PDF PAGE 40]
+For Educational Use Only  
+Planned Parenthood of Southeastern Pennsylvania v. Casey, 505 U.S. 833 (1992)  
+112 S.Ct. 2791, 120 L.Ed.2d 674, 60 USLW 4795 
+  
+ © 2023 Thomson Reuters. No claim to original U.S. Government Works. 8 
+constitutional resolutions. In constitutional adjudication 
+as elsewhere in life, changed circumstances may impose 
+new obligations, and the thoughtful part of the Nation 
+could accept each decision to overrule a prior case as a 
+response to the Court's constitutional duty. 
+  
+Because the cases before us present no such occasion it 
+could be seen as no such response. Because neither the 
+factual underpinnings of Roe 's central holding nor our 
+understanding of it has changed (and because no other 
+indication of weakened precedent has been shown), the 
+Court could not pretend to be reexamining the prior law 
+with any justification beyond a present doctrinal 
+disposition to  come out differently from the **2814 
+Court of 1973. To overrule prior law for no other reason 
+than that would run counter to the view repeated in our 
+cases, that a decision to overrule should rest on some 
+special reason over and above the belief that a prior case 
+was wrongly decided. See, e.g., Mitchell v. W.T. Grant 
+Co., 416 U.S. 600, 636 (1974) (Stewart, J., dissenting) 
+(“A basic change in the law upon a ground no firmer than 
+a change in our membership invites the popular 
+misconception that this institution is little different from 
+the two political branches of the Gover nment. No 
+misconception could do more lasting injury to this Court 
+and to the system of law which it is our abiding mission 
+to serve”); Mapp v. Ohio,  367 U.S. 643, 677 (1961) 
+(Harlan, J., dissenting). 
+C 
+Our analysis *865 would not be complete, however, 
+without explaining why overruling Roe's central holding 
+would not only reach an unjustifiable result under 
+principles of stare decisis, but would seriously weaken 
+the Court's capacity to exercise the judicial power and to 
+function as the Supreme Court of a Nation dedicated to 
+the rule of law. To understand why this would be so it is 
+necessary to understand the source of this Court's 
+authority, the conditions necessary for its preservation, 
+and its relationsh ip to the country's understanding of 
+itself as a constitutional Republic. 
+  
+The root of American governmental power is revealed 
+most clearly in the instance of the power conferred by 
+the Constitution upon the Judiciary of the United States 
+and specifically upon this Court. As Americans of each 
+succeeding generation are rightly told, the Court cannot 
+buy support for its dec isions by spending money and, 
+except to a minor degree, it cannot independently coerce 
+obedience to its decrees. The Court's power lies, rather, 
+in its legitimacy, a product of substance and perception 
+that shows itself in the people's acceptance of the 
+Judiciary as fit to determine what the Nation's law means 
+and to declare what it demands. 
+  
+The underlying substance of this legitimacy is of course 
+the warrant for the Court's decisions in the Constitution 
+and the lesser sources of legal principle on which the 
+Court draws. That substance is expressed in the Court's 
+opinions, and our contemporary  understanding is such 
+that a decision without principled justification would be 
+no judicial act at all. But even when justification is 
+furnished by apposite legal principle, something more is 
+required. Because not every conscientious claim of 
+principled j ustification will be accepted as such, the 
+justification claimed must be beyond dispute. The Court 
+must take care to speak and act in ways that allow people 
+to accept its decisions on the terms the Court claims for 
+them, as grounded truly in principle, not as compromises 
+with social and political pressures having, as such, no 
+bearing on the principled choices that the Court is *866 
+obliged to make. Thus, the Court's legitimacy depends 
+on making legally principled decisions under 
+circumstances in which their  principled character is 
+sufficiently plausible to be accepted by the Nation. 
+  
+In two circumstances, however, the Court would almost 
+certainly fail to receive the benefit of the doubt in 
+overruling prior cases. There is, first, a point beyond 
+which frequent overruling would overtax the country's 
+belief in the Court's good faith. Desp ite the variety of 
+reasons that may inform and justify a decision to 
+overrule, we cannot forget that such a decision is usually 
+perceived (and perceived correctly) as, at the least, a 
+statement that a prior decision was wrong. There is a 
+limit to the amount of error that can plausibly be imputed 
+Course Reader Page 40
+
+[PDF PAGE 41]
+For Educational Use Only 
+Planned Parenthood of Southeastern Pennsylvania v. Casey, 505 U.S. 833 (1992) 
+112 S.Ct. 2791, 120 L.Ed.2d 674, 60 USLW 4795 
+ © 2023 Thomson Reuters. No claim to original U.S. Government Works. 9 
+to prior Courts. If that limit should be exceeded, 
+disturbance of prior rulings would be taken as evidence 
+that justifiable reexamination of principle had given way 
+to drives for particular results in the short term. The 
+legitimacy of the Court would fade with the frequency 
+of its vacillation. 
+That first circumstance can be described as hypothetical; 
+the second is to the point here and now. Where, in the 
+performance of its judicial duties, the Court decides a 
+case in such a way as to resolve the sort of intensely 
+divisive controversy reflected in Roe and those rare, 
+comparable cases, its *867 decision has a dimension that 
+the resolution of the normal case does not carry. It is the 
+dimension present whenever the Court's interpretation of 
+the Constitution calls the contending sides of a national 
+controversy to end their national division by accepting a 
+common mandate rooted in the Constitution. 
+The Court is not asked to do this very often, having thus 
+addressed the Nation only twice in our lifetime, in the 
+decisions of Brown and Roe. But when the Court does 
+act in this way, its decision requires an equally rare 
+precedential force to counter the inevitable efforts to 
+overturn it and to thwart its implementation. Some of 
+those efforts may be mere unprincipled emotional 
+reactions; others may proceed from principles worthy of 
+profound respect. But whatever the premises of 
+opposition may be, only the most convincing 
+justification under accepted standards of precedent 
+could suffice to demonstrate that a later decision 
+overruling the first was anything but a surrender to 
+political pressure, and an unjustified repudiation of the 
+principle on which the Cour t staked its authority in the 
+first instance. So to overrule under fire in the absence of 
+the most compelling reason to reexamine a watershed 
+decision would subvert the Court's legitimacy beyond 
+any serious question.  
+The country's loss of confidence in the Judiciary would 
+be underscored by an equally certain and equally 
+reasonable condemnation for another failing in 
+overruling unnecessarily and under pressure. Some cost 
+will be paid by anyone who approves or implements  a 
+constitutional decision where it is unpopular, or who 
+refuses to work to undermine the decision or to force its 
+reversal. The price may be criticism or ostracism, or it 
+may be violence. An extra price will be paid by those 
+who themselves disapprove of t he decision's results 
+*868 when viewed outside of constitutional terms, but
+who nevertheless struggle to accept it, because they
+respect the rule of law. To all those who will be so tested
+by following, the Court implicitly undertakes to remai n
+ste
+adfast, lest in the end a price be paid for nothing. The
+pr
+omise of constancy, once given, binds its maker for as
+long as the power to stand by the decision survives and
+the understanding of the issue has not changed so
+fundamentally as to render the commitment ob solete.
+Fr
+om the obligation of this promise this Court cannot
+and should not assume any exemption when dut y
+re
+quires it to decide a case in conformance **2816 with
+the Constitution. A willing breach of it would be nothing
+less than a breach of faith, and no Court that broke its
+fa
+ith with the people could sensibly expect credit fo r
+pr
+inciple in the decision by which it did that.
+It is true that diminished legitimacy may be restored, but 
+only slowly. Unlike the political branches, a Court thus 
+weakened could not seek to regain its position with a 
+new mandate from the voters, and even if the Court 
+could somehow go to the polls, the loss of its principled 
+character could not be retrieved by the casting of so 
+many votes. Like the character of an individual, the 
+legitimacy of the Court must be earned over time. So, 
+indeed, must be the character of a Nation of people who 
+aspire to live according to the rule of law. Their belief in 
+themselves as such a people is not readily separable from 
+their understanding of the Court invested with the 
+authority to decide their constitutional cases and speak 
+before all others for their constitutional ideals. If the 
+Court's legitimacy should be undermined, then, so 
+would the country be in its very ability to see itself 
+through its constitutional ideals. The Court's concern 
+with legitimacy is not for the sake of the Court, but for 
+the sake of the Nation to which it is responsible. 
+A decision to overrule Roe's essential holding under the 
+existing circumstances would address error, if error there 
+Course Reader Page 41
+
+[PDF PAGE 42]
+For Educational Use Only  
+Planned Parenthood of Southeastern Pennsylvania v. Casey, 505 U.S. 833 (1992)  
+112 S.Ct. 2791, 120 L.Ed.2d 674, 60 USLW 4795 
+  
+ © 2023 Thomson Reuters. No claim to original U.S. Government Works. 10 
+was, at the cost of both profound and unnecessary 
+damage to the Court's legitimacy, and to the Nation's 
+commitment to the rule of law. It is therefore imperative 
+to adhere to the essence of Roe's original decision, and 
+we do so today. 
+IV 
+From what we have said so far it follows that it is a 
+constitutional liberty of the woman to have some 
+freedom to terminate her pregnancy. We conclude that 
+the basic decision in Roe was based on a constitutional 
+analysis which we cannot now repudiate. The woman's 
+liberty is not so unlimited, however, that from the outset 
+the State cannot show its concern for the life of the 
+unborn, and at a later point in fetal development the 
+State's interest in life has sufficient force so that the right 
+of the woman to terminate the pregnancy can be 
+restricted. 
+  
+That brings us, of course, to the point where much 
+criticism has been directed at Roe, a criticism that 
+always inheres when the Court draws a specific rule 
+from what in the Constitution is but a general standard. 
+We conclude, however, that the urgent claims of the 
+woman to retain the ultimate control over her destiny 
+and her body, claims implicit in the meaning of liberty, 
+require us to perform that function. Liberty must not be 
+extinguished for want of a line that is clear. And it falls 
+to us to give some real substance to the woman's liberty 
+to determine whether to carry her pregnancy to full term. 
+  
+*870 We conclude the line should be drawn at viability, 
+so that before that time the woman has a right to choose 
+to terminate her pregnancy. We adhere to this principle 
+for two reasons. First, as we have said, is the doctrine of 
+stare decisis. Any judicial act of line-drawing may seem 
+somewhat arbitrary, but Roe was a reasoned statement, 
+elaborated with great care. We have twice reaffirmed it 
+in the face of great opposition.  
+  
+The second reason is that the concept of viability, as we 
+noted in Roe, is the time at which there is a realistic 
+possibility of maintaining and nourishing a life outside 
+the womb, so that the independent existence of the 
+second life can in reason and all fairness be the object of 
+state protection that now overrides the rights of the 
+woman. See Roe v. Wade, 410 U.S., at 163. Consistent 
+with other constitutional norms, legislatures may draw 
+lines which appear arbitrary without the necessity of 
+offering a jus tification. But courts may not. We must 
+justify the lines we draw. And there is no line other than 
+viability which is more workable. To be sure, as we have 
+said, there may be some medical developments that 
+affect the precise point of viability, but this is  an 
+imprecision within tolerable limits given that the 
+medical community and all those who must apply its 
+discoveries will continue to explore the matter. The 
+viability line also has, as a practical matter, an element 
+of fairness. In some broad sense it mi ght be said that a 
+woman who fails to act before viability has consented to 
+the State's intervention on behalf of the developing 
+child. 
+  
+*871 The woman's right to terminate her pregnancy 
+before viability is the most central principle of Roe v. 
+Wade. It is a rule of law and a component of liberty we 
+cannot renounce. 
+  
+On the other side of the equation is the interest of the 
+State in the protection of potential life. The Roe Court 
+recognized the State's “important and legitimate interest 
+in protecting the potentiality of human life.” The weight 
+to be given this state interest, not the strength of the 
+woman's interest, was the difficult question faced in Roe. 
+We do not need to say whether each of us, had we been 
+Members of the Court when the valuation of the state 
+interest came before it as an original matter, would have 
+concluded, as the Roe Court did, that its weight is 
+insufficient to justify a ban on abortions prior to viability 
+even when it is subject to certain exceptions. The matter 
+is not before us in the first instance, and coming as it 
+does after nearly 20 years of litigation in Roe's wake we 
+are satisfied that the immediate question is not the 
+soundness of Roe's resolution of the issue, but the 
+precedential force that must be accorded to its holding. 
+Course Reader Page 42
+
+[PDF PAGE 43]
+For Educational Use Only 
+Planned Parenthood of Southeastern Pennsylvania v. Casey, 505 U.S. 833 (1992) 
+112 S.Ct. 2791, 120 L.Ed.2d 674, 60 USLW 4795 
+ © 2023 Thomson Reuters. No claim to original U.S. Government Works. 11 
+And we have concluded that the essential holding of Roe 
+should be reaffirmed. 
+Yet it must be remembered that Roe v. Wade speaks with 
+clarity in establishing not only the woman's liberty but 
+also the State's “important and legitimate interest in 
+potential life.” That portion of the decision in Roe has 
+been given too little acknowledgment and 
+implementation by the Court in its subsequent cases. 
+Those cases decided that any regulation touching upon 
+the abortion decision must survive strict scrutiny, to be 
+sustained only if drawn in narrow terms to further a 
+compelling state interest. See, e.g., Akron I, supra, 462 
+U.S., at 427. Not all of the cases decided under that
+formulation can be reconciled with the holding in Roe
+itself that the State has legitimate interests in the health
+of the woman and in protecting the potential life withi n
+her
+. In resolving this tension, we choose to rely upon
+Ro
+e, as against the later cases.
+*872 Roe established a trimester framework to gover n
+abor
+tion regulations. Under this elaborate but rigi d
+cons
+truct, almost no regulation at all is permitted during
+th
+e first trimester of pregnancy; regulations designed to
+protect the woman's health, but not to further the State's
+in
+terest in potential life, are permitted during the second
+trimester; and during the third trimester, when the
+**2818 fetus is viable, prohibitions are permitted
+provided the life or health of the mother is not at stake.
+Most of our cases since Roe have involved t he
+appl
+ication of rules derived from the trimester
+framework. See, e.g., Thornburgh v. American College
+of
+ Obstetricians and Gynecologists, supra; Akron I.
+The trimester framework no doubt was erected to ensure 
+that the woman's right to choose not become so 
+subordinate to the State's interest in promoting fetal life 
+that her choice exists in theory but not in fact. We do not 
+agree, however, that the trimester approach is necessary 
+to accomplish this objective. A framework of this 
+rigidity was unnecessary and in its later interpretation 
+sometimes contradicted the State's permissible exercise 
+of its powers. 
+Though the woman has a right to choose to terminate or 
+continue her pregnancy before viability, it does not at all 
+follow that the State is prohibited from taking steps to 
+ensure that this choice is thoughtful and informed. Even 
+in the earliest stages of pregnancy, the State may enact 
+rules and regulations designed to encourage her to know 
+that there are philosophic and social arguments of great 
+weight that can be brought to bear in favor of continuing 
+the pregnancy to full term and that there are procedures 
+and institutions to allow adoption of unwanted children 
+as well as a certain degree of state assistance if the 
+mother chooses to raise the child herself. “ ‘[T]he 
+Constitution does not forbid a State or city, pursuant to 
+democratic processes, from expressing a preference for 
+normal childbirth.’ ” Webster v. Reproductive Health 
+Services, 492 U.S., at 511 (opinion of *873 the Court) 
+(quoting Poelker v. Doe, 432 U.S. 519, 521  (1977)). It 
+follows that States are free to enact laws to provide a 
+reasonable framework for a woman to make a decision 
+that has such profound and lasting meaning. This, too, 
+we find consistent with Roe' s central premises, and 
+indeed the inevitable consequence of our holding that 
+the State has an interest in protecting the life of the 
+unborn. 
+We reject the trimester framework, which we do not 
+consider to be part of the essential holding of Roe. 
+Measures aimed at ensuring that a woman's choice 
+contemplates the consequences for the fetus do not 
+necessarily interfere with the right recognized in Roe, 
+although those measures have been found to be 
+inconsistent with the rigid trimester framework 
+announced in that case. A logical reading of the central 
+holding in Roe itself, and a necessary reconciliation of 
+the liberty of the woman and the interest of  the State in 
+promoting prenatal life, require, in our view, that we 
+abandon the trimester framework as a rigid prohibition 
+on all previability regulation aimed at the protection of 
+fetal life. The trimester framework suffers from these 
+basic flaws: in its formulation it misconceives the nature 
+of the pregnant woman's interest; and in practice it 
+undervalues the State's interest in potential life, as 
+recognized in Roe. 
+Course Reader Page 43
+
+[PDF PAGE 44]
+For Educational Use Only  
+Planned Parenthood of Southeastern Pennsylvania v. Casey, 505 U.S. 833 (1992)  
+112 S.Ct. 2791, 120 L.Ed.2d 674, 60 USLW 4795 
+  
+ © 2023 Thomson Reuters. No claim to original U.S. Government Works. 12 
+As our jurisprudence relating to all liberties save perhaps 
+abortion has recognized, not every law which makes a 
+right more difficult to exercise is, ipso facto,  an 
+infringement of that right. An example clarifies the 
+point. We have held that not every ballot access 
+limitation amounts to an infringement of the right to 
+vote. Rather, the States are granted substantial flexibility 
+in establishing the framework withi n which voters 
+choose the candidates for whom they *874 wish to vote. 
+Anderson v. Celebrezze,  460 U.S. 780, 788 (1983); 
+Norman v. Reed, 502 U.S. 279 (1992). 
+  
+**2819 The abortion right is similar. Numerous forms of 
+state regulation might have the incidental effect of 
+increasing the cost or decreasing the availability of 
+medical care, whether for abortion or any other medical 
+procedure. The fact that a law which serves  a valid 
+purpose, one not designed to strike at the right itself, has 
+the incidental effect of making it more difficult or more 
+expensive to procure an abortion cannot be enough to 
+invalidate it. Only where state regulation imposes an 
+undue burden on a woman's ability to make this decision 
+does the power of the State reach into the heart of the 
+liberty protected by the Due Process Clause.  
+   
+Roe v. Wade was express in its recognition of the State's 
+“important and legitimate interest[s] in preserving and 
+protecting *876 the health of the pregnant woman [and] 
+in protecting the potentiality of human life.” The 
+trimester framework, however, does not fulfill Roe's 
+own promise that the State has an interest in protecting 
+fetal life or potential life. Roe began the contradiction by 
+using the trimester framework to forbid any regulation 
+of abortion designed to advance that interest before 
+viability. Before viabil ity, Roe and subsequent cases 
+treat all governmental attempts to influence a woman's 
+decision on behalf of the potential life within her as 
+unwarranted. This treatment is, in our judgment, 
+incompatible with the recognition that there is a 
+substantial state interes t in potential life throughout 
+pregnancy.  
+  
+The very notion that the State has a substantial interest 
+in potential life leads to the conclusion that not all 
+regulations must be deemed unwarranted. Not all 
+burdens on the right to decide whether to terminate a 
+pregnancy will be undue. In our view, the undue burden 
+standard is the appropriate means of reconciling the 
+State's interest with the woman's constitutionally 
+protected liberty. 
+  
+Because we set forth a standard of general application to 
+which we intend to adhere, it is important to clarify what 
+is meant by an undue burden. 
+  
+*877 A finding of an undue burden is a shorthand for the 
+conclusion that a state regulation has the purpose or 
+effect of placing a substantial obstacle in the path of a 
+woman seeking an abortion of a nonviable fetus. A 
+statute with this purpose is invalid beca use the means 
+chosen by the State to further the interest in potential life 
+must be calculated to inform the woman's free choice, 
+not hinder it. And a statute which, while furthering the 
+interest in potential life or some other valid state interest, 
+has the effect of placing a substantial obstacle in the path 
+of a woman's choice cannot be considered a permissible 
+means of serving its legitimate ends.  
+  
+Some guiding principles should emerge. What is at stake 
+is the woman's right to make the ultimate decision, not a 
+right to be insulated from all others in doing so. 
+Regulations which do no more than create a structural 
+mechanism by which the State, or the parent or guardian 
+of a minor, may express profound respect for the life of 
+the unborn are permitted, if they are not a substantial 
+obstacle to the woman's exercise of the right to choose. 
+*878 Unless it has that effect on her right of choice, a 
+state meas ure designed to persuade her to choose 
+childbirth over abortion will be upheld if reasonably 
+related to that goal. Regulations designed to foster the 
+health of a woman seeking an abortion are valid if they 
+do not constitute an undue burden. 
+  
+We give this summary: 
+  
+(a) To protect the central right recognized by Roe v. 
+Wade while at the same time accommodating the State's 
+profound interest in potential life, we will employ the 
+Course Reader Page 44
+
+[PDF PAGE 45]
+For Educational Use Only 
+Planned Parenthood of Southeastern Pennsylvania v. Casey, 505 U.S. 833 (1992) 
+112 S.Ct. 2791, 120 L.Ed.2d 674, 60 USLW 4795 
+ © 2023 Thomson Reuters. No claim to original U.S. Government Works. 13 
+undue burden analysis as explained in this opinion. An 
+undue burden exists, and therefore a provision of law is 
+invalid, if its purpose or effect is to place a substantial 
+obstacle in the path of a woman seeking an abortion 
+before the fetus attains viability. 
+(b)
+We reject the rigid trimester framework of Roe v.
+Wade. To promote the State's profound interest in 
+potential life, throughout pregnancy the State may t ake
+m
+easures to ensure that the woman's choice is informed,
+and measures designed to advance this interest will not
+be invalidated as long as their purpose is to persuade the
+woman to choose childbirth over abortion. These
+measures must not be an undue burden on the right.
+(c)
+As with any medical procedure, the State may enac t
+re
+gulations to further the health or safety of a woman
+seeking an abortion. Unnecessary health regulations that
+have 
+the purpose or effect of presenting a substantial
+obstacle to a woman seeking an abo rtion impose an
+undue burden on the right.
+*879 (d) Our adoption of the undue burden analysis does
+not disturb the central holding of Roe v. Wade, and we
+re
+affirm that holding. Regardless of whether exceptions
+ar
+e made for particular circumstances, a State may not
+prohibit any woman from making the ultimate decisi on
+to
+ terminate her pregnancy before viability.
+(e)
+We also reaffirm Roe's holding that “subsequent to
+viability, the State in promoting its interest in t he
+pot
+entiality of human life may, if it chooses, regulate,
+and even proscribe, abortion except where it is
+necessary, in appropriate medical judgment, for t he
+pr
+eservation of the life or health of the mother.”
+These principles control our assessment of the 
+Pennsylvania statute, and we now turn to the issue of the 
+validity of its challenged provisions. 
+V 
+The Court of Appeals applied what it believed to be the 
+undue burden standard and upheld each of the provisions 
+except for the husband notification requirement. We 
+agree generally with this conclusion, but refine the 
+**2822 undue burden analysis in accordance with the 
+principles articulated above. We now consider the 
+separate statutory sections at issue. 
+A 
+Because it is central to the operation of various other 
+requirements, we begin with the statute's definition of 
+medical emergency. Under the statute, a medical 
+emergency is 
+“[t]hat condition which, on the basis of the physician's 
+good faith clinical judgment, so complicates the 
+medical condition of a pregnant woman as to 
+necessitate the immediate abortion of her pregnancy 
+to avert her death or for which a delay will create 
+serious risk of substantial and irreversible impairment 
+of a major bodily function.” 18 Pa.Cons.Stat. § 3203  
+(1990). 
+*880 Petitioners argue that the definition is too narrow,
+contending that it forecloses the possibility of an
+im
+mediate abortion despite some significant health
+risks. If the contention were correct, we would be
+required to invalidate the restrictive operation  of t he
+pr
+ovision, for the essential holding of Roe forbids a State
+to interfere with a woman's choice to undergo an
+abortion procedure if continuing her pregnancy woul d
+cons
+titute a threat to her health.
+The District Court found that there were three serious 
+conditions which would not be covered by the statute: 
+preeclampsia, inevitable abortion, and premature 
+ruptured membrane . Yet, as the Court of Appeals 
+observed, it is undisputed that under some circumstances 
+each of these conditions could lead to an illness with 
+Course Reader Page 45
+
+[PDF PAGE 46]
+For Educational Use Only  
+Planned Parenthood of Southeastern Pennsylvania v. Casey, 505 U.S. 833 (1992)  
+112 S.Ct. 2791, 120 L.Ed.2d 674, 60 USLW 4795 
+  
+ © 2023 Thomson Reuters. No claim to original U.S. Government Works. 14 
+substantial and irreversible consequences. While the 
+definition could be interpreted in an unconstitutional 
+manner, the Court of Appeals construed the phrase 
+“serious risk” to include those circumstances. It stated: 
+“[W]e read the medical emergency exception as 
+intended by the Pennsylvania legislature to assure that 
+compliance with its abortion regulations would not in 
+any way pose a significant threat to the life or health of 
+a woman.” As we said in Brockett v. Spokane Arcades, 
+Inc., 472 U.S. 491, 499 –500 (1985): “Normally, ... we 
+defer to the construction of a state statute given it by the 
+lower federal courts.” Indeed, we have said that we will 
+defer to lower court interpretations of state law unless 
+they amount to “plain” error. This “ ‘reflect[s] our belief 
+that district courts and courts of appeals are better 
+schooled in and more able to interpret the laws of their 
+respective States.’ ” We adhere to that course today, and 
+conclude that, as construed by the Court of Appeals, the 
+medical emergency definition imposes no undue burden 
+on a woman's abortion right. 
+*881 B 
+We next consider the informed consent requirement. 18 
+Pa. Cons.Stat. § 3205 (1990). Except in a medical 
+emergency, the statute requires that at least 24 hours 
+before performing an abortion a physician inform the 
+woman of the nature of the procedure, the health risks of 
+the abortion and of childbirth, and the “probable 
+gestational age of the unborn child.” The physician or a 
+qualified nonphysician must inform the woman of the 
+availability of printed materials published by the State 
+describing the fetus and providing information about 
+medical assistance for childbirth, information a bout 
+child support from the father, and a list of agencies 
+which provide adoption and other services as 
+alternatives to abortion. An abortion may not be 
+performed unless the woman certifies in writing that she 
+has been informed of the availability of these  printed 
+materials and has **2823 been provided them if she 
+chooses to view them. 
+  
+Our prior decisions establish that as with any medical 
+procedure, the State may require a woman to give her 
+written informed consent to an abortion. See Planned 
+Parenthood of Central Mo. v. Danforth, 428 U.S., at 67. 
+In this respect, the statute is unexceptional. Petitioners 
+challenge the statute's definition of informed consent 
+because it includes the provision of specific information 
+by the doctor and the mandatory 24–hour waiting period. 
+The conclusions reached by a majority of the Justices in 
+the separate opinions filed today and the undue burden 
+standard adopted in this opinion require us to overrule in 
+part some of the Court's past decisions, decisions driven 
+by the trimester framework's prohibition of all 
+previability regulations designed to further t he State's 
+interest in fetal life. 
+  
+It cannot be questioned that psychological well-being is 
+a facet of health. Nor can it be doubted that most women 
+considering an abortion would deem the impact on the 
+fetus relevant, if not dispositive, to the decision. In 
+attempting to ensure that a woman  apprehend the full 
+consequences of her decision, the State furthers the 
+legitimate purpose of reducing the risk that a woman 
+may elect an abortion, only to discover later, with 
+devastating psychological consequences, that her 
+decision was not fully inform ed. If the information the 
+State requires to be made available to the woman is 
+truthful and not misleading, the requirement may be 
+permissible. 
+  
+We also see no reason why the State may not require 
+doctors to inform a woman seeking an abortion of the 
+availability of materials relating to the consequences to 
+the fetus, even when those consequences have no direct 
+relation to her health. An example ill ustrates the point. 
+We would think *883 it constitutional for the State to 
+require that in order for there to be informed consent to 
+a kidney transplant  operation the recipient must be 
+supplied with information about risks to the donor as 
+well as risks to himself or herself. A requirement that the 
+physician make available information similar to that 
+mandated by the statute here was described in 
+Thornburgh as “an outright attempt to wedge the 
+Commonwealth's message discouraging abortion into 
+Course Reader Page 46
+
+[PDF PAGE 47]
+For Educational Use Only 
+Planned Parenthood of Southeastern Pennsylvania v. Casey, 505 U.S. 833 (1992) 
+112 S.Ct. 2791, 120 L.Ed.2d 674, 60 USLW 4795 
+ © 2023 Thomson Reuters. No claim to original U.S. Government Works. 15 
+the privacy of the informed -consent dialogue between 
+the woman and her physician.” We conclude, however, 
+that informed choice need not be defined in such narrow 
+terms that all considerations of the effect on the fetus are 
+made irrelevant. As **2824 we have made clear, we 
+depart from the holdings of Akron I and Thornburgh to 
+the extent that we permit a State to further its legitimate 
+goal of protecting the life of the unborn by enacting 
+legislation aimed at ensuring a decision that is mature 
+and informed, even when in so doing the State expresses 
+a preference for childbirth over abortion. In short, 
+requiring that the woman be informed of the availability 
+of information relating to fetal development and the 
+assistance available should she decide to carry the 
+pregnancy to full term is a reasonable measure to ensure 
+an informed choice, one which might cause the woman 
+to choose childbirth over abortion. This requirement 
+cannot be considered a substantial obstacle to obtaining 
+an abortion, and, it follows, there is no undue burden. 
+The doctor-patient relation does not underlie or override 
+the two more general rights under which the abortion 
+right is justified: the right to make family decisions and 
+the right to physical autonomy. On its own, the doctor -
+patient relation here is entitled to the same solicitude it 
+receives in other contexts. Thus, a requirement that a 
+doctor give a woman certain information as part of 
+obtaining her consent to an abortion is, for constitutional 
+purposes, no different from a requirement that a doctor 
+give certain specific information about any medical 
+procedure. 
+Our analysis of Pennsylvania's 24 –hour waiting period 
+between the provision of the information deemed 
+necessary to informed consent and the performance of 
+an abortion under the undue burden standard requires us 
+to reconsider the premise behind the decision in Akron I 
+invalidating a parallel requirement. In Akron I we said: 
+“Nor are we convinced that the State's legitimate 
+concern that the woman's decision be informed is 
+reasonably served by requiring a 24 –hour delay as a 
+matter of course.” We consider that conclusion to be 
+wrong. The idea that important decisions will be more 
+informed and deliberate if they follow some period of 
+reflection does not strike us as unreasonable, particularly 
+where the statute directs that important information 
+become part of the background of the decision. The 
+statute, as construed by the Court of Appeals, permits 
+avoidance of the waiting period in the event of a medical 
+emergency and the record evidence shows that in the 
+vast majority of cases, a 24 –hour delay does not create 
+any appreciable health risk. In theory, at least, the 
+waiting period is a reasonable measure to implement the 
+State's interest in protecting the life of the unborn, a 
+measure that does not amount to an undue burden. 
+Whether the mandatory 24 –hour waiting period is 
+nonetheless invalid because in practice it is a substantial 
+obstacle to a woman's choice to terminate her pregnancy 
+is a closer question. The findings of fact by the District 
+Court indicate that because of th e distances many 
+women must travel to reach an abortion provider, the 
+practical effect will often be *886 a delay of much more 
+than a day because the waiting period requires that a 
+woman seeking an abortion make at least two visits to 
+the doctor. The District Court also found that in many 
+instances this will increase the exposure of women 
+seeking abortions to “the harassment and hostility of 
+anti-abortion protestors demonstrating outside a clinic.” 
+As a result, the District Court found that for those 
+women who have the fewest financial resources, those 
+who must travel long distances, and those who have 
+difficulty explaining their whereabouts to husbands, 
+employers, or others, the 24–hour waiting period will be 
+“particularly burdensome.”  
+These findings are troubling in some respects, but they 
+do not demonstrate that the waiting period constitutes an 
+undue burden. We do not doubt that, as the District Court 
+held, the waiting period has the effect of “increasing the 
+cost and risk of delay of  abortions,” but the District 
+Court did not conclude that the increased costs and 
+potential delays amount to substantial obstacles. Rather, 
+applying the trimester framework's strict prohibition of 
+all regulation designed to promote the State's interest in 
+potential life before viability, the District Court 
+concluded that the waiting period does not further the 
+state “interest in maternal health” and “infringes the 
+Course Reader Page 47
+
+[PDF PAGE 48]
+For Educational Use Only  
+Planned Parenthood of Southeastern Pennsylvania v. Casey, 505 U.S. 833 (1992)  
+112 S.Ct. 2791, 120 L.Ed.2d 674, 60 USLW 4795 
+  
+ © 2023 Thomson Reuters. No claim to original U.S. Government Works. 16 
+physician's discretion to exercise sound medical 
+judgment.” Yet, as we have stated, under the undue 
+burden standard a State is permitted to enact persuasive 
+measures which favor childbirth over abortion, even if 
+those measures do not further a health interest. And 
+while the waiting period does limit a physician's  
+discretion, that is not, standing alone, a reason to 
+invalidate it. In light of the construction given the 
+statute's definition of medical emergency by the Court 
+of Appeals, and the District Court's findings, we cannot 
+say that the waiting period imposes a real health risk. 
+  
+We also disagree with the District Court's conclusion 
+that the “particularly burdensome” effects of the waiting 
+period *887 on some women require its invalidation. A 
+particular burden is not of necessity a substantial 
+obstacle. Whether a burden falls on a particular group is 
+a distinct inquiry from whether it is a substantial obstacle 
+even as to the women in that group. And th e District 
+Court did not conclude that the waiting period **2826 is 
+such an obstacle even for the women who are most 
+burdened by it. Hence, on the record before us, and in 
+the context of this facial challenge, we are not convinced 
+that the 24 –hour waiting period constitutes an undue 
+burden. 
+  
+We are left with the argument that the various aspects of 
+the informed consent requirement are unconstitutional 
+because they place barriers in the way of abortion on 
+demand. Even the broadest reading of Roe, however, has 
+not suggested that there is a constitutional right to 
+abortion on demand. Rather, the right protected by Roe 
+is a right to decide to terminate a pregnancy free of 
+undue interference by the State. Because the informed 
+consent requirement facilitates the wise exercise of that 
+right, it cannot be classified as an interference with the 
+right Roe protects. The informed consent requirement is 
+not an undue burden on that right. 
+C 
+Section 3209 of Pennsylvania's abortion law provides, 
+except in cases of medical emergency, that no physician 
+shall perform an abortion on a married woman without 
+receiving a signed statement from the woman that she 
+has notified her spouse that she is about to undergo an 
+abortion. The woman has the option of providing an 
+alternative signed statement certifying that her husband 
+is not the man who impregnated her; that her husband 
+could not be located; that the pregnancy is the result of 
+spousal sexual assault which she has reported; or that the 
+woman believes that notifying her husband will cause 
+him or someone else to inflict bodily injury upon her. A 
+physician who performs an abortion on *888 a married 
+woman without receiving the appropriate signed 
+statement will have his or her license revoked, and is 
+liable to the husband for damages. 
+  
+The District Court heard the testimony of numerous 
+expert witnesses, and made detailed findings of fact 
+regarding the effect of this statute. These included: 
+“273. The vast majority of women consult their 
+husbands prior to deciding to terminate their 
+pregnancy. 
+  
+    . . . 
+“281. Studies reveal that family violence occurs in 
+two million families in the United States. This figure, 
+however, is a conservative one that substantially 
+understates (because battering is usually not reported 
+until it reaches life-threatening proportions) the actual 
+number of families affected by domestic violence. In 
+fact, researchers estimate that one of every two 
+women will be battered at some time in their life. 
+“282. A wife may not elect to notify her husband of 
+her intention to have an abortion for a variety of 
+reasons, including the husband's illness, concern 
+about her own health, the imminent failure of the 
+marriage, or the husband's absolute opposition to the  
+abortion. 
+. . .  
+“289. Mere notification of pregnancy is frequently a 
+flashpoint for battering and violence within the family. 
+Course Reader Page 48
+
+[PDF PAGE 49]
+For Educational Use Only 
+Planned Parenthood of Southeastern Pennsylvania v. Casey, 505 U.S. 833 (1992) 
+112 S.Ct. 2791, 120 L.Ed.2d 674, 60 USLW 4795 
+ © 2023 Thomson Reuters. No claim to original U.S. Government Works. 17 
+The number of battering incidents is high during the 
+pregnancy and often the worst abuse can be associated 
+with pregnancy.... The battering husband may deny 
+parentage and use the pregnancy as an excuse for 
+abuse. 
+“290. Secrecy typically shrouds abusive families. 
+Family members are instructed not to tell anyone, 
+especially police or doctors, about the abuse and 
+violence. Battering husbands often threaten their 
+wives or her children with further abuse if she tells an 
+outsider of the violence and tells her that nobody will 
+believe her. A battered woman, therefore, is highly 
+unlikely to disclose *890 the violence against her for 
+fear of retaliation by the abuser. 
+“291. Even when confronted directly by medical 
+personnel or other helping professionals, battered 
+women often will not admit to the battering because 
+they have not admitted to themselves that they are 
+battered. 
+. . . 
+These findings are supported by studies of domestic 
+violence. The limited research that has been conducted 
+with respect to notifying one's husband about an 
+abortion, although involving samples too small to be 
+representative, also supports the District Court's findings 
+of fact. The vast majority of women notify their male 
+partners of their decision to obtain an abortion. In many 
+cases in which married women do not notify their 
+husbands, the pregnancy is the result of an extramarital 
+affair. Where the husband  is the father, the primary 
+reason women do not notify their husbands is that the 
+husband and wife are experiencing marital difficulties, 
+often accompanied by incidents of violence.  
+This information and the District Court's findings 
+reinforce what common sense would suggest. In well -
+functioning *893 marriages, spouses discuss important 
+intimate decisions such as whether to bear a child. But 
+there are millions of women in this country who are the 
+victims of regular physical and psychological abuse at 
+the hands of their husbands. Should these women 
+become pregnant, they may have very good reasons for 
+not wishing to inform their husbands of their decision to 
+obtain an abortion. Many may have justifiable fears of 
+physical abuse, but may be no less fearful of the 
+consequences of reporting prior abuse to the 
+Commonwealth of Pennsylvania. Many may have a 
+reasonable **2829 fear that notifying their husbands 
+will provoke further instances of child abuse; these 
+women are not exempt from § 3209's notification 
+requirement. Many may fear devastating forms of 
+psychological abuse from their husbands, including 
+verbal harassment, threats of future violence, the 
+destruction of possessions, physical confinement to the 
+home, the withdrawal of financial support, or the 
+disclosure of the abortion to family and friends. These 
+methods of psychological abuse may act as even more 
+of a deterrent to notification than the possibility of 
+physical violence, but women who are the victims of the 
+abuse are not exempt from § 3209's notification 
+requirement. And many women who are pregnant as a 
+result of sexual assaults by their husbands will be unable 
+to avail themselves of the exception for spousal sexual 
+assault, § 3209(b)(3), because the exception requires that 
+the woman have notified law enforcement authorities 
+within 90 days of the assault, and her husband will be 
+notified of her report once an investigation begins, § 
+3128(c). If anything in this field is certain, it is tha t 
+victims of spousal sexual assault are extremely reluctant 
+to report the abuse to the government; hence, a great 
+many spousal rape victims will not be exempt from the 
+notification requirement imposed by § 3209. 
+The spousal notification requirement is thus likely to 
+prevent a significant number of women from obtaining 
+an abortion. It does not merely make abortions a little 
+more difficult or expensive to obtain; for many women, 
+it will impose *894 a substantial obstacle. We must not 
+blind ourselves to the fact that the significant number of 
+women who fear for their safety and the safety of their 
+children are likely to be deterred from procuring an 
+abortion as surely as if the Commonwealth had outlawed 
+abortion in all cases. 
+Course Reader Page 49
+
+[PDF PAGE 50]
+For Educational Use Only  
+Planned Parenthood of Southeastern Pennsylvania v. Casey, 505 U.S. 833 (1992)  
+112 S.Ct. 2791, 120 L.Ed.2d 674, 60 USLW 4795 
+  
+ © 2023 Thomson Reuters. No claim to original U.S. Government Works. 18 
+Respondents attempt to avoid the conclusion that § 3209 
+is invalid by pointing out that it imposes almost no 
+burden at all for the vast majority of women seeking 
+abortions. They begin by noting that only about 20 
+percent of the women who obtain abortions are married. 
+They then note that of these women about 95  percent 
+notify their husbands of their own volition. Thus, 
+respondents argue, the effects of § 3209 are felt by only 
+one percent of the women who obtain abortions. 
+Respondents argue that since some of these women will 
+be able to notify their husbands without adverse 
+consequences or will qualify for one of the exceptions, 
+the statute affects fewer than o ne percent of women 
+seeking abortions. For this reason, it is asserted, the 
+statute cannot be invalid on its face. We disagree with 
+respondents' basic method of analysis. 
+  
+The analysis does not end with the one percent of 
+women upon whom the statute operates; it begins there. 
+Legislation is measured for consistency with the 
+Constitution by its impact on those whose conduct it 
+affects. For example, we would not say that a law which 
+requires a newspaper to print a candidate's reply to an 
+unfavorable editorial is valid on its face because most 
+newspapers would adopt the policy even absent the law. 
+The proper focus of constitutional inquiry is the group 
+for whom the law is a restriction, not the group for whom 
+the law is irrelevant. 
+  
+Respondents' argument itself gives implicit recognition 
+to this principle, at one of its critical points. Respondents 
+speak of the one percent of women seeking abortions 
+who are married and would choose not to notify their 
+husbands of their plans. By selec ting as the controlling 
+class women *895 who wish to obtain abortions, rather 
+than all women or all pregnant women, respondents in 
+effect concede that § 3209 must be judged by reference 
+to those for whom it is an actual rather than an irrelevant 
+restriction. Of course, as we have said, § 3209's real 
+target is narrower even than the class of women seeking 
+abortions identified by the State: it is married women 
+seeking abortions who do not wish to notify their 
+husbands of their **2830 intentions and who do not 
+qualify for one of the statutory exceptions to the notice 
+requirement. The unfortunate yet persisting conditions 
+we document above will mean that in a large fraction of 
+the cases in which § 3209 is relevant, it will operate as a 
+substantial obstacle to a woman's choice to undergo an 
+abortion. It is an undue burden, and therefore invalid. 
+  
+This conclusion is in no way inconsistent with our 
+decisions upholding parental notification or consent 
+requirements. Those enactments, and our judgment that 
+they are constitutional, are based on the quite reasonable 
+assumption that minors will benefit fro m consultation 
+with their parents and that children will often not realize 
+that their parents have their best interests at heart. We 
+cannot adopt a parallel assumption about adult women. 
+  
+We recognize that a husband has a “deep and proper 
+concern and interest ... in his wife's pregnancy and in the 
+growth and development of the fetus she is carrying.” 
+With regard to the children he has fathered and raised, 
+the Court has recognized his “cogni zable and 
+substantial” interest in their custody. If these cases 
+concerned a State's ability to require the mother to notify 
+the father before taking some action with respect to a 
+living *896 child raised by both, therefore, it would be 
+reasonable to concl ude as a general matter that the 
+father's interest in the welfare of the child and the 
+mother's interest are equal. 
+  
+Before birth, however, the issue takes on a very different 
+cast. It is an inescapable biological fact that state 
+regulation with respect to the child a woman is carrying 
+will have a far greater impact on the mother's liberty than 
+on the father's. The effec t of state regulation on a 
+woman's protected liberty is doubly deserving of 
+scrutiny in such a case, as the State has touched not only 
+upon the private sphere of the family but upon the very 
+bodily integrity of the pregnant woman. The Court has 
+held that “ when the wife and the husband disagree on 
+this decision, the view of only one of the two marriage 
+partners can prevail. Inasmuch as it is the woman who 
+physically bears the child and who is the more directly 
+and immediately affected by the pregnancy, as between 
+the two, the balance weighs in her favor.” Danforth, 428 
+U.S., at 71. This conclusion rests upon the basic nature 
+Course Reader Page 50
+
+[PDF PAGE 51]
+For Educational Use Only 
+Planned Parenthood of Southeastern Pennsylvania v. Casey, 505 U.S. 833 (1992) 
+112 S.Ct. 2791, 120 L.Ed.2d 674, 60 USLW 4795 
+ © 2023 Thomson Reuters. No claim to original U.S. Government Works. 19 
+of marriage and the nature of our Constitution: “[T]he 
+marital couple is not an independent entity with a mind 
+and heart of its own, but an association of two 
+individuals each with a separate intellectual and 
+emotional makeup. If the right of privacy means  
+anything, it is the right of the individual, married or 
+single, to be free from unwarranted governmental 
+intrusion into matters so fundamentally affecting a 
+person as the decision whether to bear or beget a child.” 
+Eisenstadt v. Baird, 405 U.S., at 453 (e mphasis in 
+original). The Constitution protects individuals, men and 
+women alike, from unjustified state interference, even 
+when that interference is enacted into law for the benefit 
+of their spouses. 
+There was a time, not so long ago, when a different 
+understanding of the family and of the Constitution 
+prevailed. In Bradwell v. State,  16 Wall. 130 (1873), 
+three Members of this *897 Court reaffirmed the 
+common-law principle that “a woman had no legal 
+existence separate from her husband, who was regarded 
+as her head and **2831 representative in the social state; 
+and, notwithstanding some recent modifications of this 
+civil status, many of the special rules of law flowing 
+from and dependent upon this cardin al principle still 
+exist in full force in most States.” Id., at 141 (Bradley, 
+J., joined by Swayne and Field, JJ., concurring in 
+judgment). Only one generation has passed since this 
+Court observed that “woman is still regarded as the 
+center of home and family life,” with attendant “special 
+responsibilities” that precluded  full and independent 
+legal status under the Constitution. Hoyt v. Florida, 368 
+U.S. 57, 62 (1961). These views, of course, are no longer 
+consistent with our understanding of the family, the 
+individual, or the Constitution. 
+In keeping with our rejection of the common -law 
+understanding of a woman's role within the family, the 
+Court held in Danforth that the Constitution does not 
+permit a State to require a married woman to obtain her 
+husband's consent before undergoing an abortion. The 
+principles that guided the Court in Danforth should be 
+our guides today. For the great many women who are 
+victims of abuse inflicted by their husbands, or whose 
+children are the victims of such abuse, a spousal notice 
+requirement enables the husb and to wield an effective 
+veto over his wife's decision. Whether the prospect of 
+notification itself deters such women from seeking 
+abortions, or whether the husband, through physical 
+force or psychological pressure or economic coercion, 
+prevents his wife from obtaining an abortion until it is 
+too late, the notice requirement will often be tantamount 
+to the veto found unconstitutional in Danforth. The 
+women most affected by this law —those who most 
+reasonably fear the consequences of notifying their 
+husbands that they are pregnant —are in the gravest 
+danger. 
+*898 The husband's interest in the life of the child his
+wife is carrying does not permit the State to empower
+him with this troubling degree of authority over his wife.
+The contrary view leads to consequences reminiscent of
+the common law. A husband has no enforceable right to
+require a wife to advise him before she exercises he r
+per
+sonal choices. If a husband's interest in the potential
+life of the child outweighs a wife's liberty, the State
+could require a married woman to notify her hus band
+bef
+ore she uses a postfertilization contraceptive. Perhaps
+next in line would be a statute requiring pregnant
+married women to notify their husbands before engaging
+in conduct causing risks to the fetus. After all, if the
+husband's interest in the fetus' safety is a sufficient
+predicate for state regulation, the State could reasonably
+concl
+ude that pregnant wives should notify their
+husbands before drinking alcohol or smoking. Perhaps
+married women should notify their husbands before
+using contraceptives or before undergoing any type of
+surgery that may have complications affecting the
+husband's interest in his wife's reproductive organs. And
+if 
+a husband's interest justifies notice in any of these
+cases, one might reasonably argue that it justifies exactly
+wh
+at the Danforth Court held it did not justify —a
+re
+quirement of the husband's consent as well. A State
+may not give to a man the kind of dominion over his wife
+that parents exercise over their children.
+Section 3209 embodies a view of marriage consonant 
+with the common- law status of married women but 
+Course Reader Page 51
+
+[PDF PAGE 52]
+For Educational Use Only  
+Planned Parenthood of Southeastern Pennsylvania v. Casey, 505 U.S. 833 (1992)  
+112 S.Ct. 2791, 120 L.Ed.2d 674, 60 USLW 4795 
+  
+ © 2023 Thomson Reuters. No claim to original U.S. Government Works. 20 
+repugnant to our present understanding of marriage and 
+of the nature of the rights secured by the Constitution. 
+Women do not lose their constitutionally protected 
+liberty when they marry. The Constitution protects all 
+individuals, male or female, married or unmarried, from 
+the abuse of governmental power, even where that 
+power is employed for the supposed benefit of a member 
+of the individual's family. These considerations confirm 
+our conclusion that § 3209 is invalid. 
+**2832 *899 D 
+We next consider the parental consent provision. Except 
+in a medical emergency, an unemancipated young 
+woman under 18 may not obtain an abortion unless she 
+and one of her parents (or guardian) provides informed 
+consent as defined above. If neither a parent  nor a 
+guardian provides consent, a court may authorize the 
+performance of an abortion upon a determination that 
+the young woman is mature and capable of giving 
+informed consent and has in fact given her informed 
+consent, or that an abortion would be in he r best 
+interests. 
+  
+We have been over most of this ground before. Our cases 
+establish, and we reaffirm today, that a State may require 
+a minor seeking an abortion to obtain the consent of a 
+parent or guardian, provided that there is an adequate 
+judicial bypass procedure. Unde r these precedents, in 
+our view, the one -parent consent requirement and 
+judicial bypass procedure are constitutional. 
+E 
+Under the recordkeeping and reporting requirements of 
+the statute, every facility which performs abortions is 
+required to file a report stating its name and address as 
+well as the name and address of any related entity, such 
+as a controlling or subsidiary organization. In the case of 
+state-funded institutions, the information becomes 
+public. 
+  
+For each abortion performed, a report must be filed 
+identifying: the physician (and the second physician 
+where required); the facility; the referring physician or 
+agency; the woman's age; the number of prior 
+pregnancies and prior abortions she has had; gestational 
+age; the type of abortion procedure; the date of the 
+abortion; whether there were any pre -existing medical 
+conditions which would complicate pregnancy; medical 
+complications with the abortion; where applicable, the 
+basis for the determination that  the abortion was 
+medically necessary; the weight of the aborted fetus; and 
+whether the woman was married, and if so, whether 
+notice was provided or the basis for the failure to give 
+notice. Every abortion facility must also file quarterly 
+reports showing the number of abortions performed 
+broken down by trimester. In all events, the identity of 
+each woman who has had an abortion remains 
+confidential. 
+  
+In Danforth, we held that recordkeeping and reporting 
+provisions “that are reasonably directed to the 
+preservation of maternal health and that properly respect 
+a patient's confidentiality and privacy are permissible.” 
+We think that under this standard, all the provis ions at 
+issue here, except that relating to spousal notice, are 
+constitutional. Although they do not relate to the State's 
+interest in informing the woman's choice, they do relate 
+to health. The collection of information with respect to 
+actual p atients *901 is a vital element of medical 
+research, and so it cannot be said that the **2833 
+requirements serve no purpose other than to make 
+abortions more difficult. Nor do we find that the 
+requirements impose a substantial obstacle to a woman's 
+choice. At most they might increase the cost of some 
+abortions by a slight amount. While at some poi nt 
+increased cost could become a substantial obstacle, there 
+is no such showing on the record before us. 
+  
+Subsection (12) of the reporting provision requires the 
+reporting of, among other things, a married woman's 
+“reason for failure to provide notice” to her husband. 
+This provision in effect requires women, as a condition 
+of obtaining an abortion, to provide the Commonwealth 
+with the precise information we have already recognized 
+Course Reader Page 52
+
+[PDF PAGE 53]
+For Educational Use Only 
+Planned Parenthood of Southeastern Pennsylvania v. Casey, 505 U.S. 833 (1992) 
+112 S.Ct. 2791, 120 L.Ed.2d 674, 60 USLW 4795 
+ © 2023 Thomson Reuters. No claim to original U.S. Government Works. 21 
+that many women have pressing reasons not to reveal. 
+Like the spousal notice requirement itself, this provision 
+places an undue burden on a woman's choice, and must 
+be invalidated for that reason. 
+Justice Blackmun, concurring in part, concurring in 
+the judgment in part, and dissenting in part. 
+Three years ago, in Webster v. Reproductive Health 
+Services (1989), four Members of this Court appeared 
+poised to “cas[t] into darkness the hopes and visions of 
+every woman in this country” who had come to believe 
+that the Constitution guaranteed her the right to 
+reproductive choice. All that remained between the 
+promise of Roe and the darkness of the plurality was a 
+single, flickering flame. But now, just when so many 
+expected the darkness to fall, the flame has grown bright. 
+I do not underestimate the significance of today’s joint 
+opinion. Yet I fear for the darkness as four Justices 
+anxiously await the single vote necessary to extinguish 
+the light. 
+State restrictions on abortion violate a woman’s right of 
+privacy[.] A State’s restrictions on a woman’s right to 
+terminate her pregnancy also implicate constitutional 
+guarantees of gender equality.  
+The Court has held that limitations on the right of 
+privacy are permissible only if they survive “strict” 
+constitutional scrutiny—that is, only if the governmental 
+entity imposing the restriction can demonstrate that the 
+limitation is both necessary and narrowly tailored to 
+serve a compelling governmental interest. We have 
+applied this principle specifically in the context of 
+abortion regulations. 
+In my view, application of this analytical framework is 
+no less warranted than when it was approved by seven 
+Members of this Court in Roe. Strict scrutiny of state 
+limitations on reproductive choice still offers the most 
+secure protection of the woman’s right to make her own 
+reproductive decisions, free from state coercion. The 
+factual premises of the trimester framework have not 
+been undermined, and the Roe framework is far more 
+administrable, and far less manipulable, than the “undue 
+burden” standard adopted by the joint opinion. 
+In sum, Roe’ s requirement of strict scrutiny as 
+implemented through a trimester framework should not 
+be disturbed. No other approach has gained a majority, 
+and no other is more protective of the woman’s 
+fundamental right. Lastly, no other approach properly 
+accommodates the woman’s constitutional right with the 
+State’s legitimate interests. 
+At long last, the Chief Justice and those who have joined 
+him admit it. There, on the first page, for all to see, is 
+what was expected: “We believe that Roe was wrongly 
+decided, and that it can and should be overruled 
+consistently with our traditional approach to stare decisis 
+in constitutional cases.”  
+The Chief Justice’s criticism of Roe follows from his 
+stunted conception of individual liberty. Even more 
+shocking than the Chief Justice’s cramped notion of 
+individual liberty is his complete omission of any 
+discussion of the effects that compelled childbirth and 
+motherhood have on women’s lives. Nor does the Chief 
+Justice give any serious consideration to the doctrine of 
+stare decisis. 
+But, we are reassured, there is always the protection of 
+the democratic process. While there is much to be 
+praised about our democracy, our country since its 
+founding has recognized that there are certain 
+fundamental liberties that are not to be left to the whims 
+of an election. A woman’s right to reproductive choice is 
+one of those fundamental liberties. Accordingly, that 
+liberty need not seek refuge at the ballot box. 
+In one sense, the Court’s approach is worlds apart from 
+that of the Chief Justice and Justice Scalia. And yet, in 
+another sense, the distance between the two approaches 
+is short—the distance is but a single vote. 
+Course Reader Page 53
+
+[PDF PAGE 54]
+For Educational Use Only  
+Planned Parenthood of Southeastern Pennsylvania v. Casey, 505 U.S. 833 (1992)  
+112 S.Ct. 2791, 120 L.Ed.2d 674, 60 USLW 4795 
+  
+ © 2023 Thomson Reuters. No claim to original U.S. Government Works. 22 
+I am 83 years old. I cannot remain on this Court forever, 
+and when I do step down, the confirmation process for 
+my successor well may focus on the issue before us 
+today. That, I regret, may be exactly where the choice 
+between the two worlds will be made. 
+ 
+Chief Justice Rehnquist, with whom Justice White, 
+Justice Scalia, and Justice Thomas join, concurring 
+in the judgment in part and dissenting in part. 
+ 
+The joint opinion, following its newly minted variation 
+on stare decisis, retains the outer shell of Roe v. Wade 
+(1973), but beats a wholesale retreat from the substance 
+of that case. We believe that Roe was wrongly decided, 
+and that it can and should be overruled consistently with 
+our traditional approach to stare decisis in constitutional 
+cases. 
+ 
+In Roe v. Wade, the Court recognized a “guarantee of 
+personal privacy” which “is broad enough to encompass 
+a woman’s decision whether or not to terminate her 
+pregnancy.” We are now of the view that, in terming this 
+right fundamental, the Court in Roe read the earlier 
+opinions upon which it based its decision much too 
+broadly. Unlike marriage, procreation, and 
+contraception, abortion “involves the purposeful 
+termination of a potential life.” The abortion decision 
+must therefore “be recognized as sui generis, different in 
+kind from the others that the Court has protected under 
+the rubric of personal or family privacy and autonomy.” 
+One cannot ignore the fact that a woman is not isolated 
+in her pregnancy, and that the decision to abort 
+necessarily involves the destruction of a fetus. 
+ 
+Nor do the historical traditions of the American people 
+support the view that the right to terminate one’s 
+pregnancy is “fundamental.” The common law which 
+we inherited from England made abortion after 
+“quickening” an offense. At the time of the adoption o f 
+the Fourteenth Amendment, statutory prohibitions or 
+restrictions on abortion were commonplace; in 1868, at 
+least 28 of the then -37 States and 8 Territories had 
+statutes banning or limiting abortion. By the turn of the 
+century virtually every State had a law prohibiting or 
+restricting abortion on its books. By the middle of the 
+present century, a liberalization trend had set in. But 21 
+of the restrictive abortion laws in effect in 1868 were still 
+in effect in 1973 when Roe was decided, and an 
+overwhelming majority of the States prohibited abortion 
+unless necessary to preserve the life or health of the 
+mother. On this record, it can scarcely be said that any 
+deeply rooted tradition of relatively unrestricted 
+abortion in our history supported the classification of the 
+right to abortion as “fundamental” under the Due 
+Process Clause of the Fourteenth Amendment. 
+ 
+We think, therefore, both in view of this history and of 
+our decided cases dealing with substantive liberty under 
+the Due Process Clause, that the Court was mistaken in 
+Roe when it classified a woman’s decision to terminate 
+her pregnancy as a “fundamental right” that could be 
+abridged only in a manner which withstood “strict 
+scrutiny.” 
+Justice Scalia, with whom The Chief Justice, Justice 
+White, and Justice Thomas join, concurring in the 
+judgment in part and dissenting in part. 
+ 
+The States may, if they wish, permit abortion on 
+demand, but the Constitution does not require them to 
+do so. The permissibility of abortion, and the limitations 
+upon it, are to be resolved like most important questions 
+in our democracy: by citizens trying  to persuade one 
+another and then voting. 
+ 
+That is, quite simply, the issue in these cases: not 
+whether the power of a woman to abort her unborn child 
+is a “liberty” in the absolute sense; or even whether it is 
+a liberty of great importance to many women. Of course 
+it is both. The issue is whether it is a liberty protected by 
+the Constitution of the United States. I am sure it is not. 
+I reach that conclusion not because of anything so 
+exalted as my views concerning the “concept of 
+existence, of meaning, of the universe, and of the 
+mystery of human l ife.” Rather, I reach it for the same 
+Course Reader Page 54
+
+[PDF PAGE 55]
+For Educational Use Only 
+Planned Parenthood of Southeastern Pennsylvania v. Casey, 505 U.S. 833 (1992) 
+112 S.Ct. 2791, 120 L.Ed.2d 674, 60 USLW 4795 
+ © 2023 Thomson Reuters. No claim to original U.S. Government Works. 23 
+reason I reach the conclusion that bigamy is not 
+constitutionally protected—because of two simple facts: 
+(1)
+the Constitution says absolutely nothing about it, and
+(2)
+the longstanding traditions of American society have
+permitted it to be legally proscribed.
+The Court’s description of the place of Roe in the social 
+history of the United States is unrecognizable. Not only 
+did Roe not, as the Court suggests, resolve the deeply 
+divisive issue of abortion; it did more than anything else 
+to nourish it, by elevating it to the national level where 
+it is infinitely more difficult to resolve. National politics 
+were not plagued by abortion protests, national abortion 
+lobbying, or abortion marches on Congress before Roe 
+v. Wade was decided. Profound disagreement existed
+among our citizens over the issue—as it does over other
+issues, such as the death penalty—but that disagreement
+was being worked out at the state level. As with many
+other issues, the division of sentiment within each State
+wa
+s not as closely balanced as it  was among the
+population of the Nation as a whole, meaning not onl y
+th
+at more people would be satisfied with the results o f
+sta
+te-by-state resolution, but also that those resu lts
+wo
+uld be more stable. Pre -Roe, moreover, politica l
+com
+promise was possible.
+... [B]y foreclosing all democratic outlet for the deep 
+passions this issue arouses, by banishing the issue from 
+the political forum that gives all participants, even the 
+losers, the satisfaction of a fair hearing and an honest 
+fight, by continuing the imposition of a rigid national 
+rule instead of allowin g for regional differences, the 
+Court merely prolongs and intensifies the anguish. We 
+should get out of this area, where we have no right to be, 
+and where we do neither ourselves nor the country any 
+good by remaining.
+Course Reader Page 55

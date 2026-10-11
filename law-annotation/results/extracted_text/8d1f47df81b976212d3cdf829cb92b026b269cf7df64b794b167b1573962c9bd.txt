@@ -1,0 +1,3481 @@
+[PDF PAGE 57]
+For Educational Use Only 
+Dobbs v. Jackson Women's Health Organization, 142 S.Ct. 2228 (2022) 
+213 L.Ed.2d 545, Med & Med GD (CCH) P 307,405, 22 Cal. Daily Op. Serv. 6241... 
+ © 2023 Thomson Reuters. No claim to original U.S. Government Works. 1 
+142
+ S.Ct. 2228 
+Supreme Court of the United States. 
+Thomas E. DOBBS, State Health Officer of the 
+Mississippi Department of Health, et al., 
+Petitioners 
+v. 
+JACKSON WOMEN'S HEALTH 
+ORGANIZATION, et al. 
+No. 19-1392 
+| 
+Argued December 1, 2021 
+| 
+Decided June 24, 2022 
+Opinion 
+Justice ALITO delivered the opinion of the Court. 
+*2240 Abortion presents a profound moral issue on
+which Americans hold sharply conflicting views. Some
+believe fervently that a human person comes into bei ng
+at
+ conception and that abortion ends an innocent life.
+Others feel just as strongly that any regulation  of
+abortion invades a woman's right to control her ow n
+body 
+and prevents women from achieving full equality.
+Still others in a third group think that abortion should be
+al
+lowed under some but not all circumstances, and those
+wi
+thin this group hold a varie ty of views about the
+particular restrictions that should be imposed.
+For the first 185 years after the adoption of the 
+Constitution, each State was permitted to address this 
+issue in accordance with the views of its citizens. Then, 
+in 1973, this Court decided Roe v. Wade. Even though 
+the Constitution makes no mention of abortion, the 
+Court held that it confers a broad right to obtain one. It 
+did not claim that American law or the common law had 
+ever recognized such a right, and its survey of history 
+ranged from the constitutionally irrelevant ( e.g., its 
+discussion of abortion in antiquity) to the plainly 
+incorrect (e.g., its assertion that abortion was probably 
+never a crime under the common law). After cataloging 
+a wealth of other information having no bearing on the 
+meaning of the Constitution, the opinion concluded with 
+a numbered set of rules much like those that might be 
+found in a statute enacted by a legislature. 
+*2241 Under this scheme, each trimester of pregnancy
+was regulated differently, but the most critical line was
+drawn at roughly the end of the second trimester, which,
+at the time, corresponded to the point at which a fetus
+was thought to achieve “viability,” i.e., the ability to
+survive outside the womb. Although the Cou rt
+acknow
+ledged that States had a legitimate interest i n
+pr
+otecting “potential life,” it found that this interest
+could not justify any restriction on pre -viability
+abor
+tions. The Court did  not explain the basis for this
+line, and even abortion supporters have found it hard to
+defend Roe’s reasoning. One prominent constitutional
+scholar wrote that he “would vote for a statute very
+much like the one the Court end[ed] up drafting” if he
+were “a legislator,” but his assessment of Roe was
+memorable and brutal: Roe was “not constitutional law”
+at all and gave “almost no sense of an obligation to tr y
+to
+ be.”
+At the time of Roe, 30 States still prohibited abortion at 
+all stages. In the years prior to that decision, about a third 
+of the States had liberalized their laws, but Roe abruptly 
+ended that political process. It imposed the same highly 
+restrictive regime on the entire Nation, and it effectively 
+struck down the abortion laws of every single State. As 
+Justice Byron White aptly put it in his dissent, the 
+decision represented  the “exercise of raw judicial 
+power,” and it sparked a national controversy that has 
+embittered our political culture for a half century.4 
+Eventually, in Planned Parenthood of Southeastern Pa. 
+v. Casey  (1992), the Court revisited Roe, but the
+Members of the Court split three ways. Two Justices
+expressed no desire to change Roe in any way. Fou r
+ot
+hers wanted to overrule the decision in its entirety. And
+th
+e three remaining Justices, who jointly signed the
+Course Reader Page 57
+
+[PDF PAGE 58]
+For Educational Use Only  
+Dobbs v. Jackson Women's Health Organization, 142 S.Ct. 2228 (2022)  
+213 L.Ed.2d 545, Med & Med GD (CCH) P 307,405, 22 Cal. Daily Op. Serv. 6241... 
+  
+ © 2023 Thomson Reuters. No claim to original U.S. Government Works. 2 
+controlling opinion, took a third position. Their opinion 
+did not endorse Roe’s reasoning, and it even hinted that 
+one or more of its authors might have “reservations” 
+about whether the Constitution protects a right to 
+abortion. But the opinion concluded that stare decisis, 
+which calls for prior decisions to be followed in most 
+instances, required adherence to what it called Roe’s 
+“central holding”—that a State may not constitutionally 
+protect fetal life before “viability”—even if that holding 
+was wrong. Anything less, the opinion claimed, would 
+undermine respect for this Court and the rule of law. 
+  
+*2242 Paradoxically, the judgment in Casey did a fair 
+amount of overruling. Several important abortion 
+decisions were overruled in toto, and Roe itself was 
+overruled in part.  Casey threw out Roe’s trimester 
+scheme and substituted a new rule of uncertain origin 
+under which States were forbidden to adopt any 
+regulation that imposed an “undue burden” on a 
+woman's right to have an abortion. The decision 
+provided no clear guidance about the difference between 
+a “due” and an “undue” burden. But the three Justices 
+who authored the controlling opinion “call[ed] the 
+contending sides of a national controversy to end their 
+national division” by treating the Court's decision as the 
+final settlement of the question of the constitutional right 
+to abortion.  
+  
+As has become increasingly apparent in the intervening 
+years, Casey did not achieve that goal. Americans 
+continue to hold passionate and widely divergent views 
+on abortion, and state legislatures have acted 
+accordingly. Some have recently enacted laws allowing 
+abortion, with few restrictions, at all stages of 
+pregnancy. O thers have tightly restricted abortion 
+beginning well before viability. And in this case, 26 
+States have expressly asked this Court to overrule Roe 
+and Casey and allow the States to regulate or prohibit 
+pre-viability abortions. 
+  
+Before us now is one such state law. The State of 
+Mississippi asks us to uphold the constitutionality of a 
+law that generally prohibits an abortion after the 15th 
+week of pregnancy —several weeks before the point at 
+which a fetus is now regarded as “viable” outside the 
+womb.  
+ 
+We hold that Roe and Casey must be overruled. The 
+Constitution makes no reference to abortion, and no such 
+right is implicitly protected by any constitutional 
+provision, including the one on which the defenders of 
+Roe and Casey now chiefly rely —the Due Process 
+Clause of the Fourteenth Amendment. That provision 
+has been held to guarantee some rights that are not 
+mentioned in the Constitution, but any such right must 
+be “deeply rooted in this Nation's history and tradition” 
+and “implicit in the concept of ordered liberty.”  
+  
+The right to abortion does not fall within this category. 
+Until the latter part of the 20th century, such a right was 
+entirely unknown in American law. Indeed, when the 
+Fourteenth Amendment was adopted, three quarters of 
+the States made abortion *2243 a crime at all stages of 
+pregnancy. The abortion right is also critically different 
+from any other right that this Court has held to fall within 
+the Fourteenth Amendment's protection of “liberty.” 
+Roe’s defenders characterize the abortion right as similar 
+to the rights recognized in past decisions involving 
+matters such as intimate sexual relations, contraception, 
+and marriage, but abortion is fundamentally different, as 
+both Roe and Casey acknowledged, because it destroys 
+what those decisions called “fetal life” and what the law 
+now before us describes as an “unborn human being.”  
+  
+Stare decisis, the doctrine on which Casey’s controlling 
+opinion was based, does not compel unending adherence 
+to Roe’s abuse of judicial authority. Roe was egregiously 
+wrong from the start. Its reasoning was exceptionally 
+weak, and the decision has had damaging consequences. 
+And far from bringing about a national settlement of the 
+abortion issue, Roe and Casey have enflamed debate and 
+deepened division. 
+  
+It is time to heed the Constitution and return the issue of 
+abortion to the people's elected representatives. “The 
+permissibility of abortion, and the limitations, upon it, 
+are to be resolved like most important questions in our 
+democracy: by citizens tryi ng to persuade one another 
+Course Reader Page 58
+
+[PDF PAGE 59]
+For Educational Use Only 
+Dobbs v. Jackson Women's Health Organization, 142 S.Ct. 2228 (2022) 
+213 L.Ed.2d 545, Med & Med GD (CCH) P 307,405, 22 Cal. Daily Op. Serv. 6241... 
+ © 2023 Thomson Reuters. No claim to original U.S. Government Works. 3 
+and then voting.” Casey, 505 U.S. at 979, 112 S.Ct. 2791 
+(Scalia, J., concurring in judgment in part and dissenting 
+in part). That is what the Constitution and the rule of law 
+demand. 
+I 
+The law at issue in this case, Mississippi's Gestational 
+Age Act, see Miss. Code Ann. § 41 –41–191 (2018), 
+contains this central provision: “Except in a medical 
+emergency or in the case of a severe fetal abnormality, a 
+person shall not intentionally or knowingly perform ... 
+or induce an abortion of an unborn human being if the 
+probable gestational age of the unborn human being has 
+been determined to be greater than fifteen (15) weeks.”  
+Respondents are an abortion clinic, Jackson Women's 
+Health Organization, and one of its doctors. On the day 
+the Gestational Age Act was enacted, respondents filed 
+suit in Federal District Court against various Mississippi 
+officials, alleging that the Act v iolated this Court's 
+precedents establishing a constitutional right to abortion. 
+The District Court granted summary judgment in favor 
+of respondents and permanently enjoined enforcement 
+of the Act, reasoning that “viability marks the earliest 
+point at which the State's interest in fetal life is 
+constitutionally adequate to justify a legislative ban on 
+nontherapeutic abortions” and that 15 weeks' gestational 
+age is “prior to viability.” Jackson Women's Health Org. 
+v. Currier , 349 F.Supp.3d 536, 539 –540 (S.D. Miss.
+2019) (internal quotation marks omitted). The Fifth
+Circuit affirmed. 945 F.3d 265 (2019).
+We granted certiorari  to resolve the question whether 
+“all pre-viability prohibitions on elective abortions are 
+unconstitutional[.]”  
+II 
+We begin by considering the critical question whether 
+the Constitution, properly understood, confers a right to 
+obtain an abortion. Skipping over that question, the 
+controlling opinion in Casey reaffirmed Roe’s “central 
+holding” based solely on the doctrine of stare decisis, 
+but as we will explain, proper application of stare decisis 
+required an assessment of the strength of the grounds on 
+which Roe was based.  
+We therefore turn to the question that the Casey plurality 
+did not consider, and we address that question in three 
+steps. First, we explain the standard that our cases have 
+used in determining whether the Fourteenth 
+Amendment's reference to “liberty” protects a particular 
+right. Second, we examine wheth er the right at issue in 
+this case is rooted in our Nation's history and tradition 
+and whether it is an essential component of what we 
+have described as “ordered liberty.” Finally, we consider 
+whether a right to obtain an abortion is part of a broader 
+entrenched right that is supported by other precedents. 
+A 
+1 
+Constitutional analysis must begin with “the language of 
+the instrument,” *2245 which offers a “fixed standard” 
+for ascertaining what our founding document means . 
+The Constitution makes no express reference to a right 
+to obtain an abortion, and therefore those who claim that 
+it protects such a right must show that the right is 
+somehow implicit in the constitutional text. 
+Roe, however, was remarkably loose in its treatment of 
+the constitutional text. It held that the abortion right, 
+which is not mentioned in the Constitution, is part of a 
+right to privacy, which is also not mentioned. And that 
+privacy right, Roe observed, had been found to spring 
+from no fewer than five different constitutional 
+provisions—the First, Fourth, Fifth, Ninth, and 
+Fourteenth Amendments.  
+Roe expressed the “feel[ing]” that the Fourteenth 
+Amendment was the provision that did the work, but its 
+message seemed to be that the abortion right could be 
+found somewhere in the Constitution and that specifying 
+Course Reader Page 59
+
+[PDF PAGE 60]
+For Educational Use Only  
+Dobbs v. Jackson Women's Health Organization, 142 S.Ct. 2228 (2022)  
+213 L.Ed.2d 545, Med & Med GD (CCH) P 307,405, 22 Cal. Daily Op. Serv. 6241... 
+  
+ © 2023 Thomson Reuters. No claim to original U.S. Government Works. 4 
+its exact location was not of paramount importance. The 
+Casey Court did not defend this unfocused analysis and 
+instead grounded its decision solely on the theory that 
+the right to obtain an abortion is part of the “liberty” 
+protected by the Fourteenth Amendment's Due Process 
+Clause. 
+  
+We discuss this theory in depth below, but before doing 
+so, we briefly address one additional constitutional 
+provision that some of respondents' amici have now 
+offered as yet another potential home for the abortion 
+right: the Fourteenth Amendment's Equal Protection 
+Clause. Neither Roe nor Casey saw fit to invoke this 
+theory, and it is squarely foreclosed by our precedents, 
+which establish that a State's regulation of abortion is not 
+a sex-based classification and is thus not subject to the 
+“heightened scrutiny” that applies to such 
+classifications. The regulation of a medical procedure 
+that only one sex can undergo does not trigger 
+heightened constitutional *2246 scrutiny unless the 
+regulation is a “mere pretex[t] designed to effect an 
+invidious discrimination against members of one sex or 
+the other.” And as the Court has stated, the “goal of 
+preventing abortion” does not constitute “invidiously 
+discriminatory ani mus” against women. Accordingly, 
+laws regulating or prohibiting abortion are not subject to 
+heightened scrutiny. Rather, they are governe d by the 
+same standard of review as other health and safety 
+measures.  
+  
+With this new theory addressed, we turn to Casey’s bold 
+assertion that the abortion right is an aspect of the 
+“liberty” protected by the Due Process Clause of the 
+Fourteenth Amendment.  
+2 
+The underlying theory on which this argument rests —
+that the Fourteenth Amendment's Due Process Clause 
+provides substantive, as well as procedural, protection 
+for “liberty” —has long been controversial. But our 
+decisions have held that the Due Process Clause protects 
+two categories of substantive rights. 
+  
+The first consists of rights guaranteed by the first eight 
+Amendments. Those Amendments originally applied 
+only to the Federal Government, but this Court has held 
+that the Due Process Clause of the Fourteenth 
+Amendment “incorporates” the great majority of those 
+rights and thus makes them equally applicable to the 
+States. The second category —which is the one in 
+question here —comprises a select list of fundamental 
+rights that are not mentioned anywhere in the 
+Constitution. 
+  
+In deciding whether a right falls into either of these 
+categories, the Court has long asked whether the right is 
+“deeply rooted in [our] history and tradition” and 
+whether it is essential to our Nation's “scheme of ordered 
+liberty.” And in conducting this inquiry, we have 
+engaged in a careful analysis of the history of the right 
+at issue. 
+  
+Justice Ginsburg's opinion for the Court in Timbs v. 
+Indiana, 139 S.Ct. 682 (2019), is a recent example. In 
+concluding that the Eighth Amendment's protection 
+against excessive fines is “fundamental to our scheme of 
+ordered liberty” and “deeply rooted in this Nation's 
+history and tradition,” her opinion traced the right back 
+to Magna Carta, Blackstone's Commentaries, and 35 of 
+the 37 state constitutions in effect at the *2247 
+ratification of the Fourteenth Amendment. 
+  
+A similar inquiry was undertaken in McDonald v. 
+Chicago, 561 U.S. 742 (2010) , which held that the 
+Fourteenth Amendment protects the right to keep and 
+bear arms. The lead opinion surveyed the origins of the 
+Second Amendment, the debates in Congress about  the 
+adoption of the Fourteenth Amendment, the state 
+constitutions in effect when that Amendment was 
+ratified (at least 22 of the 37 States protected the right to 
+keep and bear arms), federal laws enacted during the 
+same period, and other relevant historic al evidence. 
+Only then did the opinion conclude that “the Framers 
+and ratifiers of the Fourteenth Amendment counted the 
+right to keep and bear arms among those fundamental 
+rights necessary to our system of ordered liberty.”  
+  
+Course Reader Page 60
+
+[PDF PAGE 61]
+For Educational Use Only 
+Dobbs v. Jackson Women's Health Organization, 142 S.Ct. 2228 (2022) 
+213 L.Ed.2d 545, Med & Med GD (CCH) P 307,405, 22 Cal. Daily Op. Serv. 6241... 
+ © 2023 Thomson Reuters. No claim to original U.S. Government Works. 5 
+Timbs and McDonald concerned the question whether 
+the Fourteenth Amendment protects rights that are 
+expressly set out in the Bill of Rights, and it would be 
+anomalous if similar historical support were not required 
+when a putative right is not mentioned anywhere in the 
+Constitution. Thus, in Glucksberg, which held that the 
+Due Process Clause does not confer a right to assisted 
+suicide, the Court surveyed more than 700 years of 
+“Anglo-American common law tradition,” and made 
+clear that a fundamental right must be “objectively, 
+deeply rooted in this Nation's history and tradition.” 
+Historical inquiries of this nature are essential whenever 
+we are asked to recognize a new component of the 
+“liberty” protected by the Due Process Clause because 
+the term “liberty” alone provides little guidance. 
+“Liberty” is a capacious term. As Lincoln once said: “We 
+all declare for Liberty; but in using the same word we do 
+not all mean the sa me thing.” In a well -known essay, 
+Isaiah Berlin reported that “[h]istorians of ideas” had 
+cataloged more than 200 different senses in which the 
+term had been used.  
+In interpreting what is meant by the Fourteenth 
+Amendment's reference to “liberty,” we must guard 
+against the natural human tendency to confuse what that 
+Amendment protects with our own ardent views about 
+the liberty that Americans should enjoy. That is why the 
+Court has long been “reluctant” to recognize rights that 
+are not mentioned in the Constitution. “Substantive due 
+process has at times been a treacherous field for this 
+Court,” and it has sometimes led the Court to usurp 
+authority that the Constitution entrusts to the people's 
+elected representatives. As the Court cautioned in 
+Glucksberg, “[w]e must ... exercise the utmost care 
+whenever we are asked to break new ground in this field, 
+lest the liberty protected by the Due Process Clause be 
+subtly transformed into the policy preferences *2248 of 
+the Members of this Court.” 
+On occasion, when the Court has ignored the 
+“[a]ppropriate limits” imposed by “ respect for the 
+teachings of history,” it has fallen into the freewheeling 
+judicial policymaking that characterized discredited 
+decisions such as Lochner v. New York (1905). The Court 
+must not fall prey to such an unprincipled approach. 
+Instead, guided by the history and tradition that map the 
+essential components of our Nation's concept of ordered 
+liberty, we must ask what the Fourteenth Amendment 
+means by the term “liberty.” When we engage in that 
+inquiry in the present case, the clear answer is that the 
+Fourteenth Amendment does not protect the right to an 
+abortion.  
+B 
+1 
+Until the latter part of the 20th century, there was no 
+support in American law for a constitutional right to 
+obtain an abortion. No state constitutional provision had 
+recognized such a right. Until a few years before Roe 
+was handed down, no federal or state court had 
+recognized such a right. Nor had any scholarly treatise 
+of which we are aware. And although law review articles 
+are not reticent about advocating new rights, the earliest 
+article proposing a constitutional right to abortion that 
+has come to our attention was published only a few years 
+before Roe.  
+Not only was there no support for such a constitutional 
+right until shortly before Roe, but abortion had long been 
+a crime in every single State. At common law, abortion 
+was criminal in at least some stages of pregnancy and 
+was regarded as unlawful and could have very serious 
+consequences at all stages. American law followed the 
+common law until a wave of statutory restrictions in the 
+1800s expanded criminal liability for abortions. By the 
+time of the adoption of the Fourteenth Amendment, 
+three-quarters of the States had made abortion a crime at 
+any stage of pregnancy, *2249 and the remaining States 
+would soon follow. 
+Roe either ignored or misstated this history, and Casey 
+declined to reconsider Roe’s faulty historical analysis. It 
+is therefore important to set the record straight. 
+Course Reader Page 61
+
+[PDF PAGE 62]
+For Educational Use Only  
+Dobbs v. Jackson Women's Health Organization, 142 S.Ct. 2228 (2022)  
+213 L.Ed.2d 545, Med & Med GD (CCH) P 307,405, 22 Cal. Daily Op. Serv. 6241... 
+  
+ © 2023 Thomson Reuters. No claim to original U.S. Government Works. 6 
+2 
+a 
+We begin with the common law, under which abortion 
+was a crime at least after “quickening”—i.e., the first felt 
+movement of the fetus in the womb, which usually 
+occurs between the 16th and 18th week of pregnancy.  
+  
+The “eminent common -law authorities (Blackstone, 
+Coke, Hale, and the like),” all describe abortion after 
+quickening as criminal.... 
+  
+Sir Edward Coke's 17th -century treatise likewise 
+asserted that abortion of a quick child was “murder” if 
+the “childe be born alive” and a “great misprision” if the 
+“childe dieth in her body.” Two treatises by Sir Matthew 
+Hale likewise described abortion of a quick child who 
+died in the womb as a “great crime” and a “great 
+misprision.” And writing near the time of the adoption 
+of our Constitution, William Blackstone explained that 
+abortion of a “quick” child was “by the ancient law 
+homicide or manslaughter”, and at least a very “heinous 
+misdemeanor.”  
+  
+English cases dating all the way back to the 13th century 
+corroborate the treatises' statements that abortion was a 
+crime.  
+  
+Although a pre -quickening abortion was not itself 
+considered homicide, it does not follow that abortion 
+was permissible at common law —much less that 
+abortion was a legal right.  
+  
+*2251 In sum, although common -law authorities 
+differed on the severity of punishment for abortions 
+committed at different points in pregnancy, none 
+endorsed the practice. Moreover, we are aware of no 
+common-law case or authority, and the parties have not 
+pointed to any, that remotely suggests a positive right to 
+procure an abortion at any stage of pregnancy. 
+ 
+b 
+In this country, the historical record is similar. The few 
+cases available from the early colonial period 
+corroborate that abortion was a crime. In Maryland in 
+1652, for example, an indictment charged that a man 
+“Murtherously endeavoured to destroy or Murt her the 
+Child by him begotten in the Womb.” And by the 19th 
+century, courts frequently explained that the common 
+law made abortion of a quick child a crime.  
+c 
+The original ground for drawing a distinction between 
+pre- and post-quickening abortions is not entirely clear, 
+but some have attributed the rule to the difficulty of 
+proving that a pre -quickening fetus was alive. At that 
+time, there were no scientific met hods for detecting 
+pregnancy in its early stages[.] ... 
+  
+The Solicitor General offers a different explanation of 
+the basis for the quickening rule, namely, that before 
+quickening the common law did not regard a fetus “as 
+having a ‘separate and independent existence.’ ” But the 
+case on which the Solicitor General  relies for this 
+proposition also suggested that the criminal law's 
+quickening rule was out of step with the treatment of 
+prenatal life in other areas of law, noting that “to many 
+purposes, in reference to civil rights, an infant in ventre 
+sa mere is regarded as a person in being.” 
+  
+At any rate, the original ground for the quickening rule 
+is of little importance for present purposes because the 
+rule was abandoned in the 19th century. During that 
+period, treatise writers and commentators criticized the 
+quickening distinction as “neither in accordance with the 
+result of medical experience, nor with the principles of 
+the common law. In 1803, the British Parliament made 
+abortion a crime at all stages of pregnancy and 
+authorized the imposition of severe punishment. One 
+scholar has suggested that Parliament's decision “may 
+partly have been attributable to the medical man's 
+concern that fetal life should be protected by the law at 
+all stages of gestation.”  
+Course Reader Page 62
+
+[PDF PAGE 63]
+For Educational Use Only 
+Dobbs v. Jackson Women's Health Organization, 142 S.Ct. 2228 (2022) 
+213 L.Ed.2d 545, Med & Med GD (CCH) P 307,405, 22 Cal. Daily Op. Serv. 6241... 
+ © 2023 Thomson Reuters. No claim to original U.S. Government Works. 7 
+In
+ this country during the 19th century, the vast majority 
+of the States enacted statutes criminalizing abortion at 
+all stages of pregnancy. See Appendix A, infra (listing 
+state statutory provisions in chronological order). By 
+1868, the year when the *2253 Fourteenth Amendment 
+was ratified, three -quarters of the States, 28 out of 37, 
+had enacted statutes making abortion a crime even if it 
+was performed before quickening. Of the nine States that 
+had not yet criminalized abortion at all stages, all but one 
+did so by 1910.  
+The trend in the Territories that would become the last 
+13 States was similar: All of them criminalized abortion 
+at all stages of pregnancy between 1850 (the Kingdom 
+of Hawaii) and 1919 (New Mexico). By the end of the 
+1950s, according to the Roe Court's own count, statutes 
+in all but four States and the District of Columbia 
+prohibited abortion “however and whenever performed, 
+unless done to save or preserve the life of the mother.”  
+This overwhelming consensus endured until the day Roe 
+was decided. At that time, also by the Roe Court's own 
+count, a substantial majority —30 States —still 
+prohibited abortion at all stages except to save the life of 
+the mother. And though Roe discerned a “trend toward 
+liberalization” in about “one -third of the States,” those 
+States still criminalized some abortions and regulated 
+them more stringently than Roe would allow. In short, 
+the “Court's opinion in Roe itself convincingly refutes 
+the notion that the abortion liberty is deeply rooted in the 
+history or tradition of our people.”  
+d 
+The inescapable conclusion is that a right to abortion is 
+not deeply rooted in the Nation's history and traditions. 
+On the contrary, an unbroken tradition of prohibiting 
+abortion on pain of criminal punishment*2254 persisted 
+from the earliest days of the common law until 1973.  
+3 
+Respondents and their amici have no persuasive answer 
+to this historical evidence. 
+Neither respondents nor the Solicitor General disputes 
+the fact that by 1868 the vast majority of States 
+criminalized abortion at all stages of pregnancy. Instead, 
+respondents are forced to argue that it “does [not] matter 
+that some States prohibited abortion at the time Roe was 
+decided or when the Fourteenth Amendment was 
+adopted.” But that argument flies in the face of the 
+standard we have applied in determining whether an 
+asserted right that is nowhere mentioned in the 
+Constitution is nevertheless protected by the Fourteenth 
+Amendment. 
+Not only are respondents and their amici unable to show 
+that a constitutional right to abortion was established 
+when the Fourteenth Amendment was adopted, but they 
+have found no support for the existence of an abortion 
+right that predates the latter part of the 20th century—no 
+state constitution al provision, no statute, no judicial 
+decision, no learned treatise.  
+Recall that at the time of the adoption of the Fourteenth 
+Amendment, over three -quarters of the States had 
+adopted statutes criminalizing abortion (usually at all 
+stages of pregnancy), and that from the early 20th 
+century until the day Roe was handed down, every single 
+State had such a law on its books. 
+There is ample evidence that the passage of these laws 
+was ... spurred by a sincere belief that abortion kills a 
+human being. Many judicial decisions from the late 19th 
+and early 20th centuries made that point. 
+One may disagree with this belief (and our decision is 
+not based on any view about when a State should regard 
+prenatal life as having rights or legally cognizable 
+interests), but even Roe and Casey did not question the 
+good faith of abortion opponents. 
+Course Reader Page 63
+
+[PDF PAGE 64]
+For Educational Use Only  
+Dobbs v. Jackson Women's Health Organization, 142 S.Ct. 2228 (2022)  
+213 L.Ed.2d 545, Med & Med GD (CCH) P 307,405, 22 Cal. Daily Op. Serv. 6241... 
+  
+ © 2023 Thomson Reuters. No claim to original U.S. Government Works. 8 
+C 
+1 
+Instead of seriously pressing the argument that the 
+abortion right itself has deep roots, supporters of Roe 
+and Casey contend that the abortion right is an integral 
+part of a broader entrenched right. Roe termed this a 
+right to privacy, and Casey described it as the freedom 
+to make “intimate and personal choices” that are “central 
+to personal dignity and autonomy,” Casey elaborated: 
+“At the heart of liberty is the right to define one's own 
+concept of existence, of meaning, of the universe, and of 
+the mystery of human life.”  
+  
+The Court did not claim that this broadly framed right is 
+absolute, and no such claim would be plausible.  
+  
+Ordered liberty sets limits and defines the boundary 
+between competing interests. Roe and Casey each struck 
+a particular balance between the interests of a woman 
+who wants an abortion and the interests of what they 
+termed “potential life.” But the people of the various 
+States may evaluate those interests differently. In some 
+States, voters may believe that the abortion right should 
+be even more extensive than the right that Roe and Casey 
+recognized. V oters in other States may wish to impose 
+tight restrictions based on their belief that abortion 
+destroys an “unborn human being.” Miss. Code Ann. § 
+41–41–191(4)(b). Our Nation's historical understanding 
+of ordered liberty does not prevent the people's elected 
+representatives from deciding how abortion should be 
+regulated. 
+  
+Nor does the right to obtain an abortion have a sound 
+basis in precedent. Casey relied on cases involving the 
+right to marry a person of a different race; the right to 
+marry while in prison; the right to obtain contraceptives; 
+the right to reside with relatives; the right to make 
+decisions about the education of one's children; the right 
+not to be sterilized without consent; and the right in 
+certain circumstances not to undergo involuntary 
+surgery, forced administration of drugs, or other 
+substantially similar procedures. Respondents and the 
+Solicitor General also rely on post-Casey decisions like 
+Lawrence v. Texas (2003) (right to engage in private, 
+consensual sexual acts), and Obergefell v. Hodges  
+(2015) (right to marry a person of the same sex).  
+  
+These attempts to justify abortion through appeals to a 
+broader right to autonomy and to define one's “concept 
+of existence” prove too much. Those criteria, at a high 
+level of generality, could license fundamental rights to 
+illicit drug use, prostitution, and the like. None of these 
+rights has any claim to being deeply rooted in history.  
+  
+What sharply distinguishes the abortion right from the 
+rights recognized in the cases on which Roe and Casey 
+rely is something that both those decisions 
+acknowledged: Abortion destroys what those decisions 
+call “potential life” and what the law at issue in this case 
+regards as the life of an “unborn human being.” None of 
+the other decisions cited by Roe and Casey involved the 
+critical moral question posed by abortion. They are 
+therefore inapposite. They do not support the right to 
+obtain an abortion, and by  the same token, our 
+conclusion that the Constitution does not confer such a 
+right does not undermine them in any way. 
+2 
+Abortion is nothing new. It has been addressed by 
+lawmakers for centuries, and the fundamental moral 
+question that it poses is ageless. 
+  
+Defenders of Roe and Casey do not claim that any new 
+scientific learning calls for a different answer to the 
+underlying moral question, but they do contend that 
+changes in society require the recognition of a 
+constitutional right to obtain an abortion. Without the 
+availability of a bortion, they maintain, people will be 
+inhibited from exercising their freedom to choose the 
+types of relationships they desire, and women will be 
+unable to compete with men in the workplace and in 
+other endeavors. 
+  
+Course Reader Page 64
+
+[PDF PAGE 65]
+For Educational Use Only 
+Dobbs v. Jackson Women's Health Organization, 142 S.Ct. 2228 (2022) 
+213 L.Ed.2d 545, Med & Med GD (CCH) P 307,405, 22 Cal. Daily Op. Serv. 6241... 
+ © 2023 Thomson Reuters. No claim to original U.S. Government Works. 9 
+Americans who believe that abortion should be 
+restricted press countervailing arguments about modern 
+developments. They note that attitudes about the 
+pregnancy of unmarried women have changed 
+drastically; that federal and state laws ban discrimination 
+on the basis of pregnancy; that leave for pregnancy and 
+childbirth are *2259 now guaranteed by law in many 
+cases; that the costs of medical care associated with 
+pregnancy are covered by insurance or government 
+assistance; that States have increasingly adopted “safe 
+haven” laws, which generally allow women to drop off 
+babies anonymously; and that a woman who puts her 
+newborn up for adoption today has little reason to fear 
+that the baby will not find a suitable home. They also 
+claim that many people now have a new appreciation of 
+fetal life and that when prospective parents who want to 
+have a child view a sonogram, they typically have no 
+doubt that what they see is their daughter or son. 
+Both sides make important policy arguments, but 
+supporters of Roe and Casey must show that this Court 
+has the authority to weigh those arguments and decide 
+how abortion may be regulated in the States. They have 
+failed to make that showing, and we thus return the 
+power to weigh those arguments to the people and their 
+elected representatives. 
+D 
+1 
+The dissent is very candid that it cannot show that a 
+constitutional right to abortion has any foundation, let 
+alone a “deeply rooted” one, “in this Nation's history and 
+tradition.” The dissent does not identify any pre-Roe 
+authority that supports such a right —no state 
+constitutional provision or statute, no federal or state 
+judicial precedent, not even a scholarly treatise. Nor 
+does the dissent dispute the fact that abortion was illegal 
+at common law at least after quickening; that the 19th 
+century saw a *2260 trend toward criminalization of pre-
+quickening abortions; that by 1868, a supermajority of 
+States (at least 26 of 37) had enacted statutes 
+criminalizing abortion at all stages of pregnancy; that by 
+the late 1950s at least 46 States prohibited abortion 
+“however and whenever performed” except if necessary 
+to save “the life of the mother,” and that when Roe was 
+decided in 1973 similar statutes were still in effect in 30 
+States.  
+The dissent's failure to engage with this long tradition is 
+devastating to its position. We have held that the 
+“established method of substantive -due-process 
+analysis” requires that an unenumerated right be “deeply 
+rooted in this Nation's history and tradition” before it can 
+be recognized as a component of the “liberty” protected 
+in the Due Process Clause. But despite the dissent's 
+professed fidelity to stare decisis, it fails to seriously 
+engage with that important precedent —which it cannot 
+possibly satisfy. 
+The dissent attempts to obscure this failure by 
+misrepresenting our application of Glucksberg. The 
+dissent suggests that we have focused only on “the legal 
+status of abortion in the 19th century,” but our review of 
+this Nation's tradition extends well past that period. As 
+explained, for more than a century after 1868 —
+including “another half-century” after women gained the 
+constitutional right to vote in 1920 —it was firmly 
+established that laws prohibiting abortion like the Texas 
+law at issue in Roe were permissible exercises of state 
+regulatory authority. And today, another half century 
+later, more than half of the States have asked us to 
+overrule Roe and Casey. The dissent cannot establish 
+that a right to abortion has ever been part of this Nation's 
+tradition. 
+2 
+Because the dissent cannot argue that the abortion right 
+is rooted in this Nation's history and tradition, it 
+contends that the “constitutional tradition” is “not 
+captured whole at a single moment,” and that its 
+“meaning gains content from the long sweep o f our 
+history and from successive judicial precedents.” This 
+vague formulation imposes no clear restraints on what 
+Course Reader Page 65
+
+[PDF PAGE 66]
+For Educational Use Only  
+Dobbs v. Jackson Women's Health Organization, 142 S.Ct. 2228 (2022)  
+213 L.Ed.2d 545, Med & Med GD (CCH) P 307,405, 22 Cal. Daily Op. Serv. 6241... 
+  
+ © 2023 Thomson Reuters. No claim to original U.S. Government Works. 10 
+Justice White called the “exercise of raw judicial 
+power,” and while the dissent claims that its standard 
+“does not mean anything goes,” any real restraints are 
+hard to discern. 
+  
+The largely limitless reach of the dissenters' standard is 
+illustrated by the way they apply it here. First, if the 
+“long sweep of history” imposes any restraint on the 
+recognition of unenumerated rights, then Roe was surely 
+wrong, since abortion was never allowed (except to save 
+the life of the mother) in a majority of States for over 
+100 years before that decision was handed down. 
+Second, it is impossible to defend Roe based on prior 
+precedent because all of the precedents Roe cited, 
+including Griswold and Eisenstadt, were critically 
+different for a reason that we have explained: None of 
+those cases involved the destruction of what Roe called 
+“potential life.”  
+  
+*2261 So without support in history or relevant 
+precedent, Roe’s reasoning cannot be defended even 
+under the dissent's proposed test, and the dissent is 
+forced to rely solely on the fact that a constitutional right 
+to abortion was recognized in Roe and later decisions 
+that accepted Roe’s interpretation. Under the doctrine of 
+stare decisis, those precedents are entitled to careful and 
+respectful consideration, and we engage in that analysis 
+below. But as the Court has reiterated time and time 
+again, adherence to precedent is not “ an inexorable 
+command.” There are occasions when past decisions 
+should be overruled, and as we will explain, this is one 
+of them. 
+  
+3 
+The most striking feature of the dissent is the absence of 
+any serious discussion of the legitimacy of the States' 
+interest in protecting fetal life. This is evident in the 
+analogy that the dissent draws between the abortion right 
+and the rights recognized  in Griswold (contraception), 
+Eisenstadt (same), Lawrence (sexual conduct with 
+member of the same sex) , and Obergefell (same-sex 
+marriage). Perhaps this is designed to stoke unfounded 
+fear that our decision will imperil those other rights, but 
+the dissent's analogy is objectionable for a more 
+important reason: what it reveals about the dissent's 
+views on the protection of what Roe called “potential 
+life.” The exercise of the rights at issue in Griswold, 
+Eisenstadt, Lawrence, and Obergefell does not destroy a 
+“potential life,” but an abortion has that effect. So if the 
+rights at issue in those cases are fundamentally the same 
+as the right recognized in Roe and Casey, the implication 
+is clear: The Constitution does not permit the States to 
+regard the destruction of a “potential life” as a matter of 
+any significance. 
+  
+Our opinion is not based on any view about if and when 
+prenatal life is entitled to any of the rights enjoyed after 
+birth. The dissent, by contrast, would impose on the 
+people a particular theory about when the rights of 
+personhood begin. According to the dissent, the 
+Constitution requires the States to regard a fetus as 
+lacking even the most basic human right —to live—at 
+least until an arbitrary point in a pregnancy has passed. 
+Nothing in the Constitution or in our Nation's legal 
+traditions authorizes the C ourt to adopt that “ theory of 
+life.” 
+III 
+We next consider whether the doctrine of stare decisis 
+counsels continued acceptance of Roe and Casey. Stare 
+decisis plays an important role in our case law, and we 
+have explained that it serves many valuable ends. It 
+protects the interests of *2262 those who have taken 
+action in reliance on a past decision. It “reduces 
+incentives for challenging settled precedents, saving 
+parties and courts the expense of endless relitigation.” It 
+fosters “evenhanded” decisionmaking by requiring that 
+like cases be decided in a like manner. It “contributes to 
+the actual and perceived integrity of the judicial 
+process.” And it restrains judicial hubris and reminds us 
+to respect the judgment of those who have grappled with 
+important questions in the past. “Precedent is a way of 
+accumulating and passing down the learning of past 
+generations, a font of established wisdom ric her than 
+what can be found in any single judge or panel of 
+Course Reader Page 66
+
+[PDF PAGE 67]
+For Educational Use Only 
+Dobbs v. Jackson Women's Health Organization, 142 S.Ct. 2228 (2022) 
+213 L.Ed.2d 545, Med & Med GD (CCH) P 307,405, 22 Cal. Daily Op. Serv. 6241... 
+ © 2023 Thomson Reuters. No claim to original U.S. Government Works. 11 
+judges.” N. Gorsuch, A Republic, If You Can Keep It 
+217 (2019). 
+We have long recognized, however, that stare decisis is 
+“not an inexorable command,” and it “is at its weakest 
+when we interpret the Constitution.” It has been said that 
+it is sometimes more important that an issue “ be settled 
+than that it be settled right. ” But when it comes to the 
+interpretation of the Constitution—the “great charter of 
+our liberties,” which was meant “to endure through a 
+long lapse of ages,” —we place a high value on having 
+the matter “settled right.” In addition, when one of our 
+constitutional decisions goes astray, the country is 
+usually stuck with the bad decision unless we correct our 
+own mistake. An erroneous constitutional decision can 
+be fixed by amending the Constitution, but our 
+Constitution is notoriously hard to amend. Therefore, in 
+appropriate circumstances we must be willing to 
+reconsider and, if necessary, overrule constitutional 
+decisions. 
+Some of our most important constitutional decisions 
+have overruled prior precedents. We mention three. In 
+Brown v. Board of Education  (1954), the Court 
+repudiated the “separate but equal” doctrine, which had 
+allowed States to maintain racially segregated schools 
+and other facilities. In so doing, the Court overruled the 
+infamous decision in Plessy v. Ferguson (1896), along 
+with six other Supreme Court precedents that had 
+applied the separate-but-equal rule.  
+In West Coast Hotel Co. v. Parrish  (1937), the Court 
+overruled Adkins v. Children's Hospital of D. C. (1923), 
+which had held that a law setting minimum wages for 
+women violated the “liberty” protected by the Fifth 
+Amendment's Due Process Clause. West Coast Hotel  
+signaled the demise of an entire line of important 
+precedents that had protected an individual liberty right 
+against state and federal health and welfare legislation. 
+See Lochner v. New York (1905) (holding invalid a law 
+setting maximum working hours); *2263Coppage v. 
+Kansas (1915) (holding invalid a law banning contracts 
+forbidding employees to join a union); Jay Burns Baking 
+Co. v. Bryan  (1924) (holding invalid laws fixing the 
+weight of loaves of bread). 
+Finally, in West Virginia Bd. of Ed. v. Barnette  (1943), 
+after the lapse of only three years, the Court overruled 
+Minersville School Dist. v. Gobitis (1940), and held that 
+public school students could not be compelled to salute 
+the flag in violation of their sincere beliefs. Barnette 
+stands out because nothing had changed during the 
+intervening period other than the Court's belated 
+recognition that its earlier decision had been seriously 
+wrong. 
+On many other occasions, this Court has overruled 
+important constitutional decisions. Without these 
+decisions, *2264 American constitutional law as we 
+know it would be unrecognizable, and this would be a 
+different country. 
+Our cases have attempted to provide a framework for 
+deciding when a precedent should be overruled, and they 
+have identified factors that should be considered in 
+making such a decision.  
+*2265 In this case, five factors weigh strongly in favo r
+of
+ overruling Roe and Casey: the nature of their error ,
+th
+e quality of their reasoning, the “workability” of the
+rules they imposed on the country, their disruptive effect
+on 
+other areas of the law, and the absence of concret e
+re
+liance.
+A 
+The nature of the Court's error . An erroneous 
+interpretation of the Constitution is always important, 
+but some are more damaging than others. 
+The infamous decision in Plessy v. Ferguson, was one 
+such decision. It betrayed our commitment to “equality 
+before the law.” It was “egregiously wrong” on the day 
+it was decided[.] 
+Roe was also egregiously wrong and deeply damaging. 
+For reasons already explained, Roe’s constitutional 
+Course Reader Page 67
+
+[PDF PAGE 68]
+For Educational Use Only  
+Dobbs v. Jackson Women's Health Organization, 142 S.Ct. 2228 (2022)  
+213 L.Ed.2d 545, Med & Med GD (CCH) P 307,405, 22 Cal. Daily Op. Serv. 6241... 
+  
+ © 2023 Thomson Reuters. No claim to original U.S. Government Works. 12 
+analysis was far outside the bounds of any reasonable 
+interpretation of the various constitutional provisions to 
+which it vaguely pointed. 
+  
+Roe was on a collision course with the Constitution from 
+the day it was decided, Casey perpetuated its errors, and 
+those errors do not concern some arcane corner of the 
+law of little importance to the American people. Rather, 
+wielding nothing but “raw judicial power,” the Court 
+usurped the power to address a question of profound 
+moral and s ocial importance that the Constitution 
+unequivocally leaves for the people. ...The Court short-
+circuited the democratic process by closing it to the large 
+number of Americans who dissented in any respect from 
+Roe. “Roe fanned into life an issue that has inflamed our 
+national politics in general, and has obscured with its 
+smoke the selection of Justices to this Court in particular, 
+ever since.” Casey (opinion of Scalia, J.). Together, Roe 
+and Casey represent an error that cannot be allowed to 
+stand. 
+  
+As the Court's landmark decision in West Coast Hotel 
+illustrates, the Court has previously overruled decisions 
+that wrongly removed an issue from the people and the 
+democratic process. ... 
+B 
+The quality of the reasoning. Under our precedents, the 
+quality of the reasoning in a prior case has an important 
+bearing on whether it should be reconsidered. In Part II, 
+supra, we explained why Roe was incorrectly decided, 
+but that decision was more than just wrong. It stood on 
+exceptionally weak grounds. 
+  
+Roe found that the Constitution implicitly conferred a 
+right to obtain an abortion, but it failed to ground its 
+decision in text, history, or precedent. It relied on an 
+erroneous historical narrative; it devoted great attention 
+to and presumably relied on matters that have no bearing 
+on the meaning of the Constitution; it disregarded the 
+fundamental difference between the precedents on 
+which it relied and the question before the Court; it 
+concocted an elaborate set of rules, with different 
+restrictions for each trimester of pregnancy, but it did not 
+explain how this veritable code could be teased out of 
+anything in the Constitution, the history of abortion 
+laws, prior precedent, or any other cited source; and its 
+most important rule (that States cannot protect fetal life 
+prior to “viability”) was never raised by any party and 
+has never been plausibly explained. Roe’s reasoning 
+quickly drew scathing scholarly criticism, even from 
+supporters of broad access to abortion. 
+  
+The Casey plurality, while reaffirming Roe’s central 
+holding, pointedly refrained from endorsing most of its 
+reasoning. It revised the textual basis for the abortion 
+right, silently abandoned Roe’s erroneous historical 
+narrative, and jettisoned the trimester framework. But it 
+replaced that scheme with an arbitrary “undue burden” 
+test and relied on an exceptional version of stare decisis 
+that, as explained below, this Court had never before 
+applied and has never invoked since. 
+1 
+a 
+The weaknesses in Roe’s reasoning are well -known. 
+Without any grounding in the constitutional text, history, 
+or precedent, it imposed on the entire country a detailed 
+set of rules much like those that one might expect to find 
+in a statute or regulation. ...This elaborate scheme was 
+the Court's own brainchild. Neither party advocated the 
+trimester framework; nor did either party or any amicus 
+argue that “viability” should mark the point at which the 
+scope of the abortion right and a State's regulatory 
+authority should be substantially transformed.  
+b 
+Not only did this scheme resemble the work of a 
+legislature, but the Court made little effort to explain 
+how these rules could be deduced from any of the 
+sources *2267 on which constitutional decisions are 
+usually based.  
+Course Reader Page 68
+
+[PDF PAGE 69]
+For Educational Use Only 
+Dobbs v. Jackson Women's Health Organization, 142 S.Ct. 2228 (2022) 
+213 L.Ed.2d 545, Med & Med GD (CCH) P 307,405, 22 Cal. Daily Op. Serv. 6241... 
+ © 2023 Thomson Reuters. No claim to original U.S. Government Works. 13 
+Ro
+e featured a lengthy survey of history, but much of its 
+discussion was irrelevant, and the Court made no effort 
+to explain why it was included. For example, multiple 
+paragraphs were devoted to an account of the views and 
+practices of ancient civilizations where infanticide was 
+widely accepted. When it came to the most important 
+historical fact—how the States regulated abortion when 
+the Fourteenth Amendment was adopted —the Court 
+said almost nothing. It allowed that States had tightened 
+their abortion laws “in the middle and late 19th century,” 
+but it implied that these laws might have been enacted 
+not to protect fetal life but to further “a Victorian social 
+concern” about “illicit sexual conduct[.]” 
+Roe’s failure even to note the overwhelming consensus 
+of state laws in effect in 1868 is striking, and what it said 
+about the common law was simply wrong. Relying on 
+two discredited articles by an abortion advocate, the 
+Court erroneously suggested —contrary to  Bracton, 
+Coke, Hale, Blackstone, and a wealth of other 
+authority—that the common law had probably never 
+really treated post-quickening abortion as a crime. This 
+erroneous understanding appears to have played an 
+important part in the Court's thinking because the 
+opinion cited “the lenity of the common law” as one of 
+the four factors that informed its decision.  
+After surveying history, the opinion spent many 
+paragraphs conducting the sort of fact-finding that might 
+be undertaken by a legislative committee. This included 
+a lengthy account of the “position of the American 
+Medical Association” and “[t]he position of  the 
+American Public Health Association,” as well as the 
+vote by the American Bar Association's House of 
+Delegates in February 1972 on proposed abortion 
+legislation. Also noted were a British judicial decision 
+handed down in 1939 and a new British abortion  law 
+enacted in 1967 . The Court did not explain why these 
+sources shed light on the meaning of the Constitution, 
+and not one of them adopted or advocated anything like 
+the scheme that Roe imposed on the country. 
+Finally, after all this, the Court turned to precedent. 
+Citing a broad array of cases, the Court found support 
+for a constitutional “right of personal privacy,” but it 
+conflated two very different meanings of the term: the 
+right to shield information from disclosure and the right 
+to make and implement important personal decisions 
+without governmental interference. Only the cases 
+involving this second sense of the term could have any 
+possible relevance to the abortion issue, *2268 and some 
+of the cases in that category involved personal decisions 
+that were obviously very, very far afield. See Pierce 
+(right to send children to religious school); Meyer (right 
+to have children receive German language instruction). 
+What remained was a handful of cases having something 
+to do with marriage, Loving (right to marry a person of 
+a different race), or procreation, Skinner (right not to be 
+sterilized); Griswold (right of married persons to obtain 
+contraceptives); Eisenstadt (same, for unmarried 
+persons). But none of these decisions involved what is 
+distinctive about abortion: its effect on what Roe termed 
+“potential life.” 
+c 
+What Roe did not provide was any cogent justification 
+for the lines it drew. Why, for example, does a State have 
+no authority to regulate first trimester abortions for the 
+purpose of protecting a woman's health? The Court's 
+only explanation was that mortality rates for abortion at 
+that stage were lower than the mortality rates for 
+childbirth. But the Court did not explain why mortality 
+rates were the only factor that a State could legitimately 
+consider. Many health and safety regulations aim to 
+avoid adverse health consequences short of death. And 
+the Court did not explain why it departed from the 
+normal rule that courts defer to the judgments of 
+legislatures “in areas fraught with medical and scientific 
+uncertainties.”  
+An even more glaring deficiency was Roe’s failure to 
+justify the critical distinction it drew between pre - and 
+post-viability abortions. ... 
+Course Reader Page 69
+
+[PDF PAGE 70]
+For Educational Use Only  
+Dobbs v. Jackson Women's Health Organization, 142 S.Ct. 2228 (2022)  
+213 L.Ed.2d 545, Med & Med GD (CCH) P 307,405, 22 Cal. Daily Op. Serv. 6241... 
+  
+ © 2023 Thomson Reuters. No claim to original U.S. Government Works. 14 
+The definition of a “viable” fetus is one that is capable 
+of surviving outside the womb, but why is this the point 
+at which the State's interest becomes compelling? If, as 
+Roe held, a State's interest in protecting prenatal life is 
+compelling “after viability,” why isn't that interest 
+“equally compelling before viability”? Roe did not say, 
+and no explanation is apparent. 
+  
+This arbitrary line has not found much support among 
+philosophers and ethicists who have attempted to justify 
+a right to abortion. Some have argued that a fetus should 
+not be entitled to legal protection until it acquires the 
+characteristics that they regard as defining what it means 
+to be a “person.” Among the characteristics that have 
+been offered as essential attributes of “personhood” are 
+sentience, self-awareness, the ability to reason, or some 
+combination thereof. By this logic, it would be an open 
+question whether even born individuals, including 
+young children or those afflicted with certain 
+developmental or medical conditions, merit protection 
+as “persons.” But even if one takes the view that 
+“personhood” begins when a certain attribute or 
+combination of attributes is acquired, it is very hard to 
+see why viability should mark the point where 
+“personhood” begins. 
+  
+The most obvious problem with any such argument is 
+that viability is heavily dependent on factors that have 
+nothing to do with the characteristics of a fetus. One is 
+the state of neonatal care at a particular point in time. 
+Due to the development of new equipment and improved 
+practices, the viability line has changed over the years. 
+In the 19th century, a fetus may not have been viable 
+until the 32d or 33d week of pregnancy or even later. 
+When Roe was decided, viability was gauged at roughly 
+28 weeks. Today, respondents draw the line at 23 or 24 
+weeks. So, according to Roe’s logic, States now have a 
+compelling interest in protecting a fetus with a 
+gestational age of, say, 26 weeks, but in 1973 States did 
+*2270 not have an interest in protecting an identical 
+fetus. How can that be? 
+  
+Viability also depends on the “quality of the available 
+medical facilities.” Thus, a 24 -week-old fetus may be 
+viable if a woman gives birth in a city with hospitals that 
+provide advanced care for very premature babies, but if 
+the woman travels to a remote area far from any such 
+hospital, the fetus may no longer be viable. On what 
+ground could the constitutional status of a fetus depend 
+on the pregnant woman's location? And if viability is 
+meant to mark a line having universal moral 
+significance, can it be that a fetus that is viable in a big 
+city in the United States has a privileged moral status not 
+enjoyed by an identical fetus in a remote area of a poor 
+country? 
+  
+In addition, as the Court once explained, viability is not 
+really a hard-and-fast line. Ibid. A physician determining 
+a particular fetus's odds of surviving outside the womb 
+must consider “a number of variables,” including 
+“gestational age,” “fetal weight,” a woman's “general 
+health and nutrition,” the “quality of the available 
+medical facilities,” and other factors. It is thus “only 
+with difficulty” that a physician can estimate the 
+“probability” of a particular fetus's survival. And even if 
+each fetus's probability of survival could be ascertained 
+with certainty, settling on a “probabilit[y] of survival” 
+that should count as “viability” is another matter. Is a 
+fetus viable with a 10 percent chance of survival? 25 
+percent? 50 percent? Can such a judgment be made by a 
+State? And can a State specify a gestational age limit that 
+applies in all cases? Or must these difficult questions be 
+left entirely to the individual “attending physician on the 
+particular facts of the case before him”? 
+  
+The viability line, which Casey termed Roe’s central 
+rule, makes no sense, and it is telling that other countries 
+almost uniformly eschew such a line. The Court thus 
+asserted raw judicial power to impose, as a matter of 
+constitutional law, a uniform viability rule that allowed 
+the States less free dom to regulate abortion than the 
+majority of western democracies enjoy. 
+ 
+2 
+  
+*2272Casey, in short, either refused to reaffirm or 
+rejected important aspects of Roe’s analysis, failed to 
+remedy glaring deficiencies in Roe’s reasoning, 
+Course Reader Page 70
+
+[PDF PAGE 71]
+For Educational Use Only 
+Dobbs v. Jackson Women's Health Organization, 142 S.Ct. 2228 (2022) 
+213 L.Ed.2d 545, Med & Med GD (CCH) P 307,405, 22 Cal. Daily Op. Serv. 6241... 
+ © 2023 Thomson Reuters. No claim to original U.S. Government Works. 15 
+endorsed what it termed Roe’s central holding while 
+suggesting that a majority might not have thought it was 
+correct, provided no new support for the abortion right 
+other than Roe’s status as precedent, and imposed a new 
+and problematic test with no firm grounding in 
+constitutional text, history, or precedent. 
+As discussed below, Casey also deployed a novel 
+version of the doctrine of stare decisis . This new 
+doctrine did not account for the profound wrongness of 
+the decision in Roe, and placed great weight on an 
+intangible form of reliance with little if any basis in prior 
+case law. Stare decisis  does not command the 
+preservation of such a decision. 
+C 
+Workability. Our precedents counsel that another 
+important consideration in deciding whether a precedent 
+should be overruled is whether the rule it imposes is 
+workable—that is, whether it can be understood and 
+applied in a consistent and predictable manner. Casey’s 
+“undue burden” test has scored poorly on the 
+workability scale. 
+1 
+Problems begin with the very concept of an “undue 
+burden.” As Justice Scalia noted in his Casey partial 
+dissent, determining whether a burden is “due” or 
+“undue” is “inherently standardless.”  
+The Casey plurality tried to put meaning into the “undue 
+burden” test by setting out three subsidiary rules, but 
+these rules created their own problems. The first rule is 
+that “a provision of law is invalid, if its purpose or effect 
+is to place a substantial obstacle in the path of a woman 
+seeking an abortion before the fetus attains viability.” 
+But whether a particular obstacle qualifies as 
+“substantial” is often open to reasonable debate.  
+This ambiguity is a problem, and the second rule, which 
+applies at all stages of a pregnancy, muddies things 
+further. It states that measures designed “to ensure that 
+the woman's choice is informed” are constitutional so 
+long as they do not impose “an undue burden on the right 
+To the extent that this rule applies to pre -viability 
+abortions, it overlaps with the first rule and appears to 
+impose a different standard. Consider a law that imposes 
+an insubstantial obstacle but serves little purpose. As 
+applied to a pre -viability abortion, would such a 
+regulation be constitutional on the ground that it does not 
+impose a “ substantial obstacle”? Or would it be 
+unconstitutional *2273 on the ground that it creates an 
+“undue burden” because the burden it imposes, though 
+slight, outweighs its negligible benefits? Casey does not 
+say, and this ambiguity would lead to confusion down 
+the line.  
+The third rule complicates the picture even more. Under 
+that rule, “[u]nnecessary health  regulations that have 
+the purpose or effect of presenting a substantial obstacle 
+to a woman seeking an abortion impose an undue burden 
+on the right.”  
+In addition to these problems, one more applies to all 
+three rules. They all call on courts to examine a law's 
+effect on women, but a regulation may have a very 
+different impact on different women for a variety of 
+reasons, including their places of residen ce, financial 
+resources, family situations, work and personal 
+obligations, knowledge about fetal development and 
+abortion, psychological and emotional disposition and 
+condition, and the firmness of their desire to obtain 
+abortions. In order to determine whether a regulation 
+presents a substantial obstacle to women, a court needs 
+to know which set of women it should have in mind and 
+how many of the women in this set must find that an 
+obstacle is “substantial.” 
+Casey provided no clear answer to these questions. It 
+said that a regulation is unconstitutional if it imposes a 
+substantial obstacle “in a large fraction of cases in which 
+[it] is relevant,” but there is obviously no clear line 
+between a fraction that is “large” and one that is not. Nor 
+is it clear what the Court meant by “cases in which” a 
+regulation is “relevant.” These ambiguities have caused 
+confusion and disagreement.  
+Course Reader Page 71
+
+[PDF PAGE 72]
+For Educational Use Only  
+Dobbs v. Jackson Women's Health Organization, 142 S.Ct. 2228 (2022)  
+213 L.Ed.2d 545, Med & Med GD (CCH) P 307,405, 22 Cal. Daily Op. Serv. 6241... 
+  
+ © 2023 Thomson Reuters. No claim to original U.S. Government Works. 16 
+ 
+This Court's experience applying Casey has confirmed 
+Chief Justice Rehnquist's prescient diagnosis that the 
+undue-burden standard was “not built to last.”  
+D 
+... 
+E 
+Reliance interests. We last consider whether overruling 
+Roe and Casey will upend substantial reliance interests.  
+1 
+Traditional reliance interests arise “where advance 
+planning of great precision is most obviously a 
+necessity.” In Casey, the controlling opinion conceded 
+that those traditional reliance interests were not 
+implicated because getting an abortion is generally 
+“unplanned activity,” and “reproductive planning could 
+take virtually immediate account of any sudden 
+restoration of state authority to ban abortions.” For these 
+reasons, we agree with the Casey plurality that 
+conventional, concrete reliance interests are not present 
+here. 
+2 
+Unable to find reliance in the conventional sense, the 
+controlling opinion in Casey perceived a more intangible 
+form of reliance. It wrote that “people [had] organized 
+intimate relationships and made choices that define their 
+views of themselves and their places in society ... in 
+reliance on the availability of abortion in the event that 
+contraception should fail” and that “[t]he ability of 
+women to participate equally in the economic and social 
+life of the Nation has been facilitated by their ability to 
+control their reproductive lives.”  But this Court is ill-
+equipped to assess “generalized assertions about the 
+national psyche.” Casey’s notion of reliance thus finds 
+little support in our cases, which instead emphasize very 
+concrete reliance interests, like those that develop in 
+“cases involving property and contract rights.”  
+  
+*2277 When a concrete reliance interest is asserted, 
+courts are equipped to evaluate the claim, but assessing 
+the novel and intangible form of reliance endorsed by 
+the Casey plurality is another matter. That form of 
+reliance depends on an empirical question that is hard 
+for anyone —and in particular, for a court —to assess, 
+namely, the effect of the abortion right on society and in 
+particular on the lives of women. ... 
+  
+Our decision returns the issue of abortion to those 
+legislative bodies, and it allows women on both sides of 
+the abortion issue to seek to affect the legislative process 
+by influencing public opinion, lobbying legislators, 
+voting, and running for office. W omen are not without 
+electoral or political power. It is noteworthy that the 
+percentage of women who register to vote and cast 
+ballots is consistently higher than the percentage of men 
+who do so. In the last election in November 2020, 
+women, who make up ar ound 51.5 percent of the 
+population of Mississippi, constituted 55.5 percent of 
+the voters who cast ballots.  
+3 
+Unable to show concrete reliance on Roe and Casey 
+themselves, the Solicitor General suggests that 
+overruling those decisions would “threaten the Court's 
+precedents holding that the Due Process Clause protects 
+other rights.” That is not correct for reasons we have 
+already discussed. As even the Casey plurality 
+recognized, “[a]bortion is a unique act” because it 
+terminates “life or potential life.” And to ensure that our 
+decision is not misunderstood or mischaracterized, we 
+emphasize that our decision concerns the constitutional 
+right to abortion and no  other right. Nothing in this 
+opinion should be understood to cast *2278 doubt on 
+precedents that do not concern abortion. 
+ 
+Course Reader Page 72
+
+[PDF PAGE 73]
+For Educational Use Only 
+Dobbs v. Jackson Women's Health Organization, 142 S.Ct. 2228 (2022) 
+213 L.Ed.2d 545, Med & Med GD (CCH) P 307,405, 22 Cal. Daily Op. Serv. 6241... 
+ © 2023 Thomson Reuters. No claim to original U.S. Government Works. 17 
+IV 
+Having shown that traditional stare decisis factors do not 
+weigh in favor of retaining Roe or Casey, we must 
+address one final argument that featured prominently in 
+the Casey plurality opinion. 
+The argument was cast in different terms, but stated 
+simply, it was essentially as follows. The American 
+people's belief in the rule of law would be shaken if they 
+lost respect for this Court as an institution that decides 
+important cases based on principl e, not “social and 
+political pressures.” There is a special danger that the 
+public will perceive a decision as having been made for 
+unprincipled reasons when the Court overrules a 
+controversial “watershed” decision, such as Roe. A 
+decision overruling Roe would be perceived as having 
+been made “under fire” and as a “surrender to political 
+pressure,” and therefore the preservation of public 
+approval of the Court weighs heavily in favor of 
+retaining Roe. 
+This analysis starts out on the right foot but ultimately 
+veers off course. The Casey plurality was certainly right 
+that it is important for the public to perceive that our 
+decisions are based on principle, and we should make 
+every effort to achieve that objective by issuing opinions 
+that carefully show how a proper understanding of the 
+law leads to the results we reach. But we cannot exceed 
+the scope of our authority under the Constitution, and we 
+cannot allow our decisions to be affected by any 
+extraneous influences such as concern about the public's 
+reaction to our work. That is true both when we initially 
+decide a constitutional issue and when we consider 
+whether to overrule a prior decision. ... 
+The Casey plurality “call[ed] the contending sides of a 
+national controversy to end their national division,” and 
+claimed the authority to impose a permanent settlement 
+of the issue of a constitutional abortion right simply by 
+saying that the matter was closed. That  unprecedented 
+claim exceeded the power vested in us by the 
+Constitution. Our sole authority is to exercise 
+“judgment”—which is to say, the authority to judge what 
+the law means and how it should apply to the case at 
+hand. The Court has no authority to decree that an 
+erroneous precedent is permanently exempt from 
+evaluation under traditional stare decisis principles. A 
+precedent of this Court is subject to the usual principles 
+of stare decisis under which adherence to precedent is 
+the norm but not an inexorable command. If the rule 
+were otherwise, erroneous decisions like Plessy and 
+Lochner *2279 would still be the law. That is not how 
+stare decisis operates. 
+This Court's inability to end debate on the issue should 
+not have been surprising. This Court cannot bring about 
+the permanent resolution of a rancorous national 
+controversy simply by dictating a settlement and telling 
+the people to move on. Whatever influ ence the Court 
+may have on public attitudes must stem from the 
+strength of our opinions, not an attempt to exercise “raw 
+judicial power.”  
+We do not pretend to know how our political system or 
+society will respond to today's decision overruling Roe 
+and Casey. And even if we could foresee what will 
+happen, we would have no authority to let that 
+knowledge influence our decision. We can only do our 
+job, which is to interpret the law, apply longstanding 
+principles of stare decisis , and decide this case 
+accordingly. 
+We therefore hold that the Constitution does not confer 
+a right to abortion. Roe and Casey must be overruled, 
+and the authority to regulate abortion must be returned 
+to the people and their elected representatives. 
+V 
+A 
+1 
+Course Reader Page 73
+
+[PDF PAGE 74]
+For Educational Use Only  
+Dobbs v. Jackson Women's Health Organization, 142 S.Ct. 2228 (2022)  
+213 L.Ed.2d 545, Med & Med GD (CCH) P 307,405, 22 Cal. Daily Op. Serv. 6241... 
+  
+ © 2023 Thomson Reuters. No claim to original U.S. Government Works. 18 
+The dissent argues that we have “abandon[ed]” stare 
+decisis, but we have done no such thing, and it is the 
+dissent's understanding of stare decisis that breaks with 
+tradition. The dissent's foundational contention is that 
+the Court should never (or perhaps almost never) 
+overrule an egregiously wrong constitutional precedent 
+unless the Court can “poin[t] to major legal or factual 
+changes undermining [the] decision's original basis.” To 
+support this contention, the dissent claims that Brown v. 
+Board of Education and other landmark cases overruling 
+prior precedents “responded to changed law and to 
+changed facts and attitudes that had taken hold 
+throughout society.” The unmistakable implication of 
+this argument is that only the passage of time and new 
+developments justified those decisions. Recognition that 
+the cases they overruled were egregiously wrong on the 
+day they were handed down was not enough. 
+  
+The Court has never adopted this strange new version of 
+stare decisis—and with good reason. Does the dissent 
+really maintain that overruling Plessy was not justified 
+until the country had experienced more than a half -
+century of state-sanctioned segregation and generations 
+of Black school children had suffered all its effects?  
+  
+Precedents should be respected, but sometimes the Court 
+errs, and occasionally the Court issues an important 
+decision that is egregiously wrong. When that happens, 
+stare decisis is not a straitjacket. And indeed, the dissent 
+eventually admits that a decision could “be overruled 
+just because it is terribly wrong,” though the dissent does 
+not explain when that would be so.  
+  
+2 
+Even if the dissent were correct in arguing that an 
+egregiously wrong decision should (almost) never be 
+overruled unless its mistake is later highlighted by 
+“major legal or factual changes,” reexamination of Roe 
+and Casey would be amply justified. We have already 
+mentioned a number of post -Casey developments, but 
+the most profound change may be the failure of the 
+Casey plurality's call for “the contending sides” in the 
+controversy about abortion “to end their national 
+division.” That has not happened, and there is no reason 
+to think that another decision sticking with Roe would 
+achieve what Casey could not. 
+  
+The dissent, however, is undeterred. It contends that the 
+“very controversy surrounding Roe and Casey” is an 
+important stare decisis consideration that requires 
+upholding those precedents. The dissent characterizes 
+Casey as a “precedent about precedent” that is 
+permanently shielded from further evaluation under 
+traditional stare decisis principles. But as we have 
+explained, Casey broke new ground when it treated the 
+national controversy provoked by Roe as a ground for 
+refusing to reconsider that decision, and no subsequent 
+case has relied on that factor. Our decision today simply 
+applies longstanding stare decisis factors instead of 
+applying a version of the doctrine that seems to apply 
+only in abortion cases. 
+  
+3 
+Finally, the dissent suggests that our decision calls into 
+question Griswold, Eisenstadt, Lawrence, and 
+Obergefell. But we have stated unequivocally that 
+“[n]othing in this opinion should be understood to cast 
+doubt on precedents that do not concern abortion.” We 
+have also explained why that is so: rights regarding 
+contraception and same-sex relationships are inherently 
+different from the right to abortion because the latter (as 
+we have stressed) uniquely involves what Roe and Casey 
+termed “potential life .” Therefore, a right to abortion 
+cannot be justified by a purported analogy to the rights 
+recognized in those other cases or by “appeals to a 
+broader right to autonomy.” It is hard to see how we 
+could be clearer. Moreover, even putting aside that these 
+cases are distinguishable, *2281 there is a further point 
+that the dissent ignores: Each precedent is subject to its 
+own stare decisis  analysis, and the factors that our 
+doctrine instructs us to consider like reliance and 
+workability are different for these cases than for our 
+abortion jurisprudence. 
+Course Reader Page 74
+
+[PDF PAGE 75]
+For Educational Use Only 
+Dobbs v. Jackson Women's Health Organization, 142 S.Ct. 2228 (2022) 
+213 L.Ed.2d 545, Med & Med GD (CCH) P 307,405, 22 Cal. Daily Op. Serv. 6241... 
+ © 2023 Thomson Reuters. No claim to original U.S. Government Works. 19 
+B 
+We now turn to the concurrence in the judgment, which 
+reproves us for deciding whether Roe and Casey should 
+be retained or overruled. That opinion (which for 
+convenience we will call simply “the concurrence”) 
+recommends a “more measured course,” which it 
+defends based on what it claims is “a straightforward 
+stare decisis analysis.” The concurrence would “leave 
+for another day whether to reject any right to an abortion 
+at all,” and would hold only that if the Constitution 
+protects any such right, the right ends once women have 
+had “a reasonable opportunity” to obtain an abortion. 
+The concurrence does not specify what period of time is 
+sufficient to provide such an opportunity, but it would 
+hold that 15 weeks, the period allowed under 
+Mississippi's law, is eno ugh—at least “absent rare 
+circumstances.” 
+The concurrence would “discar[d]” “the rule from Roe 
+and Casey that a woman's right to terminate her 
+pregnancy extends up to the point that the fetus is 
+regarded as ‘viable’ outside the womb.” But this rule was 
+a critical component of the holdings in Roe and Casey, 
+and stare decisis  is “a doctrine of preservation, not 
+transformation.” Therefore, a new rule that discards the 
+viability rule cannot be defended on stare decisis  
+grounds.  
+In sum, the concurrence's quest for a middle way would 
+only put off the day when we would be forced to 
+confront the question we now decide. The turmoil 
+wrought by Roe and Casey would be prolonged. It is far 
+better—for this Court and the country—to face up to the 
+real issue without further delay. 
+VI 
+We must now decide what standard will govern if state 
+abortion regulations undergo constitutional challenge 
+and whether the law before us satisfies the appropriate 
+standard. 
+A 
+Under our precedents, rational -basis review is the 
+appropriate standard for such challenges. As we have 
+explained, procuring an abortion is not a fundamental 
+constitutional right because such a right has no basis in 
+the Constitution's text or in our Nation's history.  
+It follows that the States may regulate abortion for 
+legitimate reasons, and when such regulations are 
+challenged *2284 under the Constitution, courts cannot 
+“substitute their social and economic beliefs for the 
+judgment of legislative bodies.” That respect for a 
+legislature's judgment applies even when the laws at 
+issue concern matters of great social significance and 
+moral substance. See, e.g.,Board of Trustees of Univ. of 
+Ala. v. Garrett  (2001) (“treatment of the disabled”); 
+Glucksberg (“assisted suicide ”); San Antonio 
+Independent School Dist. v. Rodriguez  (1973) 
+(“financing public education”). 
+A law regulating abortion, like other health and welfare 
+laws, is entitled to a “strong presumption of validity.” It 
+must be sustained if there is a rational basis on which the 
+legislature could have thought that it would serve 
+legitimate state interests. These legitimate interests 
+include respect for and preservation of prenatal life at all 
+stages of development; the protection of maternal health 
+and safety; the elimination of particularly gruesome or 
+barbaric medical procedures; the preservation of the 
+integrity of the medical profession; the mitigation  of 
+fetal pain; and the prevention of discrimination on the 
+basis of race, sex, or disability.  
+B 
+These legitimate interests justify Mississippi's 
+Gestational Age Act. Except “in a medical emergency or 
+in the case of a severe fetal abnormality,” the statute 
+prohibits abortion “if the probable gestational age of the 
+unborn human being has been determined to be greater 
+than fifteen (15) weeks.” The Mississippi Legislature's 
+findings recount the stages of “human prenatal 
+development” and assert the State's interest in 
+Course Reader Page 75
+
+[PDF PAGE 76]
+For Educational Use Only  
+Dobbs v. Jackson Women's Health Organization, 142 S.Ct. 2228 (2022)  
+213 L.Ed.2d 545, Med & Med GD (CCH) P 307,405, 22 Cal. Daily Op. Serv. 6241... 
+  
+ © 2023 Thomson Reuters. No claim to original U.S. Government Works. 20 
+“protecting the life of the unborn.” The legislature also 
+found that abortions performed after 15 weeks typically 
+use the dilation and evacuation procedure, and the 
+legislature found the use of this procedure “for 
+nontherapeutic or elective reasons [to be]  a barbaric 
+practice, dangerous for the maternal patient, and 
+demeaning to the medical profession.” These legitimate 
+interests provide a rational basis for the Gestational Age 
+Act, and it follows that respondents' constitutional 
+challenge must fail. 
+VII 
+We end this opinion where we began. Abortion presents 
+a profound moral question. The Constitution does not 
+prohibit the citizens of each State from regulating or 
+prohibiting abortion. Roe and Casey arrogated that 
+authority. We now overrule those decisions and return 
+that authority to the people and their elected 
+representatives. 
+  
+*2285 The judgment of the Fifth Circuit is reversed, and 
+the case is remanded for further proceedings consistent 
+with this opinion. 
+  
+It is so ordered. 
+  
+ 
+ 
+ 
+ 
+ 
+Justice THOMAS, concurring. 
+I join the opinion of the Court because it correctly holds 
+that there is no constitutional right to abortion. “[T]he 
+idea that the Framers of the Fourteenth Amendment 
+understood the Due Process Clause to protect a right to 
+abortion is farcical.” June Medical Services L. L.C.  v. 
+Russo, 591 U.S. ––––, ––––, 140 S.Ct. 2103, 2151, 207 
+L.Ed.2d 566 (2020) (THOMAS, J., dissenting). 
+I write separately to emphasize a second, more 
+fundamental reason why there is no abortion guarantee 
+lurking in the Due Process Clause.  [T]he Due Process 
+Clause at most guarantees process. It does not, as the 
+Court’s substantive due process cases suppose, “forbi[d] 
+the government to infringe certain ‘fundamental’ liberty 
+interests at all, no matter what process is provided.” 
+As I have previously explained, “substantive due 
+process” is an oxymoron that “lack[s] any basis in the 
+Constitution.” The resolution of this case is thus 
+straightforward. Because the Due Process Clause does 
+not secure any substantive rights, it does not s ecure a 
+right to abortion. 
+The Court today declines to disturb substantive due 
+process jurisprudence generally or the doctrine’s 
+application in other, specific contexts. Cases like 
+Griswold v. Connecticut  (1965) (right of married 
+persons to obtain contraceptives); Lawrence v. Texas  
+(2003) (right to engage in private, consensual sexual 
+acts); and Obergefell v. Hodges (2015) (right to same -
+sex marriage) are not at issue. The Court’s abortion cases 
+are unique, and no party has asked us to decide “whether 
+our entire Fourteenth Amendment jurisprudence must be 
+preserved or revised.” Thus, I agree that “[n]othing in 
+[the Court’s] opinion should be understood to cast doubt 
+on precedents that do not concern abortion.” 
+Course Reader Page 76
+
+[PDF PAGE 77]
+For Educational Use Only 
+Dobbs v. Jackson Women's Health Organization, 142 S.Ct. 2228 (2022) 
+213 L.Ed.2d 545, Med & Med GD (CCH) P 307,405, 22 Cal. Daily Op. Serv. 6241... 
+ © 2023 Thomson Reuters. No claim to original U.S. Government Works. 21 
+For that reason, in future cases, we should reconsider all 
+of this Court’s substantive due process precedents, 
+including Griswold, Lawrence, and Obergefell. Because 
+any substantive due process decision is “demonstrably 
+erroneous,” we have a duty to “correct the error” 
+established in those precedents. After overruling these 
+demonstrably erroneous decisions, the question would 
+remain whether other constitution al provisions 
+guarantee the myriad rights that our substantive due 
+process cases have generated. For example, we could 
+consider whether any of the rights announced in this 
+Court’s substantive due process cases are “privileges or 
+immunities of citizens of the United States” protected by 
+the Fourteenth Amendment. To answer that question, we 
+would need to decide important antecedent questions, 
+including whether the Privileges or Immunities Clause 
+protects any rights that are not enumerated in the 
+Constitution and, if so, how to identify those rights. That 
+said, even if the Clause does protect unenumerated 
+rights, the Court conclusively demonstrates that abortion 
+is not one of them under any plausible interpretive 
+approach. 
+Substantive due process conflicts with that textual 
+command and has harmed our country in many ways. 
+Accordingly, we should eliminate it from our 
+jurisprudence at the earliest opportunity. 
+Justice KA V ANAUGH, concurring. 
+Abortion is a profoundly difficult and contentious issue 
+because it presents an irreconcilable conflict between the 
+interests of a pregnant woman who seeks an abortion and 
+the interests in protecting fetal life. The interests on both 
+sides of the abortion issue are extraordinarily weighty. 
+The issue before this Court, however, is not the policy or 
+morality of abortion. The issue before this Court is what 
+the Constitution says about abortion. The Constitution 
+does not take sides on the issue of abortion. The text of 
+the Constitution does not refer to or encompass abortion. 
+To be sure, this Court has held that the Constitution 
+protects unenumerated rights that are deeply rooted in 
+this Nation’s history and tradition, and implicit in the 
+concept of ordered liberty. But a right to abortion is not 
+deeply rooted in American history and tradition, as the 
+Court today thoroughly explains. 
+On the question of abortion, the Constitution is therefore 
+neither pro -life nor pro -choice. The Constitution is 
+neutral and leaves the issue for the people and their 
+elected representatives to resolve through the 
+democratic process in the States or Congres s—like the 
+numerous other difficult questions of American social 
+and economic policy that the Constitution does not 
+address. 
+Because the Constitution is neutral on the issue of 
+abortion, this Court also must be scrupulously neutral. 
+The nine unelected Members of this Court do not 
+possess the constitutional authority to override the 
+democratic process and to decree either a pro -life or a 
+pro-choice abortion policy for all 330 million people in 
+the United States. 
+The Court’s decision today properly returns the Court to 
+a position of neutrality and restores the people’s 
+authority to address the issue of abortion through the 
+processes of democratic self-government established by 
+the Constitution. 
+Some amicus briefs argue that the Court today should 
+not only overrule Roe and return to a position of judicial 
+neutrality on abortion, but should go further and hold 
+that the Constitution outlaws abortion throughout the 
+United States. No Justice of this Court has ever 
+advanced that position.  
+To be clear, then, the Court’s decision today does not 
+outlaw abortion throughout the United States. On the 
+contrary, the Court’s decision properly leaves the 
+Course Reader Page 77
+
+[PDF PAGE 78]
+For Educational Use Only  
+Dobbs v. Jackson Women's Health Organization, 142 S.Ct. 2228 (2022)  
+213 L.Ed.2d 545, Med & Med GD (CCH) P 307,405, 22 Cal. Daily Op. Serv. 6241... 
+  
+ © 2023 Thomson Reuters. No claim to original U.S. Government Works. 22 
+question of abortion for the people and their elected 
+representatives in the democratic process. Through that 
+democratic process, the people and their representatives 
+may decide to allow or limit abortion. As Justice Scalia 
+stated, the “States may, if they wish, permit abortion on 
+demand, but the Constitution does not require them to 
+do so.” 
+[T]he parties’ arguments have raised other related 
+questions, and I address some of them here.  First is the 
+question of how this decision will affect other 
+precedents involving issues such as contraception and 
+marriage—in particular, the decisions in Griswold v. 
+Connecticut (1965); Eisenstadt v. Baird (1972); Loving 
+v. Virginia (1967); and Obergefell v. Hodges (2015). I 
+emphasize what the Court today states: Overruling Roe 
+does not mean the overruling of those precedents, and 
+does not threaten or cast doubt on those precedents. 
+Second, as I see it, some of the other abortion -related 
+legal questions raised by today's decision are not 
+especially difficult as a constitutional matter. For 
+example, may a State bar a resident of that State from 
+traveling to another State to obtain an abortio n? In my 
+view, the answer is no based on the constitutional right 
+to interstate travel. May a State retroactively impose 
+liability or punishment for an abortion that occurred 
+before today's decision takes effect? In my view, the 
+answer is no based on the Due Process Clause or the Ex 
+Post Facto Clause. 
+ 
+Other abortion-related legal questions may emerge in the 
+future. But this Court will no longer decide the 
+fundamental question of whether abortion must be 
+allowed throughout the United States through 6 weeks, 
+or 12 weeks, or 15 weeks, or 24 weeks, or some other 
+line. The Court will no longer decide how to evaluate the 
+interests of the pregnant woman and the interests in 
+protecting fetal life throughout pregnancy. Instead, those 
+difficult moral and policy questions will be decided, as 
+the Constitution dictates, by the people and their elected 
+representatives through the constitutional processes of 
+democratic self-government. 
+ 
+Chief Justice ROBERTS, concurring in the 
+judgment. 
+We granted certiorari to decide one question: “Whether 
+all pre -viability prohibitions on elective abortions are 
+unconstitutional.” That question is directly implicated 
+here: Mississippi’s Gestational Age Act generally 
+prohibits abortion after the fifteenth  week of 
+pregnancy— several weeks before a fetus is regarded as 
+“viable” outside the womb. In urging our review, 
+Mississippi stated that its case was “an ideal vehicle” to 
+“reconsider the bright -line viability rule,” and that a 
+judgment in its favor would “not require the Court to 
+overturn.” 
+Today, the Court nonetheless rules for Mississippi by 
+doing just that. I would take a more measured course. I 
+agree with the Court that the viability line established by 
+Roe and Casey should be discarded under a 
+straightforward stare decisis analysis. That  line never 
+made any sense. Our abortion precedents describe the 
+right at issue as a woman’s right to choose to terminate 
+her pregnancy. That right should therefore extend far 
+enough to ensure a reasonable opportunity to choose, but 
+need not extend any further—certainly not all the way to 
+viability. Mississippi’s law allows a woman three 
+months to obtain an abortion, well beyond the point at 
+which it is considered “late” to discover a pregnancy. I 
+see no sound basis for questioning the adequacy of that 
+opportunity. 
+But that is all I would say, out of adherence to a simple 
+yet fundamental principle of judicial restraint: If it is not 
+necessary to decide more to dispose of a case, then it is 
+necessary not to decide more. Perhaps we are not always 
+Course Reader Page 78
+
+[PDF PAGE 79]
+For Educational Use Only 
+Dobbs v. Jackson Women's Health Organization, 142 S.Ct. 2228 (2022) 
+213 L.Ed.2d 545, Med & Med GD (CCH) P 307,405, 22 Cal. Daily Op. Serv. 6241... 
+ © 2023 Thomson Reuters. No claim to original U.S. Government Works. 23 
+perfect in following that command, and certainly there 
+are cases that warrant an exception. But this is not one 
+of them. Surely we should adhere closely to principles 
+of judicial restraint here, where the broader path the 
+Court chooses entails repudiating a constitutional right 
+we have not only previously recognized, but also 
+expressly reaffirmed applying the doctrine of stare 
+decisis. The Court’s opinion is thoughtful and thorough, 
+but those virtues cannot compensate for the fact that its 
+dramatic and consequential ruling is unnecessary to 
+decide the case before us. 
+Here, there is a clear path to deciding this case correctly 
+without overruling Roe all the way down to the studs: 
+recognize that the viability line must be discarded, as the 
+majority rightly does, and leave for another day whether 
+to reject any right to an abortion at all. 
+ I would decide the question we granted review to 
+answer—whether the previously recognized abortion 
+right bars all abortion restrictions prior to viability, such 
+that a ban on abortions after fifteen weeks of pregnancy 
+is necessarily unlawful. The answer to that q uestion is 
+no, and there is no need to go further to decide this case. 
+Justice BREYER, Justice SOTOMAYOR, and 
+Justice KAGAN, dissenting. 
+For half a century, Roe v. Wade and Planned Parenthood 
+of Southeastern Pa. v. Casey  have protected the liberty 
+and equality of women. Roe held, and Casey reaffirmed, 
+that the Constitution safeguards a woman's right to 
+decide for herself whether to bear a child. Roe held, and 
+Casey reaffirmed, that in the first stages of pregnancy, 
+the government could not make that choice for women. 
+The government could not control a woman's body or 
+the course of a woman's life: It could not determine what 
+the woman's future would be. Respecting a woman as an 
+autonomous being, and granting her full equality, meant 
+giving her substantial choice over this most personal and 
+most consequential of all life decisions. 
+Roe and Casey well understood the difficulty and 
+divisiveness of the abortion issue. The Court knew that 
+Americans hold profoundly different views about the 
+“moral[ity]” of “terminating a pregnancy, even in its 
+earliest stage.” And the Court recognized that “the State 
+has legitimate interests from the outset of the pregnancy 
+in protecting” the “life of the fetus that may become a 
+child.” So the Court struck a balance, as it often does 
+when values and goals compete. It held that the State 
+could prohibit abortions after fe tal viability, so long as 
+the ban contained exceptions to safeguard a woman's life 
+or health. It held that even before viability, the State 
+could regulate the abortion procedure in multiple and 
+meaningful ways. But until the viability line was 
+crossed, the  Court held, a State could not impose a 
+“substantial obstacle” on a woman's “right to elect the 
+procedure” as she (not the government) thought proper, 
+in light of all the circumstances and complexities of her 
+own life.  
+Today, the Court discards that balance. It says that from 
+the very moment of fertilization, a woman has no rights 
+to speak of. A State can force her to bring a pregnancy 
+to term, even at the steepest personal and familial costs. 
+An abortion restriction, the majority holds, is 
+permissible whenever rational, the lowest level of 
+scrutiny known to the law. And because, as the Court has 
+often stated, protecting fetal life is rational, States will 
+feel free to enact all manner of restrictions. The 
+Mississippi law at issue here bars abortions after the 15th 
+week of pregnancy. Under the majority's ruling, though, 
+another State's law could do so after ten weeks, or five 
+or three or one —or, again, from the moment *2318 of 
+fertilization. States have already passed such laws, in 
+anticipation of today's ruling. More will follow. Some 
+States have enacted laws extending to all forms of 
+abortion procedure, including taking medication in one's 
+own home. They have passed laws w ithout any 
+exceptions for when the woman is the victim of rape or 
+incest. Under those laws, a woman will have to bear her 
+rapist's child or a young girl her father's —no matter if 
+doing so will destroy her life. So too, after today's ruling, 
+some States may compel women to carry to term a fetus 
+with severe  physical anomalies —for example, one 
+Course Reader Page 79
+
+[PDF PAGE 80]
+For Educational Use Only  
+Dobbs v. Jackson Women's Health Organization, 142 S.Ct. 2228 (2022)  
+213 L.Ed.2d 545, Med & Med GD (CCH) P 307,405, 22 Cal. Daily Op. Serv. 6241... 
+  
+ © 2023 Thomson Reuters. No claim to original U.S. Government Works. 24 
+afflicted with Tay-Sachs disease, sure to die within a few 
+years of birth. States may even argue that a prohibition 
+on abortion need make no provision for protecting a 
+woman from risk of death or physical harm. Across a 
+vast array of circumstances, a State will be able to 
+impose its moral choice on a woman and coerce her to 
+give birth to a child. 
+  
+Enforcement of all these draconian restrictions will also 
+be left largely to the States' devices. A State can of 
+course impose criminal penalties on abortion providers, 
+including lengthy prison sentences. But some States will 
+not stop there. Perhaps, in the wake of today's decision, 
+a state law will criminalize the woman's conduct too, 
+incarcerating or fining her for daring to seek or obtain an 
+abortion. And as Texas has recently shown, a State can 
+turn neighbor against neighbor, enlisting fellow citizens 
+in the effort to root out anyone who tries to get an 
+abortion, or to assist another in doing so. 
+  
+The majority tries to hide the geographically expansive 
+effects of its holding. Today's decision, the majority 
+says, permits “each State” to address abortion as it 
+pleases. That is cold comfort, of course, for the poor 
+woman who cannot get the money to fly to a distant State 
+for a procedure. Above all others, women lacking 
+financial resources will suffer from today's decision. In 
+any event, interstate restrictions will also soon be in the 
+offing. After this decision, some States may block 
+women from traveling out of State to obtain abortions, 
+or even from receiving abortion medications from out of 
+State. Some may criminalize efforts, including the 
+provision of information or funding, to help women gain 
+access to other States' abortion services. Most 
+threatening of all, no language in today's decision stops 
+the Federal Government from prohibiting abortions 
+nationwide, once again from the moment of conception 
+and without exceptions for rape or incest. If that 
+happens, “the views of [an individual State's] citiz ens” 
+will not matter. The challenge for a woman will be to 
+finance a trip not to “New York [or] California” but to 
+Toronto.  
+  
+Whatever the exact scope of the coming laws, one result 
+of today's decision is certain: the curtailment of women's 
+rights, and of their status as free and equal citizens. 
+Yesterday, the Constitution guaranteed that a woman 
+confronted with an unplanned preg nancy could (within 
+reasonable limits) make her own decision about whether 
+to bear a child, with all the life -transforming 
+consequences that act involves. And in thus 
+safeguarding each woman's reproductive freedom, the 
+Constitution also protected “[t]he ab ility of women to 
+participate equally in [this Nation's] economic and social 
+life.” Casey, 505 U.S. at 856. But no longer. As of today, 
+this Court holds, a State can always force a woman to 
+give birth, prohibiting even the earliest abortions. A 
+State can thus transform what, when freely undertaken, 
+is a wonder into what, when forced, may be a nightmare. 
+Some w omen, especially women of means, will find 
+ways around the State's assertion of power. Others —
+those without money or childcare or *2319 the ability to 
+take time off from work —will not be so fortunate. 
+Maybe they will try an unsafe method of abortion, and 
+come to physical harm, or even die. Maybe they will 
+undergo pregnancy and have a child, but at significant 
+personal or familial cost. At the least, they will incur the 
+cost of losing control of their lives. The Constitution 
+will, today's majority holds, pro vide no shield, despite 
+its guarantees of liberty and equality for all. 
+  
+And no one should be confident that this majority is 
+done with its work. The right Roe and Casey recognized 
+does not stand alone. To the contrary, the Court has 
+linked it for decades to other settled freedoms involving 
+bodily integrity, familial relationships, and procreation. 
+Most obviously, the right to terminate a pregnancy arose 
+straight out of th e right to purchase and use 
+contraception. See Griswold v. Connecticut  (1965); 
+Eisenstadt v. Baird (1972). In turn, those rights led, more 
+recently, to rights of same -sex intimacy and marriage. 
+See Lawrence v. Texas  (2003); Obergefell v. Hodges  
+(2015). They are all part of the same constitutional 
+fabric, protecting autonomous decisionmaking over the 
+most personal of life decisions. The majority (or to be 
+more accurate, most of it) is eager to tell us today that 
+nothing it does “cast[s] doubt on precedent s that do not 
+Course Reader Page 80
+
+[PDF PAGE 81]
+For Educational Use Only 
+Dobbs v. Jackson Women's Health Organization, 142 S.Ct. 2228 (2022) 
+213 L.Ed.2d 545, Med & Med GD (CCH) P 307,405, 22 Cal. Daily Op. Serv. 6241... 
+ © 2023 Thomson Reuters. No claim to original U.S. Government Works. 25 
+concern abortion.” But how could that be? The lone 
+rationale for what the majority does today is that the 
+right to elect an abortion is not “deeply rooted in 
+history”: Not until Roe, the majority argues, did people 
+think abortion fell within the Constitution's guarantee of 
+liberty. The same could be said, though, of most of the 
+rights the majority claims it is not tampering with. The 
+majority could write just as long an opinion showing, for 
+example, that until the mid-20th century, “there was no 
+support in American law for a constitutional right to 
+obtain [contraceptives].” So one of two things must be 
+true. Either the majority does not really believe in its 
+own reasoning. Or if it does, all rights that have no 
+history stretching back to the mid -19th century  are 
+insecure. Either the mass of the majority's opinion is 
+hypocrisy, or additional constitutional rights are under 
+threat. It is one or the other. 
+One piece of evidence on that score seems especially 
+salient: The majority's cavalier approach to overturning 
+this Court's precedents. Stare decisis is the Latin phrase 
+for a foundation stone of the rule of law: that things 
+decided should stay decided unless there is a very good 
+reason for change. It is a doctrine of judicial modesty 
+and humility. Those qualities are not evident in today's 
+opinion. The majority has no good reason for the 
+upheaval in law and society it sets off. Roe and Casey 
+have been the law of the land for decades, shaping 
+women's expectations of their choices when an 
+unplanned pregnancy occurs. Women have relied on the 
+availability of abortion both in structuring their 
+relationships and in planning their lives. The legal 
+framework Roe and Casey developed to balance the 
+competing interests in this sphere has proved workable 
+in courts across the country. No recent developments, in 
+either law or fact, have eroded or cast doubt on those 
+precedents. Nothing, in short, has changed . Indeed, the 
+Court in Casey already found all of that to be true. Casey 
+is a precedent about precedent. It reviewed the same 
+arguments made here in support of overruling Roe, and 
+it found that doing so was not warranted. The *2320 
+Court reverses course today for one reason and one 
+reason only: because the composition of this Court has 
+changed. Stare decisis , this Court has often said, 
+“contributes to the actual and perceived integrity of the 
+judicial process” by ensuring that decisions are “founded 
+in the law rather than in the proclivities of individuals.” 
+Today, the proclivit ies of individuals rule. The Court 
+departs from its obligation to faithfully and impartially 
+apply the law. We dissent. 
+I 
+We start with Roe and Casey, and with their deep 
+connections to a broad swath of this Court's precedents. 
+To hear the majority tell the tale, Roe and Casey are 
+aberrations: They came from nowhere, went nowhere—
+and so are easy to excise from this Nation's 
+constitutional law. That is not true. After describing the 
+decisions themselves, we explain how they are rooted 
+in—and themselves led to —other rights giving  
+individuals control over their bodies and their most 
+personal and intimate associations. The majority does 
+not wish to talk about these matters for obvious reasons; 
+to do so would both ground Roe and Casey in this Court's 
+precedents and reveal the broad implications of today's 
+decision. But the facts will not so handily disappear. Roe 
+and Casey were from the beginning, and are even more 
+now, embedded in core constitutional concepts of 
+individual freedom, and of the equal rights of citizens to 
+decide on the shape of their lives. Those legal concepts, 
+one might even say, have gone far toward defining what 
+it means to be an American. For in this Nation, we do 
+not believe that a government controlling all private 
+choices is compatible with a free people. So we do not 
+(as the majority insists today) place everything within 
+“the reach of majorities and [government] officials.” We 
+believe in a Constitution that puts some issues off limits 
+to majority rule. Even in the face of public opposition, 
+we uphold the right of individuals —yes, including 
+women—to make their own choices and chart their own 
+futures. Or at least, we did once. 
+Course Reader Page 81
+
+[PDF PAGE 82]
+For Educational Use Only  
+Dobbs v. Jackson Women's Health Organization, 142 S.Ct. 2228 (2022)  
+213 L.Ed.2d 545, Med & Med GD (CCH) P 307,405, 22 Cal. Daily Op. Serv. 6241... 
+  
+ © 2023 Thomson Reuters. No claim to original U.S. Government Works. 26 
+A 
+Some half -century ago, Roe struck down a state law 
+making it a crime to perform an abortion unless its 
+purpose was to save a woman's life. ... 
+  
+In the 20 years between Roe and Casey, the Court 
+expressly reaffirmed Roe on two occasions, and applied 
+it on many more. Recognizing that “arguments [against 
+Roe] continue to be made,” we responded that the 
+doctrine of stare decisis “demands respect in a society 
+governed by the rule of law.” And we avowed that the 
+“vitality” of “constitutional principles cannot be allowed 
+to yield simply because of disagreement with them.” So 
+the Court, over and over, enforced the constitutional 
+principles Roe had declared.  
+  
+Then, in Casey, the Court considered the matter anew, 
+and again upheld Roe’s core precepts [:] “the essential 
+holding of Roe v. Wade should be retained and once 
+again reaffirmed.”  
+  
+Central to that conclusion was a full -throated 
+restatement of a woman's right to choose. Like Roe, 
+Casey grounded that right in the Fourteenth 
+Amendment's guarantee of “liberty.” That guarantee 
+encompasses realms of conduct not specifically 
+referenced in the Constitution: “Marriage is mentioned 
+nowhere” in that document, yet the Court was “no doubt 
+correct” to protect the freedom to marry “against state 
+interference.” And the guarantee of liberty encompasses 
+conduct today that was not protected at the time of the 
+*2322 Fourteenth Amendment. “It is settled now,” the 
+Court said— though it was not always so —that “the 
+Constitution places limits on a State's right to interfere 
+with a person's most basic decisions about family and 
+parenthood, as well as bodily integrity.” ... Especially 
+important in this web of precedents protecting an 
+individual's most “personal choices” were those 
+guaranteeing the right to contraception. In those cases, 
+the Court had recognized “the right of the individual” to 
+make the vastly consequential “d ecision whether to 
+bear” a child. So too, Casey reasoned, the liberty clause 
+protects the decision of a woman confronting an 
+unplanned pregnancy. Her decision about abortion was 
+central, in the same way, to her capacity to chart her life's 
+course.  
+  
+In reaffirming the right Roe recognized, the Court took 
+full account of the diversity of views on abortion, and 
+the importance of various competing state interests. ... 
+  
+So Casey again struck a balance, differing from Roe’s in 
+only incremental ways. It retained Roe’s “central 
+holding” that the State could bar abortion only after 
+viability. The viability line, Casey thought, was “more 
+workable” than any other in marking the place where the 
+woman's liberty interest gave way to a State's efforts to 
+preserve potential life. At that point, a “second life” was 
+capable of “independent existence.” If the woman even 
+by then had not acted, she lacked adequate grounds to 
+object to “the State's intervention on [the developing 
+child's] behalf.” At the same time, Casey decided, based 
+on two decades of experience, that the Roe framework 
+did not give States sufficient ability to regulate abortion 
+prior to viability. In that period, Casey now made clear, 
+the State could regulate not only to protect the woman's 
+health but also to “promot[e] prenatal life.”). In 
+particular, the State could ensure informed choice and 
+could try to promote childbirth. But the State still could 
+not place an “undu e burden”— or “substantial 
+obstacle”—“in the path of a woman seeking an 
+abortion.” Prior to viability, the woman, consistent with 
+the constitutional “meaning of *2323 liberty,” must 
+“retain the ultimate control over her destiny and her 
+body.”  
+ 
+We make one initial point about this analysis in light of 
+the majority's insistence that Roe and Casey, and we in 
+defending them, are dismissive of a “State's interest in 
+protecting prenatal life.” Nothing could get those 
+decisions more wrong. As just described, Roe and Casey 
+invoked powerful state interests in that protection, 
+operative at every stage of the pregnancy and overriding 
+the woman's liberty after viability. The strength of those 
+state interests is exactly why the Court allowed greater 
+restrictions on the abortion right than on other rights 
+deriving from the Fourteenth Amendment. But what Roe 
+Course Reader Page 82
+
+[PDF PAGE 83]
+For Educational Use Only 
+Dobbs v. Jackson Women's Health Organization, 142 S.Ct. 2228 (2022) 
+213 L.Ed.2d 545, Med & Med GD (CCH) P 307,405, 22 Cal. Daily Op. Serv. 6241... 
+ © 2023 Thomson Reuters. No claim to original U.S. Government Works. 27 
+and Casey also recognized —which today's majority 
+does not—is that a woman's freedom and equality are 
+likewise involved. That fact —the presence of 
+countervailing interests —is what made the abortion 
+question hard, and what necessitated balancing. The 
+majority scoffs at that idea, castigating us for 
+“repeatedly prais[ing] the ‘balance’ ” the two cases 
+arrived at (with the word “balance” in scare quotes). To 
+the majority “balance” is a dirty word, as moderation is 
+a foreign concept. The majority would allow States to 
+ban abortion from conception onward because it does 
+not think forced childbirth at all implicates a woman's 
+rights to equality and freedom. Today's Court, that is, 
+does not think there is anything of constitutional 
+significance attached to a woman's control of her body 
+and the path of her life. Roe and Casey thought that one-
+sided view misguided. In some sense, that is the 
+difference in a nutshell between our precedents and the 
+majority opinion. The constitutional regime we have 
+lived in for the last 50 years recognized competing 
+interests, and sought a balanc e between them. The 
+constitutional regime we enter today erases the woman's 
+interest and recognizes only the State's (or the Federal 
+Government's). 
+B 
+The majority makes this change based on a single 
+question: Did the reproductive right recognized in Roe 
+and Casey exist in “1868, the year when the Fourteenth 
+Amendment was ratified”? The majority says (and with 
+this much we agree) that the answer to this question is 
+no: In 1868, there was no nationwide right to end a 
+pregnancy, and no thought that the Fourteenth 
+Amendment provided one. 
+Of course, the majority opinion refers as well to some 
+later and earlier history. On the one side of 1868, it goes 
+back as far as the 13th (the 13th!) century. But that turns 
+out to be wheel -spinning. First, it is not clear what 
+relevance *2324 such early history should have, even to 
+the majority. If the early history obviously supported 
+abortion rights, the majority would no doubt say that 
+only the views of the Fourteenth Amendment's ratifiers 
+are germane. Second— and embarrassingly for the 
+majority—early law in fact does provide some support 
+for abortion rights. Common -law authorities did not 
+treat abortion as a crime before “quickening”—the point 
+when the fetus moved in the womb. And early American 
+law followed the common-law rule. So the criminal law 
+of that early time might be taken as roughly consonant 
+with Roe’s and Casey’s different treatment of early and 
+late abortions. Better, then, to move forward in time. On 
+the other side of 1868, the majority occasionally notes 
+that many States barred abortion up to the time of Roe. 
+That is convenient for the majority, but it is window 
+dressing. As the same majority (plus one) just informed 
+us, “post-ratification adoption or acceptance of laws that 
+are inconsistent with the original meaning of the 
+constitutional text obviously cannot overcome or alter 
+that text.” Had the pre -Roe liberalization of abortion 
+laws occurred more quickly and more widely in the 20th 
+century, the majority would say (once again) that only 
+the ratifiers' views are germane. 
+The majority's core legal postulate, then, is that we in the 
+21st century must read the Fourteenth Amendment just 
+as its ratifiers did. And that is indeed what the majority 
+emphasizes over and over again. If the ratifiers did not 
+understand something as central to freedom, then neither 
+can we. Or said more particularly: If those people did not 
+understand reproductive rights as part of the guarantee 
+of liberty conferred in the Fourteenth Amendment, then 
+those rights do not exist. 
+As an initial matter, note a mistake in the just preceding 
+sentence. We referred there to the “people” who ratified 
+the Fourteenth Amendment: What rights did those 
+“people” have in their heads at the time? But, of course, 
+“people” did not ratify the Fourteenth Amendment. Men 
+did. So it is perhaps not so surprising that the ratifiers 
+were not perfectly attuned to the importance of 
+reproductive rights for women's liberty, or for their 
+capacity to participate as equal members of our Nation. 
+Indeed, the ratifiers—both in 1868 and when the original 
+Course Reader Page 83
+
+[PDF PAGE 84]
+For Educational Use Only  
+Dobbs v. Jackson Women's Health Organization, 142 S.Ct. 2228 (2022)  
+213 L.Ed.2d 545, Med & Med GD (CCH) P 307,405, 22 Cal. Daily Op. Serv. 6241... 
+  
+ © 2023 Thomson Reuters. No claim to original U.S. Government Works. 28 
+Constitution was approved in 1788—did not understand 
+women as full members of the community *2325 
+embraced by the phrase “We the People.” In 1868, the 
+first wave of American feminists were explicitly told—
+of course by men —that it was not their time to seek 
+constitutional protections. (Women would not get even 
+the vote for another half -century.) To be sure, most 
+women in 1868 also had a foreshortened view of their 
+rights: If most men could not then imagine giving 
+women control over their bodies, most women could not 
+imagine having that kind of autonomy. But that takes 
+away nothing from the core point. Those responsible for 
+the original Constitution, including the Fourteenth 
+Amendment, did not perceive women as equals, and did 
+not recognize women's rights. Whe n the majority says 
+that we must read our foundational charter as viewed at 
+the time of ratification (except that we may also check it 
+against the Dark Ages), it consigns women to second -
+class citizenship. 
+  
+Casey itself understood this point, as will become clear. 
+It recollected with dismay a decision this Court issued 
+just five years after the Fourteenth Amendment's 
+ratification, approving a State's decision to deny a law 
+license to a woman and suggesting as well that a woman 
+had no legal status apart from her husband. “There was 
+a time,” Casey explained, when the Constitution did not 
+protect “men and women alike.” But times had changed. 
+A woman's place in society had changed, and 
+constitutional law had changed along with it. The 
+relegation of women to inferior status in either the public 
+sphere or the family was “no longer consistent with our 
+understanding” of the Constitution. Now, “[t]he 
+Constitution protects all individuals, male or female,” 
+from “the abuse of governmental power” or “unjustified 
+state interference.”  
+  
+So how is it that, as Casey said, our Constitution, read 
+now, grants rights to women, though it did not in 1868? 
+How is it that our Constitution subjects discrimination 
+against them to heightened judicial scrutiny? How is it 
+that our Constitution, through the Fourteenth 
+Amendment's liberty clause, guarantees access to 
+contraception (also not legally protected in 1868) so that 
+women can decide for themselves whether and when to 
+bear a child? How is it that until today, that same 
+constitutional clause protected a woman's right, in the 
+event contraception failed, to end a pregnancy in its 
+earlier stages? 
+  
+The answer is that this Court has rejected the majority's 
+pinched view of how to read our Constitution. “The 
+Founders,” we recently wrote, “knew they were writing 
+a document designed to apply to ever -changing 
+circumstances over centuries.” Or in the words of the 
+great Chief Justice John Marshall, our Constitution is 
+“intended to endure for ages to come,” and must adapt 
+itself to a future “seen dimly,” if at all. McCulloch v. 
+Maryland (1819). That is indeed why our Constitution is 
+written as it is. The Frame rs (both in 1788 and 1868) 
+understood that the world changes. So they did not 
+define rights by reference to the specific practices 
+existing at the time. Instead, the Framers defined rights 
+in general terms, to permit future evolution in their scope 
+and meaning. And over the course of our history, this 
+Court has taken up the Framers' invitation. It has kept 
+true to the Framers' principles by applying them in new 
+ways, responsive to new societal understandings and 
+conditions. 
+  
+*2326 Nowhere has that approach been more prevalent 
+than in construing the majestic but open-ended words of 
+the Fourteenth Amendment—the guarantees of “liberty” 
+and “equality” for all. And nowhere has that approach 
+produced prouder moments, for this country and  the 
+Court. ... The Fourteenth Amendment's ratifiers did not 
+think it gave black and white people a right to marry 
+each other. To the contrary, contemporaneous practice 
+deemed that act quite as unprotected as abortion. Yet the 
+Court in Loving v. Virginia (1967), read the Fourteenth 
+Amendment to embrace the Lovings' union. If, 
+Obergefell explained, “rights were defined by who 
+exercised them in the past, then received practices could 
+serve as their own continued justification”—even when 
+they conflict with “liberty” and “equality” as later and 
+more broadly understood. The Constitution does not 
+freeze for all time the original view of what those rights 
+guarantee, or how they apply. 
+Course Reader Page 84
+
+[PDF PAGE 85]
+For Educational Use Only 
+Dobbs v. Jackson Women's Health Organization, 142 S.Ct. 2228 (2022) 
+213 L.Ed.2d 545, Med & Med GD (CCH) P 307,405, 22 Cal. Daily Op. Serv. 6241... 
+ © 2023 Thomson Reuters. No claim to original U.S. Government Works. 29 
+Th
+at does not mean anything goes. The majority wishes 
+people to think there are but two alternatives: (1) accept 
+the original applications of the Fourteenth Amendment 
+and no others, or (2) surrender to judges' “own ardent 
+views,” ungrounded in law, about the “liberty that 
+Americans should enjoy.” ... For now, our point is 
+different: It is that applications of liberty and equality 
+can evolve while remaining grounded in constitutional 
+principles, constitutional history, and constitutional 
+precedents. The second Justice Harlan discussed how to 
+strike the right balance when he explained why he would 
+have invalidated a State's ban on contraceptive use. 
+Judges, he said, are not “free to roam where unguided 
+speculation might take them.” Poe v. Ullman  (1961) 
+(dissenting opinion). Yet they also must recognize that 
+the constitutional “tradition” of this country is not 
+captured whole at a single moment. Rather, its meaning 
+gains content from the long sweep of our history and 
+from successive judicial precedents —each looking to 
+the last and each seeking to apply the Constitution's most 
+fundamental commitments to new conditions. *2327 
+That is why Americans, to go back to Obergefell’s 
+example, have a right to marry across racial lines. And it 
+is why, to go back to Justice Harlan's case, Americans 
+have a right to use contraceptives so they can choose for 
+themselves whether to have children. 
+All that is what Casey understood. Casey explicitly 
+rejected the present majority's method. “[T]he specific 
+practices of States at the time of the adoption of the 
+Fourteenth Amendment,” Casey stated, do not “mark[ ] 
+the outer limits of the substantive sphere of liberty which 
+the Fourteenth Amendment protects.” To hold 
+otherwise—as the majority does today —“would be 
+inconsistent with our law.” Why? Because the Court has 
+“vindicated [the] principle” over and over that (no 
+matter the sentiment in 1868) “there is a realm of 
+personal liberty which the government may not enter”—
+especially relating to “bodily integrity” and “family 
+life.” 
+And that conclusion still held good, until the Court's 
+intervention here. It was settled at the time of Roe, 
+settled at the time of Casey, and settled yesterday that 
+the Constitution places limits on a State's power to assert 
+control over an individual's body and most personal 
+decisionmaking. A multitude of decisions supporting 
+that principle led to Roe’s recognition and Casey’s 
+reaffirmation of the right to choose; and Roe and Casey 
+in turn supported additional protections for intimate and 
+familial relations. The majority has embarrassingly little 
+to say about those precedents. It (literally) rattles them 
+off in a single paragraph; and it implies that they have 
+nothing to do with each  other, or with the right to 
+terminate an early pregnancy. See ante, at 2257 – 2258, 
+112 S.Ct. 2791 (asserting that recognizing a relationship 
+among them, as addressing aspects of personal 
+autonomy, would ineluctably “license fundamental 
+rights” to illegal “drug use [and] prostitution”). But that 
+is flat wrong. The Court's precedents about bodily 
+autonomy, sexual and familial relations, and procreation 
+are all interwoven —all part of the fabric of our 
+constitutional law, and because that is so, of our lives. 
+Especially women's lives, where they safeguard a right 
+to self-determination. 
+*2328 And eliminating that right, we need to say before
+further describing our precedents, is not taking a
+“neutral” position, as Justice KA V ANAUGH tries to
+ar
+gue. His idea is that neutrality lies in giving t he
+abor
+tion issue to the States, where some can go one way
+and 
+some another. But would he say that the Court is
+being “scrupulously neutral” if it allowed New York and
+Ca
+lifornia to ban all the guns they want? If the Court
+allowed some States to use unanimous juries and others
+not? If the Court told the  States: Decide for yourselves
+whether to put restrictions on church attendance? We
+could go on— and in fact we will. Suppose Justi ce
+KA
+V ANAUGH were to say (in line with the majority
+opinion) that the rights we just listed are more textually
+or
+ historically grounded than the right to choose. What,
+then, of the right to contraception or same-sex marriage?
+Would it be “scrupulously neutral” for the Court to 
+eliminate those rights too? The point of all thes e
+exam
+ples is that when it comes to rights, the Court does
+not act “neutrally” when it leaves everything up to t he
+St
+ates. Rather, the Court acts neutrally when it protects
+Course Reader Page 85
+
+[PDF PAGE 86]
+For Educational Use Only  
+Dobbs v. Jackson Women's Health Organization, 142 S.Ct. 2228 (2022)  
+213 L.Ed.2d 545, Med & Med GD (CCH) P 307,405, 22 Cal. Daily Op. Serv. 6241... 
+  
+ © 2023 Thomson Reuters. No claim to original U.S. Government Works. 30 
+the right against all comers. And to apply that point to 
+the case here: When the Court decimates a right women 
+have held for 50 years, the Court is not being 
+“scrupulously neutral.” It is instead taking sides: against 
+women who wish to exercise the right, and for States 
+(like Mississippi) that want to bar them from doing so. 
+Justice KA V ANAUGH cannot obscure that point by 
+appropriating the rhetoric of even -handedness. His 
+position just is what it is: A brook -no-compromise 
+refusal to recognize a woman's right to choose, from the 
+first day of a pregnancy. And that position, as we will 
+now show, cannot be squared with this Court's 
+longstanding view that women indeed have rights 
+(whatever the state of the world in 1868) to make the 
+most personal and consequential  decisions about their 
+bodies and their lives. 
+  
+Consider first, then, the line of this Court's cases 
+protecting “bodily integrity.” “No right,” in this Court's 
+time-honored view, “is held more sacred, or is more 
+carefully guarded,” than “the right of every individual to 
+the possession and control of his  own person.” ...Casey 
+recognized the “doctrinal affinity” between those 
+precedents and Roe. And that doctrinal affinity is born of 
+a factual likeness. There are few greater incursions on a 
+body than forcing a woman to complete a pregnancy and 
+give birth. For every woman, those experiences involve 
+all manner of physical changes, medical treatmen ts 
+(including the possibility of a cesarean section ), and 
+medical risk. Just as one example, an American woman 
+is 14 times more likely to die by carrying a pregnancy to 
+term than by having an abortion. That women happily 
+undergo those burdens and hazards of their own accord 
+does not lessen how far a State impinges on a woman's 
+body when it compels her to bring a pregnancy to term. 
+And for some women, as Roe recognized, abortions are 
+medically necessary to prevent harm. The majority does 
+not say—which is itself ominous—whether a State may 
+prevent a woman from obtaining an abortion when she 
+and her doctor have determined it is a needed medical 
+treatment. 
+  
+So too, Roe and Casey fit neatly into a long line of 
+decisions protecting from government intrusion a wealth 
+of private choices about family matters, child rearing, 
+intimate relationships, and procreation. Those cases 
+safeguard particular choices about whom to marry; 
+whom to have sex with; what family members to live 
+with; how to raise children—and crucially, whether and 
+when to have children. In varied cases, the Court 
+explained that those choices —“the most intimate and 
+personal” a person can make —reflect fundamental 
+aspects of personal identity; they define the very 
+“attributes of personhood.” And they inevitabl y shape 
+the nature and future course of a person's life (and often 
+the lives of those closest to her). So, the Court held, 
+those choices belong to the individual, and not the 
+government. That is the essence of what liberty requires. 
+  
+And liberty may require it, this Court has repeatedly 
+said, even when those living in 1868 would not have 
+recognized the claim —because they would not have 
+seen the person making it as a full -fledged member of 
+the community. Throughout our history, the sphe re of 
+protected liberty has expanded, bringing in individuals 
+formerly excluded. In that way, the constitutional values 
+of liberty and equality go hand in hand; they do not 
+inhabit the hermetically sealed containers the majority 
+portrays.  
+  
+For much that reason, Casey made clear that the 
+precedents Roe most closely tracked were those 
+involving contraception. Over the course of three cases, 
+the Court had held that a right to use and gain access to 
+contraception was part of the Fourteenth Amendment's 
+guarantee of liberty. See Griswold; Eisenstadt; Carey v. 
+Population Services Int'l . That clause, we explained, 
+necessarily conferred a right “to be free from 
+unwarranted governmental intrusion into matters so 
+fundamentally affecting a person as the decision whether 
+to bear or beget a child.” Casey saw Roe as of a piece: 
+In “critical respects the abortion decision is of the same 
+character.” “[R]easonable people,” the Court noted, 
+could also oppose contraception; and indeed, they could 
+believe that “some forms of contraception” similarly 
+implicate a concern w ith “potential life.” Yet the views 
+of others could not automatically prevail against a 
+woman's right to control her own body and make her 
+Course Reader Page 86
+
+[PDF PAGE 87]
+For Educational Use Only 
+Dobbs v. Jackson Women's Health Organization, 142 S.Ct. 2228 (2022) 
+213 L.Ed.2d 545, Med & Med GD (CCH) P 307,405, 22 Cal. Daily Op. Serv. 6241... 
+ © 2023 Thomson Reuters. No claim to original U.S. Government Works. 31 
+own choice about whether to bear, and probably to raise, 
+a child. When an unplanned pregnancy is involved —
+because either contraception or abortion is outlawed —
+“the liberty of the woman is at stake in a sense unique to 
+the human condition.” No State could u ndertake to 
+resolve the moral questions raised “in such a definitive 
+way” as to deprive a woman of all choice.  
+Faced with all these connections between Roe/Casey and 
+judicial decisions recognizing other constitutional 
+rights, the majority tells everyone not to worry. It can (so 
+it says) neatly extract the right to choose from the 
+constitutional edifice without affecting any associated 
+rights. (Think of someone telling you that the Jenga 
+tower simply will not collapse.) Today's decision, the 
+majority first says, “does not undermine” the decisions 
+cited by Roe and Casey—the ones involving “marriage, 
+procreation, contraception, [and] family 
+relationships”—“in any way.” Note that this first 
+assurance does not extend to rights recognized after Roe 
+and Casey, and partly based on them— in particular, 
+rights to same-sex intimacy and marriage. On *2331 its 
+later tries, though, the majority includes those too: 
+“Nothing in this opinion should be understood to cast 
+doubt on precedents that do not concern abortion.” That 
+right is unique, the majority asserts, “because [abortion] 
+terminates life or potential life.” So the majority depicts 
+today's decision as “a restricted railroad ticket, good for 
+this day and train only.” Should the audience for these 
+too-much-repeated protestations be duly satisfied? We 
+think not. 
+The first problem with the majority's account comes 
+from Justice THOMAS's concurrence —which makes 
+clear he is not with the program. In saying that nothing 
+in today's opinion casts doubt on non -abortion 
+precedents, Justice THOMAS explains, he means only 
+that they are not at issue in this very case. But he lets us 
+know what he wants to do when they are. “[I]n future 
+cases,” he says, “we should reconsider all of this Court's 
+substantive due process precedents, including Griswold, 
+Lawrence, and Obergefell.” And when we reconsider 
+them? Then “we have a duty” to “overrul[e] these 
+demonstrably erroneous decisions.” So at least one 
+Justice is planning to use the ticket of today's decision 
+again and again and again. 
+Even placing the concurrence to the side, the assurance 
+in today's opinion still does not work. Or at least that is 
+so if the majority is serious about its sole reason for 
+overturning Roe and Casey: the legal status of abortion 
+in the 19th century. ... But here is the rub. The law also 
+did not then (and would not for ages) protect a wealth of 
+other things. It did not protect the rights recognized in 
+Lawrence and Obergefell to same- sex intimacy and 
+marriage. It did not protect the right recognized in 
+Loving to marry across racial lines. It did not protect the 
+right recognized in Griswold to contraceptive use. For 
+that matter, it did not protect the right recognized in 
+Skinner v. Oklahoma ex rel. Williamson  not to be 
+sterilized without consent. So if the majority is right in 
+its legal analysis, all those decisions were wrong, and all 
+those matters properly belong to the States too —
+whatever the particular state interests involved. And if 
+that is true, it is impossible to understand (as a matter of 
+logic and principle) how the majority can say that its 
+opinion today does not threaten —does not even 
+“undermine”—any number of other constitutional 
+rights.  
+Nor does it even help just to take the majority at its word. 
+Assume the majority is sincere in saying, for whatever 
+reason, that it will go so far and no further. Scout's honor. 
+Still, the future significance of today's opinion will be 
+decided in the future. And law often has a way of 
+evolving without regard to original intentions—a way of 
+actually following where logic leads, rather than 
+tolerating hard -to-explain lines. Rights can expand in 
+that way. Dissenting in Lawrence, Justice Scalia 
+explained why he took no comfort in the Court's 
+statement that a decision recognizing the right to same -
+sex intimacy did “not involve” same-sex marriage. That 
+could be true, he wrote, “only if one entertains the belief 
+that principle and l ogic have nothing to do with the 
+decisions of this Court.” Score one for the dissent, as a 
+matter of prophecy. And logic and principle are not one-
+way ratchets. Rights can contract in the same way and 
+for the same reason—because whatever today's majority 
+Course Reader Page 87
+
+[PDF PAGE 88]
+For Educational Use Only  
+Dobbs v. Jackson Women's Health Organization, 142 S.Ct. 2228 (2022)  
+213 L.Ed.2d 545, Med & Med GD (CCH) P 307,405, 22 Cal. Daily Op. Serv. 6241... 
+  
+ © 2023 Thomson Reuters. No claim to original U.S. Government Works. 32 
+might say, one thing really does lead to another. We 
+fervently hope that does not happen because of today's 
+decision. We hope that we will not join Justice Scalia in 
+the book of prophets. But we cannot understand how 
+anyone can be confident that today's opinion will be the 
+last of its kind. 
+  
+Consider, as our last word on this issue, contraception. 
+The Constitution, of course, does not mention that word. 
+And there is no historical right to contraception, of the 
+kind the majority insists on. To the contrary, the 
+American legal landscape in the d ecades after the Civil 
+War was littered with bans on the sale of contraceptive 
+devices. So again, there seem to be two choices. If the 
+majority is serious about its historical approach, then 
+Griswold and its progeny are in the line of fire too. Or if 
+it is not serious, then ... what is the basis of today's 
+decision? If we had to guess, we suspect the prospects of 
+this Court approving bans on contraception are low. But 
+once again, the future significance of today's opinion 
+will be decided in the future. At the least, today's opinion 
+will fuel the fight to get contraception, and any other 
+issues with a moral dimension, out of the Fourteenth 
+Amendment and into state legislatures.  
+  
+*2333 Anyway, today's decision, taken on its own, is 
+catastrophic enough. As a matter of constitutional 
+method, the majority's commitment to replicate in 2022 
+every view about the meaning of liberty held in 1868 has 
+precious little to recommend it. Our law in t his 
+constitutional sphere, as in most, has for decades upon 
+decades proceeded differently. It has considered 
+fundamental constitutional principles, the whole course 
+of the Nation's history and traditions, and the step -by-
+step evolution of the Court's precedents. It is disciplined 
+but not static. It relies on accumulated judgments, not 
+just the sentiments of one long -ago generation of men 
+(who themselves believed, and drafted the Constitution 
+to reflect, that the world progresses). And by doing so, it 
+includes those excluded from that olden conversation, 
+rather than perpetuating its bounds. 
+  
+As a matter of constitutional substance, the majority's 
+opinion has all the flaws its method would suggest. 
+Because laws in 1868 deprived women of any control 
+over their bodies, the majority approves States doing so 
+today. Because those laws prevented women from 
+charting the course of their own lives, the majority says 
+States can do the same again. Because in 18 68, the 
+government could tell a pregnant woman —even in the 
+first days of her pregnancy —that she could do nothing 
+but bear a child, it can once more impose that command. 
+Today's decision strips women of agency over what even 
+the majority agrees is a contested and contestable moral 
+issue. It forces her to carry out the State's will, whatever 
+the circumstances and whatever the harm it will wreak 
+on her a nd her family. In the Fourteenth Amendment's 
+terms, it takes away her liberty. Even before we get to 
+stare decisis, we dissent. 
+II 
+By overruling Roe, Casey, and more than 20 cases 
+reaffirming or applying the constitutional right to 
+abortion, the majority abandons stare decisis, a principle 
+central to the rule of law. “Stare decisis” means “to stand 
+by things decided.” Black's Law Dictionary 1696 (11th 
+ed. 2019). Blackstone called it the “established rule to 
+abide by former precedents.” Stare decisis “promotes the 
+evenhanded, predictable, and consistent development of 
+legal principles.” It maintains a stability that allows 
+people to order their lives under the law.  
+  
+Stare decisis also “contributes to the integrity of our 
+constitutional system of government” by ensuring that 
+decisions “are founded in the law rather than in the 
+proclivities of individuals.” As Hamilton wrote: It 
+“avoid[s] an arbitrary discretion in the courts.” The 
+Federalist No. 78, p. 529 (J. Cooke ed. 1961) (A. 
+Hamilton). That is why, the story goes, Chief Justice 
+John *2334 Marshall donned a plain black robe when he 
+swore the oath of office. That act personified an 
+American tradition. Judges' personal preferences do not 
+make law; rather, the law speaks through them. 
+  
+Course Reader Page 88
+
+[PDF PAGE 89]
+For Educational Use Only 
+Dobbs v. Jackson Women's Health Organization, 142 S.Ct. 2228 (2022) 
+213 L.Ed.2d 545, Med & Med GD (CCH) P 307,405, 22 Cal. Daily Op. Serv. 6241... 
+ © 2023 Thomson Reuters. No claim to original U.S. Government Works. 33 
+That means the Court may not overrule a decision, even 
+a constitutional one, without a “special justification.” 
+Stare decisis  is, of course, not an “inexorable 
+command”; it is sometimes appropriate to overrule an 
+earlier decision. But the Court must have a good reason 
+to do so over and above the belief “that the precedent 
+was wrongly decided.” “[I]t is not alone sufficient that 
+we would decide a case differently now than we did 
+then.”  
+The majority today lists some 30 of our cases as 
+overruling precedent, and argues that they support 
+overruling Roe and Casey. In some, the Court only 
+partially modified or clarified a precedent. And in the 
+rest, the Court relied on one or more of the traditional 
+stare decisis  factors in reaching its conclusion. The 
+Court found, for example, (1) a change in legal doctrine 
+that undermined or made obsolete the earlier decision; 
+(2)
+a factual change that had the same effect; or (3) an
+absence of reliance because the earlier decision was less
+than a decade old. None of those factors apply here :
+No
+thing—and in particular, no significant legal or
+factual change—supports overturning a half -century of
+settled law giving women control over their reproductive
+lives. First, for all the reasons we have given, Roe and
+Ca
+sey were correct. In holding that a State could not
+“resolve” the debate about abortion “in such a definitive
+wa
+y that a woman lacks all choice in the matter,” the
+Court protected women's liberty and women's equality
+in a way comporting with our Fourteenth Ame ndment
+precedents. Contrary to the majority's view, the legal
+status of abortion in the 19th century does not weaken
+those decisions. And the majority's repeated refrain
+about “usurp[ing]” state legislatures' “power to address”
+a 
+publicly contested question does not help it on the key
+issu
+e here. To repeat: The point of a right is to shield 
+individual actions and decisions “from the vicissitude s
+of
+ political controversy, to place them beyond the reach
+of
+ majorities and officials and to establish them as legal
+principles to be applied by the courts.” However
+divisive, a right is not at the people's mercy.
+In any event “[w]hether or not we ... agree” with a prior 
+precedent is the beginning, not the end, of our analysis—
+and the remaining “principles of stare decisis weigh 
+heavily against overruling” Roe and Casey. Casey itself 
+applied those principles, in one of this Court's most 
+important precedents about precedent. After assessing 
+the traditional stare decisis factors, Casey reached the 
+only conclusion possible —that stare decisis  operates 
+powerfully here. It still does. The standards Roe and 
+Casey set out are perfectly workable. No changes in 
+either law or fact have eroded the two decisions. And 
+tens of millions of American women have *2335 relied, 
+and continue to rely, on the right to choose. So under 
+traditional stare decisis principles, the majority has no 
+special justification for the harm it causes. 
+And indeed, the majority comes close to conceding that 
+point. The majority barely mentions any legal or factual 
+changes that have occurred since Roe and Casey. It 
+suggests that the two decisions are hard for courts to 
+implement, but cannot prove its case. In the end, the 
+majority says, all it must say to override stare decisis is 
+one thing: that it believes Roe and Casey “egregiously 
+wrong.” That rule could equally spell the end of any 
+precedent with which a bare majority of the present 
+Court disagrees. So how does that approach prevent the 
+“scale of justice” from “waver[ing] with every new 
+judge's opinion”? It does not. It makes radical change 
+too easy and too fast, based on nothing more than the 
+new views of new judges. The majority has overruled 
+Roe and Casey for one and only one reason: because it 
+has always despised them, and now it has the votes to 
+discard them. The majority thereby substitutes a rule by 
+judges for the rule of law. 
+A 
+Contrary to the majority's view, there is nothing 
+unworkable about Casey’s “undue burden” standard. Its 
+primary focus on whether a State has placed a 
+“substantial obstacle” on a woman seeking an abortion 
+is “the sort of inquiry familiar to judges across a variety 
+of contexts.” And it has given rise to no more conflict in 
+Course Reader Page 89
+
+[PDF PAGE 90]
+For Educational Use Only  
+Dobbs v. Jackson Women's Health Organization, 142 S.Ct. 2228 (2022)  
+213 L.Ed.2d 545, Med & Med GD (CCH) P 307,405, 22 Cal. Daily Op. Serv. 6241... 
+  
+ © 2023 Thomson Reuters. No claim to original U.S. Government Works. 34 
+application than many standards this Court and others 
+unhesitatingly apply every day. 
+  
+General standards, like the undue burden standard, are 
+ubiquitous in the law, and particularly in constitutional 
+adjudication. When called on to give effect to the 
+Constitution's broad principles, this Court often crafts 
+flexible standards that can be appl ied case-by-case to a 
+myriad of unforeseeable circumstances. The Casey 
+undue burden standard is the same. It also resembles 
+general standards that courts work with daily in other 
+legal spheres—like the “rule of reason” in antitrust law 
+or the “arbitrary and capricious” standard for agency 
+decisionmaking. Applying general stan dards to 
+particular cases is, in many contexts, just what it means 
+to do law. 
+  
+And the undue burden standard has given rise to no 
+unusual difficulties. Of course, it has provoked some 
+disagreement among judges. Casey knew it would: That 
+much “is to be expected in the application of any legal 
+standard which must accommodate life's complexity.” 
+Which is to say: That much is to be expected in the 
+application of any legal standard. But the majority vastly 
+overstates the di visions among judges applying the 
+standard. ... 
+  
+Anyone concerned about workability should consider 
+the majority's substitute standard. The majority says a 
+law regulating or banning abortion “must be sustained if 
+there is a rational basis on which the legislature could 
+have thought that it would serve le gitimate state 
+interests.” And the majority lists interests like “respect 
+for and preservation of prenatal life,” “protection of 
+maternal health,” elimination of certain “medical 
+procedures,” “mitigation of fetal pain,” and others. This 
+Court will surely f ace critical questions about how that 
+test applies. Must a state law allow abortions when 
+necessary to protect a woman's life and health? And if 
+so, exactly when? How much risk to a woman's life can 
+a State force her to incur, before the Fourteenth 
+Amendment's protection of life kicks in? Suppose a 
+patient with pulmonary hypertension  has a 30- to-50 
+percent risk of dying with ongoing pregnancy; is that 
+enough? And short of death, how much illness or injury 
+can the State require her to accept, consistent with the 
+Amendment's protection of liberty and *2337 equality? 
+Further, the Court may face questions about the 
+application of abortion regulations to medical care most 
+people view as quite different from abortion. What about 
+the morning-after pill? IUDs? In vitro fertilization? And 
+how about the use of dila tion and evacuation or 
+medication for miscarriage management?  
+  
+Finally, the majority's ruling today invites a host of 
+questions about interstate conflicts. Can a State bar 
+women from traveling to another State to obtain an 
+abortion? Can a State prohibit advertising out -of-state 
+abortions or helping women get to out -of-state 
+providers? Can a State interfere with the mailing of 
+drugs used for medication abortions? The Constitution 
+protects travel and speech and interstate commerce, so 
+today's ruling will give rise to a host of new 
+constitutional questions. Far from remov ing the Court 
+from the abortion issue, the majority puts the Court at 
+the center of the coming “interjurisdictional abortion 
+wars.”  
+  
+In short, the majority does not save judges from 
+unwieldy tests or extricate them from the sphere of 
+controversy. To the contrary, it discards a known, 
+workable, and predictable standard in favor of 
+something novel and probably far more complicated. It 
+forces the Court to wade further into hotly contested 
+issues, including moral and philosophical ones, that the 
+majority criticizes Roe and Casey for addressing. 
+B 
+When overruling constitutional precedent, the Court has 
+almost always pointed to major legal or factual changes 
+undermining a decision's original basis. ...But it is not so 
+today. Although nodding to some arguments others have 
+made about “modern developments,” the majority does 
+not really rely on them, no doubt seeing their slimness. 
+The majority briefly invokes the current controversy 
+Course Reader Page 90
+
+[PDF PAGE 91]
+For Educational Use Only 
+Dobbs v. Jackson Women's Health Organization, 142 S.Ct. 2228 (2022) 
+213 L.Ed.2d 545, Med & Med GD (CCH) P 307,405, 22 Cal. Daily Op. Serv. 6241... 
+ © 2023 Thomson Reuters. No claim to original U.S. Government Works. 35 
+over abortion. But it has to acknowledge that the same 
+dispute has existed for decades: Conflict *2338 over 
+abortion is not a change but a constant. In the end, the 
+majority throws longstanding precedent to the winds 
+without showing that anything significant has changed 
+to justify its radical reshaping of the law.  
+Subsequent legal developments have only reinforced 
+Roe and Casey. ...  
+Moreover, no subsequent factual developments have 
+undermined Roe and Casey. Women continue to 
+experience unplanned pregnancies and unexpected 
+developments in pregnancies. Pregnancies continue to 
+have enormous physical, social, and economic 
+consequences. Even an uncomplicated pregnancy 
+imposes significant strain on the body, unav oidably 
+involving significant physiological change and 
+excruciating pain. For some women, pregnancy and 
+childbirth can mean life -altering physical ailments or 
+even death. Today, as noted earlier, the risks of carrying 
+a pregnancy to term dwarf those of hav ing an abortion. 
+Experts estimate that a ban on abortions increases 
+maternal mortality by 21 percent, with white women 
+facing a 13 percent increase in maternal mortality while 
+black women face a 33 percent increase. Pregnancy and 
+childbirth may also impose  large-scale financial costs. 
+The majority briefly refers to arguments about changes 
+in laws relating to healthcare coverage, pregnancy 
+discrimination, and family leave. Many women, 
+however, still do not have adequate healthcare coverage 
+before and after p regnancy; and, even when insurance 
+coverage is available, healthcare services may be far 
+away. *2339 Women also continue to face pregnancy 
+discrimination that interferes with their ability to earn a 
+living. Paid family leave remains inaccessible to many 
+who need it most. Only 20 percent of private -sector 
+workers have access to paid family leave, including a 
+mere 8 percent of workers in the bottom quartile of wage 
+earners.  
+The majority briefly notes the growing prevalence of 
+safe haven laws and demand for adoption, but, to the 
+degree that these are changes at all, they too are 
+irrelevant. Neither reduces the health risks or financial 
+costs of going through pregnancy and childbirth. 
+Moreover, the choice to give up parental rights after 
+giving birth is altogether different from the choice not to 
+carry a pregnancy to term. The reality is that few women 
+denied an abortion will choose adoption. The vast 
+majority will continue, just as in Roe and Casey’s time, 
+to shoulder the costs of childrearing. Whether or not they 
+choose to parent, they will experience the profound loss 
+of autonomy and dignity that coerced pregnancy and 
+birth always impose.  
+Mississippi's own record illustrates how little facts on 
+the ground have changed since Roe and Casey, 
+notwithstanding the majority's supposed “modern 
+developments.” Sixty -two percent of pregnancies in 
+Mississippi are unplanned, yet Mississippi does not 
+require insurance to cover contraceptives and prohibits 
+educators from demonstrating proper contraceptive use. 
+The State *2340 neither bans pregnancy discrimination 
+nor requires provision of paid parental leave. It has strict 
+eligibility requirements for Medicaid and nutrition 
+assistance, leaving many women and families without 
+basic medical care or enough food. Although 86 percent 
+of pregnancy- related deaths in the State are due to 
+postpartum complications, Mississippi rejected federal 
+funding to provide a year's worth of Medicaid coverage 
+to women after giving birth. Perhaps unsurprisingly, 
+health outcomes in Mississippi are abysmal for both 
+women and children. Mississippi has the highest infant 
+mortality rate in the country, and some of the highest 
+rates for preterm birth , low birthweight, cesarean 
+section, and maternal death. It is approximately 75 times 
+more dangerous for a woman in the State to carry a 
+pregnancy to term than to have an abortion. We do not 
+say that every State is Mississippi, and we are sure some 
+have made gains since Roe and Casey in providing 
+support for women and children. But a state -by-state 
+analysis by public health professionals shows that States 
+with the most restrictive abortion policies also continue 
+to invest the least in women's and children's health.  
+The only notable change we can see since Roe and Casey 
+cuts in favor of adhering to precedent: It is that American 
+Course Reader Page 91
+
+[PDF PAGE 92]
+For Educational Use Only  
+Dobbs v. Jackson Women's Health Organization, 142 S.Ct. 2228 (2022)  
+213 L.Ed.2d 545, Med & Med GD (CCH) P 307,405, 22 Cal. Daily Op. Serv. 6241... 
+  
+ © 2023 Thomson Reuters. No claim to original U.S. Government Works. 36 
+abortion law has become more and more aligned with 
+other nations. The majority, like the Mississippi 
+Legislature, claims that the United States is an extreme 
+outlier when it comes to abortion regulation. The global 
+trend, however, has been toward increased provision of 
+legal and safe abortion care. A number of countries, 
+including New Zealand, the Netherlands, and Iceland, 
+permit abortions up to a roughly similar time as Roe and 
+Casey set. Canada has decriminalized abortion at any 
+point in a pregnancy. Most Western European countries 
+impose restrictions on abortion after 12 to 14 weeks, but 
+they often have liberal exceptions to those time limits, 
+including to prevent harm to a woman's p hysical or 
+mental health. They also typically make access to early 
+abortion easier, for example, by helping cover its cost. 
+Perhaps most notable, *2341 more than 50 countries 
+around the world —in Asia, Latin America, Africa, and 
+Europe—have expanded access to abortion in the past 
+25 years. In light of that worldwide liberalization of 
+abortion laws, it is American States that will become 
+international outliers after today. 
+  
+In sum, the majority can point to neither legal nor factual 
+developments in support of its decision. Nothing that has 
+happened in this country or the world in recent decades 
+undermines the core insight of Roe and Casey. It 
+continues to be true that, within the constraints those 
+decisions established, a woman, not the government, 
+should choose whether she will bear the burdens of 
+pregnancy, childbirth, and parenting. 
+C 
+The reasons for retaining Roe and Casey gain further 
+strength from the overwhelming reliance interests those 
+decisions have created. The Court adheres to precedent 
+not just for institutional reasons, but because it 
+recognizes that stability in the law is “an essential thread 
+in the mantle of pro tection that the law affords the 
+individual.” Casey understood that to deny individuals' 
+reliance on Roe was to “refuse to face the fact[s].” Today 
+the majority refuses to face the facts. “The most striking 
+feature of the [majority] is the absence of any serious 
+discussion” of how its ruling will affect women. By 
+characterizing Casey’s reliance arguments as 
+“generalized assertions about the national psyche,” it 
+reveals how little it knows or cares about women's lives 
+or about the suffering its decision will cause. 
+  
+In Casey, the Court observed that for two decades 
+individuals “have organized intimate relationships and 
+made” significant life choices “in reliance on the 
+availability of abortion in the event that contraception 
+should fail.” Over another 30 years, that reliance has 
+solidified. For half a century now, in Casey’s words, 
+“[t]he ability of women to participate equally in the 
+economic and social life of the Nation has been 
+facilitated by their ability to control their reproductive 
+lives.” Indeed, all women now of childbearing age have 
+grown up expecting that they would be able to avail 
+themselves of Roe’s and Casey’s protections. 
+  
+The disruption of overturning Roe and Casey will 
+therefore be profound. Abortion is a common medical 
+procedure and a familiar experience in women's lives. 
+About 18 percent of pregnancies in this country end in 
+abortion, and about one quarter of *2344 American 
+women will have an abortion before the age of 45. Those 
+numbers reflect the predictable and life-changing effects 
+of carrying a pregnancy, giving birth, and becoming a 
+parent. As Casey understood, people today rely on their 
+ability to control and time pregnancies when making 
+countless life decisions: where to live, whether and how 
+to invest in education or careers, how to allocate 
+financial resources, and how to approach intimate and 
+family relationships. Women may count on abortion 
+access for when contraception fails. They may count on 
+abortion access for when contraception cannot be used, 
+for example, if they were raped. They may count on 
+abortion for when something changes in the mids t of a 
+pregnancy, whether it involves family or financial 
+circumstances, unanticipated medical complications, or 
+heartbreaking fetal diagnoses. Taking away the right to 
+abortion, as the majority does today, destroys all those 
+individual plans and expectati ons. In so doing, it 
+diminishes women's opportunities to participate fully 
+Course Reader Page 92
+
+[PDF PAGE 93]
+For Educational Use Only 
+Dobbs v. Jackson Women's Health Organization, 142 S.Ct. 2228 (2022) 
+213 L.Ed.2d 545, Med & Med GD (CCH) P 307,405, 22 Cal. Daily Op. Serv. 6241... 
+ © 2023 Thomson Reuters. No claim to original U.S. Government Works. 37 
+and equally in the Nation's political, social, and 
+economic life.  
+The majority's response to these obvious points exists far 
+from the reality American women actually live. The 
+majority proclaims that “ reproductive planning could 
+take virtually immediate account of any sudden 
+restoration of state authority to ban abortions.” The facts 
+are: 45 percent of pregnancies in the United States are 
+unplanned. Even the most effective contraceptives fail, 
+and effective contraceptives are not universally 
+accessible. Not all sexual activity is consensual and not 
+all contraceptive choices are made by the party who risks 
+pregnancy. The Mississippi law at issue here, for 
+example, has no exception for rape or incest, even for 
+underage women. Finally, the majority ignores, as 
+explained above, that some women decide to have an 
+abortion because their circumstances change during a 
+pregnancy. Human bodies care little for hopes and plans. 
+Events can occur after conception, from unexpected 
+medical risks to changes in family circumstances, which 
+profoundly alter what it means to carry a pregnancy to 
+term. In all these situations, women have expected that 
+they will get to decide, perhaps in consultation with their 
+families or doctors but free from state interference, 
+whether to continue a pregnancy. For those who will 
+now have to undergo that pregnancy, the loss of Roe and 
+Casey could be disastrous. 
+That is especially so for women without money. When 
+we “count[ ] the cost of [Roe’s] repudiation” on women 
+who once relied on that decision, it is not hard to see 
+*2345 where the greatest burden will fall. In States that
+bar abortion, women of means will still be able to travel
+to obtain the services they need. It is women who cannot
+af
+ford to do so who will suffer most. These are t he
+wo
+men most likely to seek abortion c are in the first
+place. Women living below the federal poverty li ne
+exper
+ience unintended pregnancies at rates five times
+higher than higher income women do, and nearly half of
+women who seek abortion care live in households below
+th
+e poverty line. Ev en with Roe’s protection, these
+women face immense obstacles to raising the money
+needed to obtain abortion care early in their pregnancy.
+After today, in States where legal abortions are not 
+available, they will lose any ability to obtain safe, legal 
+abortion care. They will not have the money to make the 
+trip necessary; or to obtain childcare for that time; or to 
+take time off work. Many will endure the costs and risks 
+of pregnancy and giving birth against their wishes. 
+Others will turn in desperation to illegal and unsafe 
+abortions. They may lose not just their freedom, but their 
+lives.  
+Finally, the expectation of reproductive control is 
+integral to many women's identity and their place in the 
+Nation. That expectation helps define a woman as an 
+“equal citizen[ ],” with all the rights, privileges, and 
+obligations that status entails. It re flects that she is an 
+autonomous person, and that society and the law 
+recognize her as such. Like many constitutional rights, 
+the right to choose situates a woman in relationship to 
+others and to the government. It helps define a *2346 
+sphere of freedom, in which a person has the capacity to 
+make choices free of government control. As Casey 
+recognized, the right “order[s]” her “thinking” as well as 
+her “living.” Beyond any individual choice about 
+residence, or education, or career, her whole life reflects 
+the control and authority that the right grants. 
+Withdrawing a woman's right to choose whether to 
+continue a pregnancy does not mean that no choice is 
+being made. It means that a majority of today's Court has 
+wrenched this choice from women and given it to the 
+States. To allow a State to exert control over one of “the 
+most intimate and personal choices” a woman may make 
+is not only to affect the course of her life, monumental 
+as those effects might be It is to alter her “views of 
+[herself]” and her understanding of her “place[ ] in 
+society” as someone wit h the recognized dignity and 
+authority to make these choices. Women have relied on 
+Roe and Casey in this way for 50 years. Many have never 
+known anything else. When Roe and Casey disappear, 
+the loss of power, control, and dignity will be immense. 
+The Court's failure to perceive the whole swath of 
+expectations Roe and Casey created reflects an 
+impoverished view of reliance. According to the 
+Course Reader Page 93
+
+[PDF PAGE 94]
+For Educational Use Only  
+Dobbs v. Jackson Women's Health Organization, 142 S.Ct. 2228 (2022)  
+213 L.Ed.2d 545, Med & Med GD (CCH) P 307,405, 22 Cal. Daily Op. Serv. 6241... 
+  
+ © 2023 Thomson Reuters. No claim to original U.S. Government Works. 38 
+majority, a reliance interest must be “very concrete,” like 
+those involving “property” or “contract.”. While many 
+of this Court's cases addressing reliance have been in the 
+“commercial context,” none holds that interests must be 
+analogous to commercial one s to warrant stare decisis 
+protection. This unprecedented assertion is, at bottom, a 
+radical claim to power. By disclaiming any need to 
+consider broad swaths of individuals' interests, the Court 
+arrogates to itself the authority to overrule established 
+legal principles without even acknowledging the costs of 
+its decisions for the individuals who live under the law, 
+costs that this Court's stare decisis doctrine instructs us 
+to privilege when deciding whether to change course. 
+  
+The majority claims that the reliance interests women 
+have in Roe and Casey are too “intangible” for the Court 
+to consider, even if it were inclined to do so. This is to 
+ignore as judges what we know as men and women. The 
+interests women have in Roe and Casey are perfectly, 
+viscerally concrete. ... 
+   
+After today, young women will come of age with fewer 
+rights than their mothers and grandmothers had. The 
+majority accomplishes that result without so much as 
+considering how women have relied on the right to 
+choose or what it means to take that right away.  The 
+majority's refusal even to consider the life -altering 
+consequences of reversing Roe and Casey is a stunning 
+indictment of its decision. 
+D 
+One last consideration counsels against the majority's 
+ruling: the very controversy surrounding Roe and Casey. 
+The majority accuses Casey of acting outside the bounds 
+of the law to quell the conflict over abortion —of 
+imposing an unprincipled “settlement” of the issue in an 
+effort to end “national division.” But that is not what 
+Casey did. As shown above, Casey applied traditional 
+principles of stare decisis —which the majority today 
+ignores—in reaffirming Roe. Casey carefully assessed 
+changed circumstances (none) and reliance interests 
+(profound). It considered every aspect of how Roe’s 
+framework operated. It adhered to the law in its analysis, 
+and it reached the conclusion that the law required. True 
+enough that Casey took notice of the “national 
+controversy” about abortion: ... Casey addressed the 
+national controversy in order to emphasize how 
+important it was, in that case of all cases, *2348 for the 
+Court to stick to the law.  
+   
+Here, more than anywhere, the Court needs to apply the 
+law—particularly the law of stare decisis . Here, we 
+know that citizens will continue to contest the Court's 
+decision, because “[m]en and women of good 
+conscience” deeply disagree about abortion. When that 
+contestation takes place —but when there is no legal 
+basis for reversing course —the Court nee ds to be 
+steadfast, to stand its ground. That is what the rule of law 
+requires. And that is what respect for this Court depends 
+on. 
+  
+“The promise of constancy, once given” in so charged 
+an environment, Casey explained, “binds its maker for 
+as long as” the “understanding of the issue has not 
+changed so fundamentally as to render the commitment 
+obsolete.” A breach of that promise is “nothing less than 
+a breach of faith.” “[A]nd no Court that broke its faith 
+with the people could sensibly expect credit for 
+principle.” No Court breaking its faith in that way would 
+deserve credit for principle. As one of Casey’s authors 
+wrote in another case, “Our legitimacy requires, above 
+all, that we adhere to stare decisis” in “sensitive political 
+contexts” where “partisan controversy abounds.”  
+  
+Justice Jackson once called a decision he dissented from 
+a “loaded weapon,” ready to hand for improper uses. 
+Korematsu v. United States (1944). We fear that today's 
+decision, departing from stare decisis for no legitimate 
+reason, is its own loaded weapon. Weakening stare 
+decisis threatens to upend bedrock legal doctrines, far 
+beyond any single decision. Weakening stare decisis 
+creates profound legal instability. And as Casey 
+recognized, weakening stare decisis in a hotly contested 
+case like this one calls into question this Court's 
+commitment to legal principle. It makes the Court 
+Course Reader Page 94
+
+[PDF PAGE 95]
+For Educational Use Only 
+Dobbs v. Jackson Women's Health Organization, 142 S.Ct. 2228 (2022) 
+213 L.Ed.2d 545, Med & Med GD (CCH) P 307,405, 22 Cal. Daily Op. Serv. 6241... 
+ © 2023 Thomson Reuters. No claim to original U.S. Government Works. 39 
+appear not restrained but aggressive, not modest but 
+grasping. In all those ways, today's decision takes aim, 
+we fear, at the rule of law. 
+III 
+“Power, not reason, is the new currency of this Court's 
+decisionmaking.” Roe has stood for fifty years. Casey, a 
+precedent about precedent specifically confirming Roe, 
+has stood for thirty. And the doctrine of stare decisis—a 
+critical element of the rule of law —stands foursquare 
+behind their continued existence. The right those 
+decisions established and preserved is embedded in our 
+constitutional law, both originating in and leading to 
+other rights protecting bodily *2349 integrity, personal 
+autonomy, and family relationships. The abortion right 
+is also embedded in the lives of women —shaping their 
+expectations, influencing their choices about 
+relationships and work, supporting (as all reproductive 
+rights do) their social a nd economic equality. Since the 
+right's recognition (and affirmation), nothing has 
+changed to support what the majority does today. 
+Neither law nor facts nor attitudes have provided any 
+new reasons to reach a different result than Roe and 
+Casey did. All that has changed is this Court. 
+Mississippi—and other States too —knew exactly what 
+they were doing in ginning up new legal challenges to 
+Roe and Casey. The 15- week ban at issue here was 
+enacted in 2018. Other States quickly followed: 
+Between 2019 and 2021, eight States banned abortion 
+procedures after six to eight weeks of pregnancy, and 
+three States enacted all -out bans. Mississippi itself 
+decided in 2019 that it had not gone far enough: The year 
+after enacting the law under review, the State passed a 6-
+week restriction. A state senator who championed both 
+Mississippi laws said the obvious out loud. “[A] lot of 
+people thought,” he explained, that “finally, we have” a 
+conservative Court “and so now would be a good time 
+to start testing the limits of Roe.”  
+Now a new and bare majority of this Court —acting at 
+practically the first moment possible —overrules Roe 
+and Casey. It converts a series of dissenting opinions 
+expressing antipathy toward Roe and Casey into a 
+decision greenlighting even total abortion bans. It 
+eliminates a 50 -year-old constitutional right that 
+safeguards women's freedom and equal station. It 
+breaches a core rule -of-law principle, designed to 
+promote constancy in the law. In doing all of  that, it 
+places in jeopardy other rights, from contraception to 
+same-sex intimacy and marriage. And finally, it 
+undermines the Court's legitimacy. 
+Casey itself made the last point in explaining why it 
+would not overrule Roe—though some members of its 
+majority might not have joined Roe in the first instance. 
+“[T]he Court,” Casey explained, “could not pretend” 
+that overruling Roe had any “justification beyond a 
+present doctrinal disposition to come out differently 
+from the Court of 1973.” And to overrule for that reason? 
+Quoting Justice Stewart, Casey explained that to do so—
+to reverse prior law “upon a ground no firmer than a 
+change in [the Court's] membership”—would invite the 
+view that “this institution is little different from the two 
+political branches of the Government.” No view, Casey 
+thought, could do “more lasting injury to this Court and 
+to the system of law which it is our abiding mission to 
+serve.” For overruling Roe, Casey concluded, the Court 
+would pay a “terrible price.”  
+The Justices who wrote those words —O'Connor, 
+Kennedy, and Souter —they were judges of wisdom. 
+They would not have won any contests for the kind of 
+ideological purity some court watchers want Justices to 
+deliver. But if there were awards for Justices who lef t 
+this Court better than they found it? And who for that 
+reason left this country better? And the rule of law 
+stronger? Sign those Justices up. 
+They knew that “the legitimacy of the Court [is] earned 
+over time.” They also would have recognized that it can 
+be destroyed much more quickly. They worked hard to 
+avert that outcome in Casey. The American public, they 
+thought, should never conclude that its constitutional 
+Course Reader Page 95
+
+[PDF PAGE 96]
+For Educational Use Only  
+Dobbs v. Jackson Women's Health Organization, 142 S.Ct. 2228 (2022)  
+213 L.Ed.2d 545, Med & Med GD (CCH) P 307,405, 22 Cal. Daily Op. Serv. 6241... 
+  
+ © 2023 Thomson Reuters. No claim to original U.S. Government Works. 40 
+protections hung by a thread —that a new majority, 
+adhering to a new “doctrinal school,” could “by dint of 
+numbers” alone expunge their rights. It is hard—no, it is 
+impossible—to conclude that anything else has 
+happened here. One of us once said that “[i]t is not often 
+in the law that so few have so quickly changed so much.” 
+For all of us, in our time on this Court, that has never 
+been more true than today. In overruling Roe and Casey, 
+this Court betrays its guiding principles. 
+  
+With sorrow—for this Court, but more, for the many 
+millions of American women who have today lost a 
+fundamental constitutional protection—we dissent. 
+Course Reader Page 96
+
+[PDF PAGE 97]
+Course Reader Page 97
