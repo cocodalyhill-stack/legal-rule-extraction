@@ -1,6 +1,0 @@
-requests>=2.32,<3
-python-dotenv>=1.0,<2
-pypdf>=5,<7
-pandas>=2.2,<4
-matplotlib>=3.9,<4
-jsonschema>=4.23,<5
