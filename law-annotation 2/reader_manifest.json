@@ -1,0 +1,46 @@
+{
+  "source": "2026 - Liebert Intro Course Reader .pdf",
+  "description": "Page ranges verified against the supplied reader's table of contents and case headers. PDF pages are one-based. All cases are edited excerpts. Blank footer-only separator pages after each case are excluded.",
+  "cases": [
+    {
+      "label": "Skinner",
+      "start_page": 3,
+      "end_page": 5
+    },
+    {
+      "label": "Griswold",
+      "start_page": 7,
+      "end_page": 13
+    },
+    {
+      "label": "Eisenstadt",
+      "start_page": 15,
+      "end_page": 16
+    },
+    {
+      "label": "Roe",
+      "start_page": 18,
+      "end_page": 31
+    },
+    {
+      "label": "Casey",
+      "start_page": 33,
+      "end_page": 55
+    },
+    {
+      "label": "Dobbs",
+      "start_page": 57,
+      "end_page": 96
+    },
+    {
+      "label": "Valley Hospital",
+      "start_page": 98,
+      "end_page": 103
+    },
+    {
+      "label": "Hodes & Nauser",
+      "start_page": 105,
+      "end_page": 130
+    }
+  ]
+}
